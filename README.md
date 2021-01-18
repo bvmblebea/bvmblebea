@@ -8,7 +8,7 @@
 - 🃏 HTML/Soon
 - 🃏 Adobe Photoshop
 - 🃏 Pypi
-### - Hobbies : 
+### Hobbies : 
 - 🎲 Gaming
 - 🎲 Watching Anime
 - 🎲 Music
