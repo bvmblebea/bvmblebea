@@ -1,6 +1,6 @@
 ### Konichiwa
 
-# About ME 💬 :
+### About ME 💬 :
 ### - im amino coder 
 ### Learning 🛹 :
 - 🃏 Python 3 
