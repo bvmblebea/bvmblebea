@@ -21,3 +21,5 @@
 - 🎲 Watching Anime
 - 🎲 Music
 - 🎲 Coding/Programming
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi)](https://github.com/anuraghazra/github-readme-stats)
