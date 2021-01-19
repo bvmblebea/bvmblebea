@@ -22,5 +22,4 @@
 - 🎲 Music
 - 🎲 Coding/Programming
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=dark)
