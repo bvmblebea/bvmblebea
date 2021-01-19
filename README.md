@@ -21,5 +21,8 @@
 - 🎲 Watching Anime
 - 🎲 Music
 - 🎲 Coding/Programming
-
+# Contact Me :
+- YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ
+- Telegram: @xxlanzz
+- Amino: http://aminoapps.com/p/a9wcypm
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=dark)
