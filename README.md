@@ -23,6 +23,6 @@
 - 🎲 Coding/Programming
 # Contact Me :
 - YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ
-- Telegram: @xxlanzz
+- Telegram: @BoZevi
 - Instagram: lil_zevi
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=dark)
