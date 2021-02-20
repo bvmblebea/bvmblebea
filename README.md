@@ -21,7 +21,6 @@
 - 🎲 Watching Anime
 - 🎲 Music
 - 🎲 Coding/Programming
-### Stack
 # Contact Me :
 - YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ
 - Telegram: @BoZevi
