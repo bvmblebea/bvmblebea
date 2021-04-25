@@ -22,7 +22,7 @@
 - 🎲 `Coding/Programming`
 # Contact Me :
 - `YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ`
-- `Telegram: `@NowNameBo
-- `Instagram: `lil_zevi
+- `Telegram: @NowNameBo`
+- `Instagram: lil_zevi`
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=dark)
