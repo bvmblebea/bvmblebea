@@ -11,11 +11,10 @@
 # About ME 💬 :
 ## -  Hello i'm Langa/Zevi
 ### Learning 🛹 :
-- 🃏 Python 3 
+- 🃏 JavaScript
 - 🃏 Fl Studio
-- 🃏 PHP,JAVASCRIPT/Soon
-- 🃏 Adobe Photoshop
-- 🃏 Pypi
+### Stack :
+- 🃏 Python
 ### Hobbies : 
 - 🎲 Gaming
 - 🎲 Watching Anime
