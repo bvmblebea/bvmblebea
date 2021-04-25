@@ -9,20 +9,20 @@
 
 
 # About ME 💬 :
-## -  Hello i'm Langa/Zevi
+## - `Hello i'm Langa/Zevi`
 ### Learning 🛹 :
-- 🃏 JavaScript
-- 🃏 Fl Studio
+- 🃏 `JavaScript`
+- 🃏 `Fl Studio`
 ### Stack :
-- 🃏 Python
+- 🃏 `Python`
 ### Hobbies : 
-- 🎲 Gaming
-- 🎲 Watching Anime
-- 🎲 Music
-- 🎲 Coding/Programming
+- 🎲 `Gaming`
+- 🎲 `Watching Anime`
+- 🎲 `Music`
+- 🎲 `Coding/Programming`
 # Contact Me :
-- YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ
-- Telegram: @BoZevi
-- Instagram: lil_zevi
+- `YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ`
+- `Telegram: `@NowNameBo
+- `Instagram: `lil_zevi
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=dark)
