@@ -14,7 +14,8 @@
 - 🃏 `JavaScript`
 - 🃏 `Fl Studio`
 ### Stack :
-- 🃏 `Python`
+- 🃏 `Python 3`
+- 🃏 `JavaScript`
 ### Hobbies : 
 - 🎲 `Gaming`
 - 🎲 `Watching Anime`
