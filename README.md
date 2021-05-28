@@ -26,4 +26,4 @@
 - `Telegram: @NowNameBo`
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=dark)
-![](https://komarev.com/ghpvc/?username=LilZevi&color=000000&style=plastic&label=CheckThatShit)
+![](https://komarev.com/ghpvc/?username=LilZevi&color=000000&style=plastic&label=viewers)
