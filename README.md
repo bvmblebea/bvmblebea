@@ -12,7 +12,7 @@
 </p>
 
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![lua](https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=white&labelColor=000000)
+![nodejs](https://img.shields.io/badge/-node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 
