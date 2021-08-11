@@ -5,7 +5,7 @@
 # `Wassup`
 # About ME 💬 :
 - `Hello i'm Zevi`
-- 🃟 `I love watching anime, making beats in fruity loops and reading manga. I'm programming on python 3 and learning lua`
+- 🃟 `I love watching anime, making beats in fruity loops and reading manga. I'm programming on python 3 and learning C# And Java`
 <details>
   <summary><b>Stack: </b></summary>
 <p align="center">
