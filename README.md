@@ -41,6 +41,6 @@
 </p>
 
 - `YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ`
-- `Telegram: @katharzis`
+- `Telegram: @FFuckEmWeBall`
 
 </details>
