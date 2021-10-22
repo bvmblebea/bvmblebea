@@ -1,10 +1,10 @@
 # Statistics:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LilZevi&show_icons=true&theme=dark)
-![](https://komarev.com/ghpvc/?username=LilZevi&color=000000&style=plastic&label=viewers)
+![github stats](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark)
+![](https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers)
 
 # `Wassup`
 # About ME 💬 :
-- `Hello i'm Zevi`
+- `Hello i'm Zevi Aka DeLuvSushi`
 - 🃟 `I love watching anime, making beats in fruity loops and reading manga. I'm programming on python 3 and learning C# And Java`
 <details>
   <summary><b>Stack: </b></summary>
