@@ -40,7 +40,7 @@
 <p align="center">
 </p>
 
-- `YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ`
+- `YouTube: https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg`
 - `Telegram: @FFuckEmWeBall`
 
 </details>
