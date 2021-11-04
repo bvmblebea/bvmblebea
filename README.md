@@ -41,7 +41,7 @@ API for https://aminoapps.com social network|API for anime website www.anilibria
 </details>
 
 <details>
-  <summary><b>Reach me: </b></summary>
+  <summary><b>Contact me: </b></summary>
 <p align="center">
 </p>
 
