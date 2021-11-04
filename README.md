@@ -2,10 +2,11 @@
 ![anonemus](https://i.ibb.co/dWMYLVx/Pics-Art-11-04-07-39-29.jpg)
 
 ### Projects:
-[AminoLab](https://github.com/deluvsushi/AminoLab)
----|
-<img width="316" alt="AminoLab" src="https://play-lh.googleusercontent.com/DxURGS6RxF4zwTczWWsPwvaCAHcFUdaJH2JufTAq4fmq6vP4g1ec-U0UweTO-mNtXA=h500">|
-API For https://aminoapps.com social network
+[AminoLab](https://github.com/deluvsushi/AminoLab)|[AnilibriaAPI](https://github.com/deluvsushi/AnilibriaAPI)
+---|---|
+<img width="316" alt="AminoLab" src="https://play-lh.googleusercontent.com/DxURGS6RxF4zwTczWWsPwvaCAHcFUdaJH2JufTAq4fmq6vP4g1ec-U0UweTO-mNtXA=h500">|<img width="316" alt="AnilibriaAPI" src="https://anilibria.app/res/images/og_image.jpg?1598792059">|
+API for https://aminoapps.com social network|API for anime website www.anilibria.tv|
+
 
 ### About Me:
 - `Hello i'm Zevi Aka DeLuvSushi`
