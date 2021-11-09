@@ -1,6 +1,6 @@
 ## DeLuvSushi
 
-![anonemus](https://i.ibb.co/dWMYLVx/Pics-Art-11-04-07-39-29.jpg)
+![zaftra_v7_u_ashana](https://i.ibb.co/1nxxYqm/Pics-Art-11-09-08-34-25.jpg)
 
 ### Projects:
 
