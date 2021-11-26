@@ -1,7 +1,7 @@
 ## DeLuvSushi
 
 ![zaftra_v7_u_ashana](https://i.ibb.co/1nxxYqm/Pics-Art-11-09-08-34-25.jpg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&theme=matrix)](https://github.com/deluvsushi/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&theme=matrix)
 
 ### Projects:
 <table>
