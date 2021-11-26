@@ -17,17 +17,15 @@
 
 ### About Me:
 
-- `Hello i'm Zevi Aka DeLuvSushi`
-- 🃟 `I love watching anime, making beats in fruity loops and reading manga. I'm programming on python 3 and learning C# And Java`
+- `Hello i'm Zion/Zevi/DeLuvSushi`
+- 🃟 `Love watching anime, making beats in fruity loops and reading manga.`
 <details>
   <summary><b>Stack: </b></summary>
 <p align="center">
 </p>
 
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![node_js](https://img.shields.io/badge/-node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 
 </details>
 
