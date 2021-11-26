@@ -12,7 +12,7 @@
 | [AuthorTodayAPI](https://github.com/deluvsushi/AuthorTodayAPI)		          | [AminoBoi](https://github.com/deluvsushi/aminoboi) |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- 
 | <img width="500" alt="AuthorTodayAPI" src="https://i.ibb.co/bPczC1g/1636977124081.jpg"> | <img width="315" alt="AminoBoi" src="https://i.postimg.cc/XqQVcTjt/Pics-Art-11-26-03-53-12.jpg"> 
-| API For https://author.today/		                                                  | API For https://aminoapps.com using (https://service.narvii.com/api/v1)
+| API For reading books website https://author.today/	                                                  | API For https://aminoapps.com using (https://service.narvii.com/api/v1)
 
 					      
 
