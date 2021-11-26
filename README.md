@@ -37,13 +37,9 @@
 </p>
 
 ![watching_anime](https://img.shields.io/badge/-1.Watching%20Anime-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-
 ![gaming](https://img.shields.io/badge/-2.Gaming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-
 ![making_beats](https://img.shields.io/badge/-3.Making%20Beats-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-
 ![coding_programming](https://img.shields.io/badge/-4.Coding/Programming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-
 ![reading_manga](https://img.shields.io/badge/-5.Reading%20Manga-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
 
 </details>
@@ -62,5 +58,6 @@
 
 # Statistics:
 
-![github statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark)
+![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
+![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
 ![viewers_count](https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers)
