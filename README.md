@@ -10,8 +10,8 @@
 | API for https://aminoapps.com social network using (https://aminoapps.com/api)                                                                                                     | API for anime website www.anilibria.tv                                                              | API for reading manga website https://remanga.org                                                                                                                                                                                  | API for randomstuff generating website https://randstuff.ru                                |
 
 | [AuthorTodayAPI](https://github.com/deluvsushi/AuthorTodayAPI)		          | [AminoBoi](https://github.com/deluvsushi/aminoboi) |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| <img width="500" alt="AuthorTodayAPI" src="https://i.ibb.co/bPczC1g/1636977124081.jpg"> | <img width="500" alt="AminoBoi" src="https://i.ibb.co/RY6VqXL/Pics-Art-11-26-03-53-12.jpg"> |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- 
+| <img width="500" alt="AuthorTodayAPI" src="https://i.ibb.co/bPczC1g/1636977124081.jpg"> | <img width="315" alt="AminoBoi" src="https://i.postimg.cc/XqQVcTjt/Pics-Art-11-26-03-53-12.jpg"> 
 | API For https://author.today/		                                                  | API For https://aminoapps.com using (https://service.narvii.com/api/v1)
 
 					      
