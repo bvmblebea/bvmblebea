@@ -1,6 +1,7 @@
 # DeLuvSushi
 
 ![this_fine](https://i.ibb.co/31rRf1X/21-52-01-dog.jpg)
+> The saddest thing about betrayal is that it never comes from enemies, it comes from those you trust the most 
 
 ## Projects:
 <table>
