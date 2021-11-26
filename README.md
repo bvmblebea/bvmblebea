@@ -1,9 +1,8 @@
-## DeLuvSushi
+# DeLuvSushi
 
-![zaftra_v7_u_ashana](https://i.ibb.co/1nxxYqm/Pics-Art-11-09-08-34-25.jpg)
-![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&theme=matrix)
+![this_fine](https://i.ibb.co/31rRf1X/21-52-01-dog.jpg)
 
-### Projects:
+## Projects:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/deluvsushi/AminoLab"><img src="https://play-lh.googleusercontent.com/DxURGS6RxF4zwTczWWsPwvaCAHcFUdaJH2JufTAq4fmq6vP4g1ec-U0UweTO-mNtXA=h500" width="100px;" alt="AminoLab"/><br /><sub><b>AminoLab</b></sub></a><br />API for https://aminoapps.com social network using (https://aminoapps.com/api)</td>
@@ -14,20 +13,6 @@
     <td align="center"><a href="https://github.com/deluvsushi/AminoBoi"><img src="https://i.postimg.cc/XqQVcTjt/Pics-Art-11-26-03-53-12.jpg" width="100px;" alt="AminoBoi"/><br /><sub><b>AminoBoi</b></sub></a><br />API For https://aminoapps.com using (https://service.narvii.com/api/v1)</td>
   </tr>
 <table>					     
-
-### About Me:
-
-- `Hello i'm Zion/Zevi/DeLuvSushi`
-- 🃟 `Love watching anime, making beats in fruity loops and reading manga.`
-<details>
-  <summary><b>Stack: </b></summary>
-<p align="center">
-</p>
-
-![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-
-</details>
 
 <details>
   <summary><b>Hobbies: </b></summary>
@@ -54,7 +39,7 @@
 
 </details>
 
-# Statistics:
+### Statistics:
 
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
 ![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
