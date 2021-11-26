@@ -9,10 +9,14 @@
 | <img width="500" alt="AminoLab" src="https://play-lh.googleusercontent.com/DxURGS6RxF4zwTczWWsPwvaCAHcFUdaJH2JufTAq4fmq6vP4g1ec-U0UweTO-mNtXA=h500"> | <img width="316" alt="AnilibriaAPI" src="https://anilibria.app/res/images/og_image.jpg?1598792059"> | <img width="316" alt="RemangaAPI" src="https://sun9-28.userapi.com/impf/kEtzLTKA0GctvG_hZIwe4KpbiyFgNGCKGHmvSA/8x3OQ6M3eHA.jpg?size=1590x400&quality=95&crop=0,0,1590,400&sign=2365cddf9181b6dd2b0aa4a8b37dca8b&type=cover_group"> | <img width="316" alt="RandStuffAPI" src="https://i.postimg.cc/v8hSZRFb/a-OHLI4-V0-FI.jpg"> |
 | API for https://aminoapps.com social network using (https://aminoapps.com/api)                                                                                                     | API for anime website www.anilibria.tv                                                              | API for reading manga website https://remanga.org                                                                                                                                                                                  | API for randomstuff generating website https://randstuff.ru                                |
 
-| [AuthorTodayAPI](https://github.com/deluvsushi/AuthorTodayAPI)					      |
-| --------------------------------------------------------------------------------------- |
-| <img width="500" alt="AuthorTodayAPI" src="https://i.ibb.co/bPczC1g/1636977124081.jpg"> |
-| API For https://author.today/														   |
+| [AuthorTodayAPI](https://github.com/deluvsushi/AuthorTodayAPI)		          | [AminoBoi](https://github.com/deluvsushi/aminoboi) |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| <img width="500" alt="AuthorTodayAPI" src="https://i.ibb.co/bPczC1g/1636977124081.jpg"> | <img width="500" alt="AminoBoi" src="https://i.ibb.co/RY6VqXL/Pics-Art-11-26-03-53-12.jpg"> |
+| API For https://author.today/		                                                  | API For https://aminoapps.com using (https://service.narvii.com/api/v1)
+
+					      
+
+
 
 ### About Me:
 
