@@ -1,6 +1,6 @@
 # DeLuvSushi
 
-![this_fine](https://i.ibb.co/31rRf1X/21-52-01-dog.jpg)
+![this_fine](https://c.tenor.com/7WWgg92c5CEAAAAC/gon-rage.gif)
 > The saddest thing about betrayal is that it never comes from enemies, it comes from those you trust the most
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
@@ -46,5 +46,5 @@
 
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
 ![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
-![top_used_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true)
-![viewers_count](https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers)
+![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true)
+![viewers_count](https://komarev.com/ghpvc/?username=deluvsshi&color=000000&style=plastic&label=viewers)
