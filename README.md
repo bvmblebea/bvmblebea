@@ -3,7 +3,7 @@
 ![this_fine](https://c.tenor.com/7WWgg92c5CEAAAAC/gon-rage.gif)
 > The saddest thing about betrayal is that it never comes from enemies, it comes from those you trust the most
 
-![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
+![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=matrix)
 
 ## Projects:
 <table>
