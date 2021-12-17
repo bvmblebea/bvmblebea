@@ -46,5 +46,5 @@
 
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
 ![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
-![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true)
+![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsshi&theme=dark&hide_border=true)
 ![viewers_count](https://komarev.com/ghpvc/?username=deluvsshi&color=000000&style=plastic&label=viewers)
