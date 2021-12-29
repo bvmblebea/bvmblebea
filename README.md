@@ -3,6 +3,8 @@
 ![this_fine](https://c.tenor.com/7WWgg92c5CEAAAAC/gon-rage.gif)
 > The saddest thing about betrayal is that it never comes from enemies, it comes from those you trust the most
 >> I wanted to start a business, but got smoking with a monkey. I wanted to smoke gas, but now it's the monkey's turn
+>>> I just dropped a pill in my champagne She said she love me, she don't even know my real name
+>>>> Huh, do not be alarmed, this is just for fun
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 
