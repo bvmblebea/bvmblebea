@@ -5,6 +5,7 @@
 >> I wanted to start a business, but got smoking with a monkey. I wanted to smoke gas, but now it's the monkey's turn
 >>> Lord why, Lord why do I gotta wake up?
 >>>> Huh, do not be alarmed, this is just for fun
+>>>>> Sixteen lines of blow and I'm fine Break my bones, but act as my spine
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 
