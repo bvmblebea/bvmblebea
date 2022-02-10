@@ -6,17 +6,20 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 
 ## Projects:
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/deluvsushi/AminoLab"><img src="https://play-lh.googleusercontent.com/DxURGS6RxF4zwTczWWsPwvaCAHcFUdaJH2JufTAq4fmq6vP4g1ec-U0UweTO-mNtXA=h500" width="100px;" alt="AminoLab"/><br /><sub><b>AminoLab</b></sub></a><br />API for https://aminoapps.com social network using (https://aminoapps.com/api)</td>
-    <td align="center"><a href="https://github.com/deluvsushi/AnilibriaAPI"><img src="https://anilibria.app/res/images/og_image.jpg?1598792059" width="100px;" alt="AnilibriaAPI"/><br /><sub><b>AnilibriaAPI</b></sub></a><br />API for anime website www.anilibria.tv</td>
-    <td align="center"><a href="https://github.com/deluvsushi/RemangaAPI"><img src="https://sun9-28.userapi.com/impf/kEtzLTKA0GctvG_hZIwe4KpbiyFgNGCKGHmvSA/8x3OQ6M3eHA.jpg?size=1590x400&quality=95&crop=0,0,1590,400&sign=2365cddf9181b6dd2b0aa4a8b37dca8b&type=cover_group" width="100px;" alt="RemangaAPI"/><br /><sub><b>RemangaAPI</b></sub></a><br />API for reading manga website https://remanga.org</td>
-    <td align="center"><a href="https://github.com/deluvsushi/RandStuffAPI"><img src="https://i.postimg.cc/v8hSZRFb/a-OHLI4-V0-FI.jpg" width="100px;" alt="RandomStuffAPI"/><br /><sub><b>RandomStuffAPI</b></sub></a><br />API for randomstuff generating website https://randstuff.ru</td>
-    <td align="center"><a href="https://github.com/deluvsushi/AuthorTodayAPI"><img src="https://i.ibb.co/bPczC1g/1636977124081.jpg" width="100px;" alt="AuthorTodayAPI"/><br /><sub><b>AuthorTodayAPI</b></sub></a><br />API For reading books website https://author.today/</td>
-    <td align="center"><a href="https://github.com/deluvsushi/AminoBoi"><img src="https://i.postimg.cc/XqQVcTjt/Pics-Art-11-26-03-53-12.jpg" width="100px;" alt="AminoBoi"/><br /><sub><b>AminoBoi</b></sub></a><br />API For https://aminoapps.com using (https://service.narvii.com/api/v1)</td>
-    <td align="center"><a href="https://github.com/deluvsushi/ProjectZ.py"><img src="https://play-lh.googleusercontent.com/l85wmjBOqRAwoDaKKO4_aEwjBSZnLTXS52FvlB-yW4Tmp9b48geIM3xcZbBVzNsNQxE" width="100px;" alt="ProjectZ.py"/><br /><sub><b>ProjectZ.py</b></sub></a><br />API for creating bots in ProjectZ social network</td>
-  </tr>
-<table>					     
+>[AminoLab](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
+
+>[AnilibriaAPI](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
+
+>[RemangaAPI](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
+
+>[RandStuffAPI](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
+
+>[AuthorTodayAPI](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
+
+>[AminoBoi](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
+
+>[ProjectZ](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
+
 
 <details>
   <summary><b>Hobbies: </b></summary>
