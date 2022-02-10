@@ -14,6 +14,7 @@
     <td align="center"><a href="https://github.com/deluvsushi/RandStuffAPI"><img src="https://i.postimg.cc/v8hSZRFb/a-OHLI4-V0-FI.jpg" width="100px;" alt="RandomStuffAPI"/><br /><sub><b>RandomStuffAPI</b></sub></a><br />API for randomstuff generating website https://randstuff.ru</td>
     <td align="center"><a href="https://github.com/deluvsushi/AuthorTodayAPI"><img src="https://i.ibb.co/bPczC1g/1636977124081.jpg" width="100px;" alt="AuthorTodayAPI"/><br /><sub><b>AuthorTodayAPI</b></sub></a><br />API For reading books website https://author.today/</td>
     <td align="center"><a href="https://github.com/deluvsushi/AminoBoi"><img src="https://i.postimg.cc/XqQVcTjt/Pics-Art-11-26-03-53-12.jpg" width="100px;" alt="AminoBoi"/><br /><sub><b>AminoBoi</b></sub></a><br />API For https://aminoapps.com using (https://service.narvii.com/api/v1)</td>
+    <td align="center"><a href="https://github.com/deluvsushi/ProjectZ.py"><img src="https://play-lh.googleusercontent.com/l85wmjBOqRAwoDaKKO4_aEwjBSZnLTXS52FvlB-yW4Tmp9b48geIM3xcZbBVzNsNQxE" width="100px;" alt="ProjectZ.py"/><br /><sub><b>ProjectZ.py</b></sub></a><br />API for creating bots in ProjectZ social network</td>
   </tr>
 <table>					     
 
