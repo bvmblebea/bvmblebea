@@ -5,7 +5,13 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 
-## Projects:
+## About me:
+
+<details>
+  <summary><b>Projects: </b></summary>
+<p align="center">
+</p>
+
 >[`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
 
 >[`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
@@ -19,6 +25,8 @@
 >[`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
 
 >[`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
+
+</details>
 
 <details>
   <summary><b>Hobbies: </b></summary>
@@ -38,10 +46,9 @@
 <p align="center">
 </p>
 
-- [@FFuckEmWeBall](https://t.me/FFuckEmWeBaLL) In Telegram
-- [deluvsushi](https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg) In YouTube
-- [@skeletonic](vk.com/skeletonic) In VK
-- I don't use Instagram
+- [`@FFuckEmWeBall`](https://t.me/FFuckEmWeBaLL) In Telegram
+- [`deluvsushi`](https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg) In YouTube
+- [`@skeletonic`](vk.com/skeletonic) In VK
 
 </details>
 
