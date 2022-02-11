@@ -6,20 +6,19 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 
 ## Projects:
->[AminoLab](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
+>[`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
 
->[AnilibriaAPI](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
+>[`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
 
->[RemangaAPI](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
+>[`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
 
->[RandStuffAPI](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
+>[`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
 
->[AuthorTodayAPI](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
+>[`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
 
->[AminoBoi](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
+>[`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
 
->[ProjectZ](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
-
+>[`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
 
 <details>
   <summary><b>Hobbies: </b></summary>
