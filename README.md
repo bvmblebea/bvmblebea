@@ -5,12 +5,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 
-## About me:
-
-<details>
-  <summary><b>Projects: </b></summary>
-<p align="center">
-</p>
+## Projects:::
 
 >[`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
 
@@ -26,10 +21,10 @@
 
 >[`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
 
-</details>
+>[`Discord.py`](https://github.com/deluvsushi/Discord.py) - Discord user bot api that written on python
 
 <details>
-  <summary><b>Hobbies: </b></summary>
+  <summary><b>Hobbies::: </b></summary>
 <p align="center">
 </p>
 
@@ -42,7 +37,7 @@
 </details>
 
 <details>
-  <summary><b>Contact me: </b></summary>
+  <summary><b>Contact me::: </b></summary>
 <p align="center">
 </p>
 
@@ -52,7 +47,7 @@
 
 </details>
 
-### Statistics:
+### Statistics:::
 
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
 ![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
