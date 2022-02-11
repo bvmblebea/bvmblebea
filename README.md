@@ -21,7 +21,7 @@
 
 >[`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
 
->[`Discord.py`](https://github.com/deluvsushi/Discord.py) - Discord user bot api that written on python
+>[`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
 
 <details>
   <summary><b>Hobbies::: </b></summary>
