@@ -1,51 +1,34 @@
 # DeLuvSushi
 
->+88_
-_+880_
-_++88_
-_++88_
-__+880_________________________++_
-__+888________________________+88_
-__++880______________________+88_
-__++888_____+++88__________+++8_
-__++8888__+++8880++88____+++88_
-__+++8888+++8880++8888__++888_
-___++888++8888+++888888++888_
-___++88++8888++8888888++888_
-___++++++888888888888888888_
-____++++++88888888888888888_
-____++++++++000888888888888_
-_____+++++++000088888888888_
-______+++++++00088888888888_
-_______+++++++088888888888_
-_______+++++++088888888888_
-________+++++++8888888888_
-________+++++++0088888888_
-________++++++0088888888_
-________+++++0008888888_
-________#############_
+```
+⠀⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀
+⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀⠀⢳⡀⠀⡏⠀⠀⠀⠀⠀⢷
+⠀⠀⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀⠀⠀ ⡇
+⠀⠀⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿⠀⣸⠀⠀OK⠀ ⡇
+⠀⠀⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀⣿⠀⢹⠀⠀⠀⠀⠀ ⡇
+⠀⠀⠙⢿⣯⠄⠀⠀⠀⢀⡀⠀⠀⡿⠀⠀⡇⠀⠀⠀⠀⡼
+⠀⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀⠀⠘⠤⣄⣠⠞⠀
+⠀⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀
+⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀
+⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀
+⣿⣿⣧⣀⣿………⣀⣰⣏⣘⣆⣀⠀⠀ 	
+```
 
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
+> Kiwamero. Naite ī, nigete mo ī, tada, akirameru na.
 
 ## Projects:::
 
->[`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
-
->[`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
-
->[`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
-
->[`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
-
->[`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
-
->[`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
-
->[`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
-
->[`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
+```
+[`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
+[`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
+[`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
+[`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
+[`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
+[`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
+[`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
+[`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
+```
 
 <details>
   <summary><b>Hobbies::: </b></summary>
@@ -76,4 +59,5 @@ ________#############_
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
 ![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
 ![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 ![viewers_count](https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers)
