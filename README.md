@@ -35,11 +35,11 @@
 <p align="center">
 </p>
 
-![watching_anime](https://img.shields.io/badge/-1.Watching%20Anime-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-![gaming](https://img.shields.io/badge/-2.Gaming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-![making_beats](https://img.shields.io/badge/-3.Making%20Beats-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-![coding_programming](https://img.shields.io/badge/-4.Coding/Programming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-![reading_manga](https://img.shields.io/badge/-5.Reading%20Manga-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
+- ![watching_anime](https://img.shields.io/badge/-1.Watching%20Anime-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
+- ![gaming](https://img.shields.io/badge/-2.Gaming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
+- ![making_beats](https://img.shields.io/badge/-3.Making%20Beats-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
+- ![coding_programming](https://img.shields.io/badge/-4.Coding/Programming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
+- ![reading_manga](https://img.shields.io/badge/-5.Reading%20Manga-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
 
 </details>
 
