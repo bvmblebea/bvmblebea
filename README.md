@@ -1,7 +1,7 @@
 # DeLuvSushi
 > Kiwamero. Naite ī, nigete mo ī, tada, akirameru na.
 
-## Projects:::
+## Projects(Wrappers):::
 
 ```
 [`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
