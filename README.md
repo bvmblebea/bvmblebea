@@ -3,16 +3,16 @@
 
 ## Projects(Wrappers):::
 
-```
-[`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
-[`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
-[`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
-[`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
-[`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
-[`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
-[`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
-[`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
-```
+- [`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
+- [`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
+- [`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
+- [`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
+- [`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
+- [`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
+- [`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
+- [`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
+- [`checkersonline.py`](https://github.com/deluvsushi/checkersonline.py) - API For CheckersOnline mobile game
+
 
 <details>
   <summary><b>Hobbies::: </b></summary>
