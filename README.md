@@ -1,4 +1,5 @@
 # DeLuvSushi
+![](https://ecdn.game4v.com/g4v-content/uploads/2022/03/16114901/game4v-One-Piece-1647406140-78-1024x556.jpeg)
 > Kiwamero. Naite ī, nigete mo ī, tada, akirameru na.
 
 ## Projects(Wrappers):::
@@ -32,8 +33,8 @@
 <p align="center">
 </p>
 
-- [`@FFuckEmWeBall`](https://t.me/FFuckEmWeBaLL) In Telegram
-- [`deluvsushi`](https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg) In YouTube
+- [`@FFuckEmWeBall`](t.me/FFuckEmWeBaLL) In Telegram
+- [`deluvsushi`](youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg) In YouTube
 - [`@skeletonic`](vk.com/skeletonic) In VK
 
 </details>
