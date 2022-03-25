@@ -2,31 +2,14 @@
 ![](https://camo.githubusercontent.com/dfd9a666516b8e3738663329025284273518db98c3b3dd2e3eae2f560800297a/68747470733a2f2f6563646e2e67616d6534762e636f6d2f6734762d636f6e74656e742f75706c6f6164732f323032322f30332f31363131343930312f67616d6534762d4f6e652d50696563652d313634373430363134302d37382d31303234783535362e6a706567)
 > Kiwamero. Naite ī, nigete mo ī, tada, akirameru na.
 
-## Projects(Wrappers):
-
-- [`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
-- [`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
-- [`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
-- [`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
-- [`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
-- [`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
-- [`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
-- [`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
-- [`checkersonline.py`](https://github.com/deluvsushi/checkersonline.py) - API For CheckersOnline mobile game
-
-
-<details>
-  <summary><b>Hobbies: </b></summary>
-<p align="center">
-</p>
-
-- ![watching_anime](https://img.shields.io/badge/-1.Watching%20Anime-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-- ![gaming](https://img.shields.io/badge/-2.Gaming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-- ![making_beats](https://img.shields.io/badge/-3.Making%20Beats-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-- ![coding_programming](https://img.shields.io/badge/-4.Coding/Programming-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-- ![reading_manga](https://img.shields.io/badge/-5.Reading%20Manga-black?style=for-the-badge&logo=null&logoColor=white&labelColor=000000)
-
-</details>
+<div>
+<h2 align="center"> About me </h2>
+<li><b>Nickname: </b> deluvsushi </li>
+<li><b>Watched: </b> 148 anime </li>
+<li><b>Loves: </b> Sushi, Anime, Gaming, Music </li>
+<li><b>Hobbies: </b> Programming, Drawing graffiti, Making beats </li>
+<li><b>Trying to learn: </b> Reverse engineering </li>
+</div>
 
 <details>
   <summary><b>Contact me: </b></summary>
@@ -47,4 +30,15 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 ![viewers_count](https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers)
 
+#### Projects(Wrappers):
+
+- [`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
+- [`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
+- [`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
+- [`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
+- [`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
+- [`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com using (https://service.narvii.com/api/v1)
+- [`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
+- [`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
+- [`checkersonline.py`](https://github.com/deluvsushi/checkersonline.py) - API For CheckersOnline mobile game
 
