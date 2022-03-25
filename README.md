@@ -2,7 +2,7 @@
 ![](https://ecdn.game4v.com/g4v-content/uploads/2022/03/16114901/game4v-One-Piece-1647406140-78-1024x556.jpeg)
 > Kiwamero. Naite ī, nigete mo ī, tada, akirameru na.
 
-## Projects(Wrappers):::
+## Projects(Wrappers):
 
 - [`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
 - [`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
@@ -16,7 +16,7 @@
 
 
 <details>
-  <summary><b>Hobbies::: </b></summary>
+  <summary><b>Hobbies: </b></summary>
 <p align="center">
 </p>
 
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary><b>Contact me::: </b></summary>
+  <summary><b>Contact me: </b></summary>
 <p align="center">
 </p>
 
@@ -39,7 +39,7 @@
 
 </details>
 
-### Statistics:::
+### Statistics:
 
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
 ![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
