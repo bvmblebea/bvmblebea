@@ -3,7 +3,7 @@
 > Kiwamero. Naite ī, nigete mo ī, tada, akirameru na.
 
 <div>
-<h2 align="center"> About me </h2>
+<h1 align="center"> About me </h1>
 <li><b>Nickname: </b> deluvsushi </li>
 <li><b>Watched: </b> 148 anime </li>
 <li><b>Loves: </b> Sushi, Anime, Gaming, Music </li>
