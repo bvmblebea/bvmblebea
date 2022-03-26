@@ -43,3 +43,7 @@
 ![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
 ![viewers_count](https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers)
+
+<p align="center">Playboi Carti - Sky</p>
+
+[![Playboi Carti - Sky](https://wallpapercave.com/uwp/uwp1651718.jpeg)](https://youtu.be/GYE9H4SMq5E)
