@@ -47,11 +47,13 @@
 
 </details>
 
-<h2 align="center"> Stack🍻 </h2>
-
-![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<div>
+<h2 align="center"> Knowledge🍻 </h2>
+<p align="center">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+</div>
 
 <h2 align="center"> Statistics📔 </h2>
 
