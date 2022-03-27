@@ -16,17 +16,47 @@
 	<details>
 		<summary><b>Projects</b></summary>
 		<p align="center">Wrappers</p>
-		
-- [`AminoLab`](https://github.com/deluvsushi/AminoLab) - Web API For https://aminoapps.com social network
-- [`AnilibriaAPI`](https://github.com/deluvsushi/AnilibriaAPI) - API for russian anime website www.anilibria.tv
-- [`RemangaAPI`](https://github.com/deluvsushi/RemangaAPI) - API for reading manga russian website https://remanga.org
-- [`RandStuffAPI`](https://github.com/deluvsushi/RandStuffAPI) - API for randomstuff generating russian website https://randstuff.ru
-- [`AuthorTodayAPI`](https://github.com/deluvsushi/AuthorTodayAPI) - API For reading books russian website https://author.today/
-- [`AminoBoi`](https://github.com/deluvsushi/AminoBoi) - Mobile API For https://aminoapps.com
-- [`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
-- [`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
-- [`checkersonline.py`](https://github.com/deluvsushi/checkersonline.py) - API For CheckersOnline mobile game
-
+		<table border="3" height="550px">
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/AminoLab"> AminoLab </td>
+				<td> Web-API for https://aminoapps.com social network </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/AnilibriaAPI"> AnilibriaAPI </td>
+				<td> Web-API for russian anime website www.anilibria.tv </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/RemangaAPI"> RemangaAPI </td>
+				<td> Web-API for reading manga russian website https://remanga.org </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/RandStuffAPI"> RandStuffAPI </td>
+				<td> Web-API for randomstuff generating russian website https://randstuff.ru </td>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/AuthorTodayAPI"> AuthorTodayAPI </td>
+				<td> Web-API for reading books russian website https://author.today/ </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/amino.py"> amino.py </td>
+				<td> Mobile-API for https://aminoapps.com social network </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/ProjectZ.py"> ProjectZ.py </td>
+				<td> Mobile-API for ProjectZ social network </td>				     
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/Discord_user.py"> Discord_user.py </td>
+				<td> Discord user bot api that written on python </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/checkersonline.py"> checkersonline.py </td>
+				<td> Mobile-API for checkersonline mobile game </td>
+			</tr>
+		</table>
 	</details>
 	<details>
 		<summary><b>Contact me</b></summary>
