@@ -7,13 +7,12 @@
 	<div>
 		<h2 align="center"> About me📜 </h2>
 		<ul>
-			<li><b>Nickname:</b> deluvsushi</li>
+			<li><b>Nickname:</b> deluvsushi </li>
 			<li><b>Watched:</b> 148 anime </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats </li>
-			<li><b>Trying to learn:</b> Reverse engineering</li>
+			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
 	</div>
-	<br>
 	<details>
 		<summary><b>Projects</b></summary>
 		<p align="center">Wrappers</p>
@@ -29,15 +28,14 @@
 - [`checkersonline.py`](https://github.com/deluvsushi/checkersonline.py) - API For CheckersOnline mobile game
 
 	</details>
-	<br>
 	<details>
 		<summary><b>Contact me</b></summary>
 		<p align="center">Contacts</p>
-		
-- [`@FFuckEmWeBall`](t.me/FFuckEmWeBaLL) In Telegram
-- [`deluvsushi`](youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg) In YouTube
-- [`@skeletonic`](vk.com/skeletonic) In VK
-
+		<ul>
+			<li><b>Telegram:</b> t.me/FFuckEmWeBaLL </li>
+			<li><b>YouTube:</b> youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg </li>
+			<li><b>VKontakte:</b> vk.com/skeletonic </li>
+		<ul>
 	</details>
 	<br>
 	<div>
