@@ -62,9 +62,9 @@
 		<summary><b>Contact me</b></summary>
 		<p align="center">Contacts</p>
 		<ul>
-			<li><a href="t.me/FFuckEmWeBaLL" target="_blank"><b>Telegram</b></li>
-			<li><a href="youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><b>YouTube</b> </li>
-			<li><a href="vk.com/skeletonic" target="_blank"><b>VKontakte</b></li>
+			<li><a href="https://t.me/FFuckEmWeBaLL" target="_blank"><b>Telegram</b></li>
+			<li><a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><b>YouTube</b> </li>
+			<li><a href="https://vk.com/skeletonic" target="_blank"><b>VKontakte</b></li>
 		<ul>
 	</details>
 	<br>
