@@ -1,12 +1,11 @@
 <body>
 <h1 align="center"> Welcome to my profile🍺 </h1>
 <div align="center">
-<img src="https://animesher.com/orig/1/104/1044/10443/animesher.com_smile-black-and-white-d.grayman-1044333.gif">
+<img src="https://i.pinimg.com/originals/15/a3/b3/15a3b3f9b27a0058e31e1ce9b1f56964.gif">
 </div>
 <br>
 <div>
 <h2 align="center"> About me📜 </h2>
-<img src="https://camo.githubusercontent.com/dfd9a666516b8e3738663329025284273518db98c3b3dd2e3eae2f560800297a/68747470733a2f2f6563646e2e67616d6534762e636f6d2f6734762d636f6e74656e742f75706c6f6164732f323032322f30332f31363131343930312f67616d6534762d4f6e652d50696563652d313634373430363134302d37382d31303234783535362e6a706567">
 <ul>
 <li>
 <b>Nickname:</b> deluvsushi 
