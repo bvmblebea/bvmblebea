@@ -45,13 +45,14 @@
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 	</div>
-
-	<h2 align="center"> Statistics📔 </h2>
-	
-![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
-![github_statistics](https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true)
-![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh)
-![viewers_count](https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers)
+	<br>
+	<div>
+		<h2 align="center"> Statistics📔 </h2>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true">
+		<img src="https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true">
+		<img src="https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh">
+		<img src="https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers">
+	</div>
 	
 </body>
