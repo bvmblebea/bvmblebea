@@ -1,7 +1,7 @@
 <body>
 	<h1 align="center"> Welcome to my profile🍺 </h1>
 	<div align="center">
-		<img src="https://i.pinimg.com/originals/15/a3/b3/15a3b3f9b27a0058e31e1ce9b1f56964.gif">
+		<img src="https://c.tenor.com/wknJveQbS7wAAAAC/anime-dance.gif">
 	</div>
 	<br>
 	<div>
