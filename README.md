@@ -1,7 +1,7 @@
 <body>
 <h1 align="center"> Welcome to my profile🍺 </h1>
 <div align="center">
-<img src="https://image.myanimelist.net/ui/zDfsGXdyJZyVZjOdsLhm0gEFTFHCxqHFnSti0mqGJkfiCW3Ltg_uTuafqAHOci84kX04WybN-xUkmSlChxHebw">
+<img src="https://animesher.com/orig/1/104/1044/10443/animesher.com_smile-black-and-white-d.grayman-1044333.gif">
 </div>
 <br>
 <div>
