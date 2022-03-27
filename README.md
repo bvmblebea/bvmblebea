@@ -16,7 +16,7 @@
 	<details>
 		<summary><b>Projects</b></summary>
 		<p align="center">Wrappers</p>
-		<table border="3" height="550px">
+		<table>
 			<tr>
 				<th>Name</th>
 				<th>Description</th>
@@ -62,9 +62,9 @@
 		<summary><b>Contact me</b></summary>
 		<p align="center">Contacts</p>
 		<ul>
-			<li><b>Telegram:</b> t.me/FFuckEmWeBaLL </li>
-			<li><b>YouTube:</b> youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg </li>
-			<li><b>VKontakte:</b> vk.com/skeletonic </li>
+			<li><a href="t.me/FFuckEmWeBaLL" target="_blank"><b>Telegram</b></li>
+			<li><a href="youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><b>YouTube</b> </li>
+			<li><a href="vk.com/skeletonic" target="_blank"><b>VKontakte</b></li>
 		<ul>
 	</details>
 	<br>
