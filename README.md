@@ -67,7 +67,6 @@
 			<li><a href="https://vk.com/skeletonic" target="_blank"><b>VKontakte</b></li>
 		<ul>
 	</details>
-	<br>
 	<div>
 		<h2 align="center"> Knowledge🍻 </h2>
 		<p align="center">
@@ -75,7 +74,6 @@
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 	</div>
-	<br>
 	<div>
 		<h2 align="center"> Statistics📔 </h2>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true">
