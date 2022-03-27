@@ -21,7 +21,6 @@
 </li>
 </ul>
 </div>
-<br>
 <details>
 <summary><b>Projects</b></summary>
 <p align="center">Wrappers</p>
@@ -35,7 +34,7 @@
 - [`ProjectZ.py`](https://github.com/deluvsushi/ProjectZ.py) - Mobile API for creating bots in ProjectZ social network				     
 - [`Discord_user.py`](https://github.com/deluvsushi/Discord_user.py) - Discord user bot api that written on python
 - [`checkersonline.py`](https://github.com/deluvsushi/checkersonline.py) - API For CheckersOnline mobile game
-<br>
+
 </details>
 
 <details>
@@ -47,14 +46,13 @@
 - [`@skeletonic`](vk.com/skeletonic) In VK
 
 </details>
-<br>
+
 <h2 align="center"> Stack🍻 </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<br>
 <h2 align="center"> Statistics📔 </h2>
 
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true)
