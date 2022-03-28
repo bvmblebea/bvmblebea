@@ -61,12 +61,9 @@
 	</details>
 	<details>
 		<summary><b>Contact me</b></summary>
-		<p align="center">Contacts</p>
-		<ul>
-			<li><a href="https://t.me/FFuckEmWeBaLL" target="_blank"><b>Telegram</b></li>
-			<li><a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><b>YouTube</b> </li>
-			<li><a href="https://vk.com/skeletonic" target="_blank"><b>VKontakte</b></li>
-		<ul>
+		<p align="center"><a href="https://t.me/FFuckEmWeBaLL" target="_blank"><img src="https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p>
+		<p align="center"><a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><img src="https://img.shields.io/badge/deluvsushi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></p>
+		<p align="center"><a href="https://vk.com/skeletonic" target="_blank"><img src="https://img.shields.io/badge/@skeletonic-597da3?style=for-the-badge&logo=vk&logoColor=white"></p>
 	</details>
 	<div>
 		<h2 align="center"> Knowledge🍻 </h2>
@@ -75,7 +72,7 @@
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 	</div>
 	<div>
-		<h2 align="center"> Statistics🍖 </h2>
+		<h2 align="center"> Statistics📔 </h2>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true">
 		<img src="https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true">
@@ -84,3 +81,5 @@
 	</div>
 	
 </body>
+
+https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
