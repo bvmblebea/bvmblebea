@@ -26,18 +26,18 @@
 				<td> Web-API for https://aminoapps.com social network </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/AnilibriaAPI"> AnilibriaAPI </td>
+				<td><a href="https://github.com/deluvsushi/Anilibria.py"> Anilibria.py </td>
 				<td> Web-API for russian anime website www.anilibria.tv </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/RemangaAPI"> RemangaAPI </td>
+				<td><a href="https://github.com/deluvsushi/Remanga.py"> Remanga.py </td>
 				<td> Web-API for reading manga russian website https://remanga.org </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/RandStuffAPI"> RandStuffAPI </td>
+				<td><a href="https://github.com/deluvsushi/RandStuff.py"> RandStuff.py </td>
 				<td> Web-API for randomstuff generating russian website https://randstuff.ru </td>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/AuthorTodayAPI"> AuthorTodayAPI </td>
+				<td><a href="https://github.com/deluvsushi/AuthorToday.py"> AuthorToday.py </td>
 				<td> Web-API for reading books russian website https://author.today/ </td>
 			</tr>
 			<tr>
