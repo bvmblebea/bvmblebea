@@ -9,6 +9,7 @@
 		<ul>
 			<li><b>Nickname:</b> deluvsushi </li>
 			<li><b>Watched:</b> 148 anime </li>
+			<li><b>Loves:</b> Sushi🍣, Anime🍿, Gaming👾 </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats </li>
 			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
