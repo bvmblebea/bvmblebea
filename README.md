@@ -82,4 +82,3 @@
 	
 </body>
 
-https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
