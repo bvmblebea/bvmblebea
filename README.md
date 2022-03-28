@@ -75,7 +75,7 @@
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 	</div>
 	<div>
-		<h2 align="center"> Statistics📔 </h2>
+		<h2 align="center"> Statistics🍖 </h2>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=deluvsushi&theme=dark&hide_border=true">
 		<img src="https://github-readme-stats.vercel.app/api?username=deluvsushi&show_icons=true&theme=dark&hide_border=true">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deluvsushi&theme=dark&hide_border=true">
