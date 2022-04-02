@@ -61,6 +61,10 @@
 				<td><a href="https://github.com/deluvsushi/101online.py"> 101online.py </td>
 				<td> Mobile-API for 101online mobile game </td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/anixart.py"> anixart.py </td>
+				<td> Mobile-API for anixart anime app </td>
+			</tr>
 		</table>
 	</details>
 	<details>
@@ -83,6 +87,4 @@
 		<img src="https://github-profile-trophy.vercel.app/?username=deluvsushi&no-frame=true&no-bg=true&theme=juicyfresh">
 		<img src="https://komarev.com/ghpvc/?username=deluvsushi&color=000000&style=plastic&label=viewers">
 	</div>
-	
 </body>
-
