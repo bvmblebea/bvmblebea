@@ -65,6 +65,10 @@
 				<td><a href="https://github.com/deluvsushi/anixart.py"> anixart.py </td>
 				<td> Mobile-API for anixart anime app </td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/hackchat.py"> hackchat.py </td>
+				<td> Web-API for hack.chat chatrooms website </td>
+			</tr>
 		</table>
 	</details>
 	<details>
