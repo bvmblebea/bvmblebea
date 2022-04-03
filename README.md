@@ -69,6 +69,10 @@
 				<td><a href="https://github.com/deluvsushi/hackchat.py"> hackchat.py </td>
 				<td> Web-API for hack.chat chatrooms website </td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/NotAlone.py"> NotAlone.py </td>
+				<td> Web-API for https://notalone.tv website </td>
+			</tr>
 		</table>
 	</details>
 	<details>
