@@ -75,7 +75,7 @@
 			</tr>
 			<tr>
 				<td><a href="https://github.com/deluvsushi/vk_audio.py"> vk_audio.py </td>
-				<td> Audio-API for interacting with audios in vkontakte social network </td>
+				<td> Audio-API for vkontakte social network </td>
 			</tr>
 		</table>
 	</details>
