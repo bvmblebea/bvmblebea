@@ -73,6 +73,10 @@
 				<td><a href="https://github.com/deluvsushi/NotAlone.py"> NotAlone.py </td>
 				<td> Web-API for https://notalone.tv website </td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/vk_audio.py"> vk_audio.py </td>
+				<td> Mobile-API for interacting with audios in vkontakte social network </td>
+			</tr>
 		</table>
 	</details>
 	<details>
