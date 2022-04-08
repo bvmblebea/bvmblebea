@@ -79,7 +79,7 @@
 			</tr>
 			<tr>
 				<td><a href="https://github.com/deluvsushi/drrr.py"> drrr.py </td>
-				<td> Web-API for drrr.com durarara dollars chatroom </td>
+				<td> Web-API for https://drrr.com durarara dollars chatroom </td>
 			</tr>
 		</table>
 	</details>
