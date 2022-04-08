@@ -77,6 +77,10 @@
 				<td><a href="https://github.com/deluvsushi/vk_audio.py"> vk_audio.py </td>
 				<td> Audio-API for vkontakte social network </td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/drrr.py"> drrr.py </td>
+				<td> Web-API for drrr.com durarara dollars chatroom </td>
+			</tr>
 		</table>
 	</details>
 	<details>
