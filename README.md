@@ -79,7 +79,11 @@
 			</tr>
 			<tr>
 				<td><a href="https://github.com/deluvsushi/drrr.py"> drrr.py </td>
-				<td> Web-API for https://drrr.com durarara dollars chatroom </td>
+				<td> Web-API for drrr.com durarara dollars chatroom </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/zervo.py"> zervo.py </td>
+				<td> Mobile-API for zervo anime roleplay social network </td>
 			</tr>
 		</table>
 	</details>
