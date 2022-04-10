@@ -24,7 +24,7 @@
 			</tr>
 			<tr>
 				<td><a href="https://github.com/deluvsushi/AminoLab"> AminoLab </td>
-				<td> Web-API for https://aminoapps.com social network </td>
+				<td> Web-API for aminoapps social network </td>
 			</tr>
 			<tr>
 				<td><a href="https://github.com/deluvsushi/Anilibria.py"> Anilibria.py </td>
@@ -43,7 +43,7 @@
 			</tr>
 			<tr>
 				<td><a href="https://github.com/deluvsushi/amino.py"> amino.py </td>
-				<td> Mobile-API for https://aminoapps.com social network </td>
+				<td> Mobile-API for aminoapps social network </td>
 			</tr>
 			<tr>
 				<td><a href="https://github.com/deluvsushi/ProjectZ.py"> ProjectZ.py </td>
@@ -84,6 +84,10 @@
 			<tr>
 				<td><a href="https://github.com/deluvsushi/zervo.py"> zervo.py </td>
 				<td> Mobile-API for zervo anime roleplay social network </td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/bgmonline.py"> bgmonline.py </td>
+				<td> Mobile-API for backgammononline mobile game </td>
 			</tr>
 		</table>
 	</details>
