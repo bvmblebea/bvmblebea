@@ -89,6 +89,10 @@
 				<td><a href="https://github.com/deluvsushi/bgmonline.py"> bgmonline.py </td>
 				<td> Mobile-API for backgammononline mobile game </td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/vk_user.py"> vk_user.py </td>
+				<td> UserBot-API for vkontakte social network </td>
+			</tr>
 		</table>
 	</details>
 	<details>
