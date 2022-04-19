@@ -93,6 +93,10 @@
 				<td><a href="https://github.com/deluvsushi/vk_user.py"> vk_user.py </td>
 				<td> UserBot-API for vkontakte social network </td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/deluvsushi/mcsrvstat.py"> mcsrvstat.py </td>
+				<td> Web-API for mcsrvstat.us website to get info about minecraft server's </td>
+			</tr>
 		</table>
 	</details>
 	<details>
