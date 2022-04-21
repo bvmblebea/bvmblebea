@@ -23,78 +23,135 @@
 				<th>Description</th>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/AminoLab"> AminoLab </td>
+				<td>
+					<img src="https://pbs.twimg.com/profile_images/1126922506286325761/x4T2PAkG_400x400.png" height="25px">
+					<a href="https://github.com/deluvsushi/AminoLab"> AminoLab </a>
+				</td>
 				<td> Web-API for aminoapps social network </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/Anilibria.py"> Anilibria.py </td>
+				<td>
+					<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg", height="25px">
+					<a href="https://github.com/deluvsushi/Anilibria.py"> Anilibria.py </a>
+				</td>
 				<td> Web-API for russian anime website www.anilibria.tv </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/Remanga.py"> Remanga.py </td>
+				<td>
+					<img src="https://sun9-64.userapi.com/s/v1/ig2/RygOXt5VE0TbLePu6FeuPPyzS0BOo3ouTUrxeaSsLagXi1hGC7cLfkWtn7yQAM9zaaJImPmzYK5VJIl8z-B7mEFP.jpg?size=837x837&quality=96&crop=0,0,837,837&ava=1" height="25px">
+					<a href="https://github.com/deluvsushi/Remanga.py"> Remanga.py </a>
+				</td>
 				<td> Web-API for reading manga russian website https://remanga.org </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/RandStuff.py"> RandStuff.py </td>
+				<td>
+					<img src="https://sun9-66.userapi.com/s/v1/if1/Yaj0rTAS--iQS0Cf_b4Wv3mbHwkjYLRG6MbbwzKqVbg5mL79CHtSJe5OzFm1rTDLKcdfYRxJ.jpg?size=220x220&quality=96&type=album" height="25px">
+					<a href="https://github.com/deluvsushi/RandStuff.py"> RandStuff.py </a>
+				</td>
 				<td> Web-API for randomstuff generating russian website https://randstuff.ru </td>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/AuthorToday.py"> AuthorToday.py </td>
+				<td>
+					<img src="https://camo.githubusercontent.com/fa9addb6cfa56c10defce2309b5fcfdedb19b5b77b26616efce22afb8228cc24/68747470733a2f2f692e6962622e636f2f6250637a4331672f313633363937373132343038312e6a7067", height="25px">
+					<a href="https://github.com/deluvsushi/AuthorToday.py"> AuthorToday.py </a> 
+				</td>
 				<td> Web-API for reading books russian website https://author.today/ </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/amino.py"> amino.py </td>
+				<td>
+					<img src="https://pbs.twimg.com/profile_images/1126922506286325761/x4T2PAkG_400x400.png" height="25px">
+					<a href="https://github.com/deluvsushi/amino.py"> amino.py </a>
+				</td>
 				<td> Mobile-API for aminoapps social network </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/ProjectZ.py"> ProjectZ.py </td>
+				<td>
+					<img src="https://www.projz.com/static/media/header-logo.b22c965b.webp" height="25px">
+					<a href="https://github.com/deluvsushi/ProjectZ.py"> ProjectZ.py </a>
+				</td>
 				<td> Mobile-API for ProjectZ social network </td>				     
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/Discord_user.py"> Discord_user.py </td>
+				<td>
+					<img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="25px">
+					<a href="https://github.com/deluvsushi/Discord_user.py"> Discord_user.py </a>
+				</td>
 				<td> UserBot-API for Discord social network </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/checkersonline.py"> checkersonline.py </td>
+				<td>
+					<img src="https://play-lh.googleusercontent.com/xBMmaATox_2z_rb76UCJjh89iWITz6Ivqq4FyguM6bpi7429suZHIoB-exrAAJkyrQ" height="25px">
+					<a href="https://github.com/deluvsushi/checkersonline.py"> checkersonline.py </a>
+				</td>
 				<td> Mobile-API for checkersonline mobile game </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/101online.py"> 101online.py </td>
+				<td>
+					<img src="https://play-lh.googleusercontent.com/TQDa6xjLfzjRV_MtTOsGYHaxEpJ7A5WvEYj7hmTx6bB0Jj6H2tSWiB-cVVT0LDXEaDDP" height="25px">
+					<a href="https://github.com/deluvsushi/101online.py"> 101online.py </a>
+				</td>
 				<td> Mobile-API for 101online mobile game </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/anixart.py"> anixart.py </td>
+				<td>
+					<img src="https://anixart.tv/images/logo.svg" height="25px">
+					<a href="https://github.com/deluvsushi/anixart.py"> anixart.py </a>
+				</td>
 				<td> Mobile-API for anixart anime app </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/hackchat.py"> hackchat.py </td>
+				<td>
+					<img src="https://play-lh.googleusercontent.com/UGqSCx96rFlYX_P8YIzUBUo9g-q1J1Ba_dV1z0cxdBhWOmxZQODsPCDT7AQky7lBZA" height="25px">
+					<a href="https://github.com/deluvsushi/hackchat.py"> hackchat.py </a>
+				</td>
 				<td> Web-API for hack.chat chatrooms website </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/NotAlone.py"> NotAlone.py </td>
+				<td>
+					<img src="https://notalone.tv/images/logo.png" height="25px">
+					<a href="https://github.com/deluvsushi/NotAlone.py"> NotAlone.py </a>
+				</td>
 				<td> Web-API for https://notalone.tv website </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/vk_audio.py"> vk_audio.py </td>
+				<td>
+					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" height="25px">
+					<a href="https://github.com/deluvsushi/vk_audio.py"> vk_audio.py </a>
+				</td>
 				<td> Audio-API for vkontakte social network </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/drrr.py"> drrr.py </td>
+				<td>
+					<img src="https://drrr.com/apple-touch-icon.png" height="25px">
+					<a href="https://github.com/deluvsushi/drrr.py"> drrr.py </a>
+				</td>
 				<td> Web-API for drrr.com durarara dollars chatroom </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/zervo.py"> zervo.py </td>
+				<td>
+					<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/ee/7a/3cee7af2-2aeb-49b3-4713-b2e8601e9dc3/source/512x512bb.jpg" height="25px">
+					<a href="https://github.com/deluvsushi/zervo.py"> zervo.py </a>
+				</td>
 				<td> Mobile-API for zervo anime roleplay social network </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/bgmonline.py"> bgmonline.py </td>
+				<td>
+					<img src="https://play-lh.googleusercontent.com/HLpUkrTbePb7ygvmF4_3EZdsPMx7gH8USs5wGqSShjnUvsYBv0OxpgyMBhy_xDN0POWM=s200-rw" height="25px">
+					<a href="https://github.com/deluvsushi/bgmonline.py"> bgmonline.py </a>
+				</td>
 				<td> Mobile-API for backgammononline mobile game </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/vk_user.py"> vk_user.py </td>
+				<td>
+					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" height="25px">
+					<a href="https://github.com/deluvsushi/vk_user.py"> vk_user.py </a>
+				</td>
 				<td> UserBot-API for vkontakte social network </td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/deluvsushi/mcsrvstat.py"> mcsrvstat.py </td>
+				<td>
+					<img src="https://mcsrvstat.us/img/minecraft.png" height="25px">
+					<a href="https://github.com/deluvsushi/mcsrvstat.py"> mcsrvstat.py </a>
+				</td>
 				<td> Web-API for mcsrvstat.us website to get info about minecraft server's </td>
 			</tr>
 		</table>
