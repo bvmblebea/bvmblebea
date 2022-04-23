@@ -154,6 +154,13 @@
 				</td>
 				<td> Web-API for mcsrvstat.us website to get info about minecraft server's </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://capture.chat/static/assets/logo.png" height="25px">
+					<a href="https://github.com/deluvsushi/capture.py"> capture.py </a>
+				</td>
+				<td> Mobile-API for capture social network </td>
+			</tr>
 		</table>
 	</details>
 	<details>
