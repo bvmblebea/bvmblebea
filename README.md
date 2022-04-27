@@ -24,7 +24,7 @@
 			</tr>
 			<tr>
 				<td>
-					<img src="https://wa1.narvii.com/static/img/amino-logo-home.svg?v=2" height="25px">
+					<img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="20px">
 					<a href="https://github.com/deluvsushi/AminoLab"> AminoLab </a>
 				</td>
 				<td> Web-API for aminoapps social network </td>
