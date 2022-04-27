@@ -161,6 +161,13 @@
 				</td>
 				<td> Mobile-API for capture social network </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://campfire.moe/logo512.png" height="25px">
+					<a href="https://github.com/deluvsushi/campfire.py"> campfire.py </a>
+				</td>
+				<td> Web-API for campfire social network based on campfire.moe website </td>
+			</tr>
 		</table>
 	</details>
 	<details>
