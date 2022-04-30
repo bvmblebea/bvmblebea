@@ -168,6 +168,13 @@
 				</td>
 				<td> Web-API for campfire social network based on campfire.moe website </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://waifu.im/favicon.ico" height="25px">
+					<a href="https://github.com/deluvsushi/waifu_im.py"> waifu_im.py </a>
+				</td>
+				<td> Web-API for waifu.im website for getting waifu pictures from an archive of over 4000 images and multiple tags </td>
+			</tr>
 		</table>
 	</details>
 	<details>
