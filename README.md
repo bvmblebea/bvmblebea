@@ -189,6 +189,13 @@
 				</td>
 				<td> Web-API for crafatar.com website that serves Minecraft avatars based on the skin for use in external applications </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://tetr.io/res/logo.png" height="25px">
+					<a href="https://github.com/deluvsushi/tetr_io.py"> tetr_io.py </a>
+				</td>
+				<td> Web-API for tetr.io website TETRA CHANNEL REST-API </td>
+			</tr>
 		</table>
 	</details>
 	<details>
