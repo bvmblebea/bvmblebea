@@ -182,6 +182,13 @@
 				</td>
 				<td> Web-API for gdbrowser.com website that lets you browse all of Geometry Dash's online features </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://crafatar.com/logo.png" height="25px">
+					<a href="https://github.com/deluvsushi/crafatar.py"> crafatar.py </a>
+				</td>
+				<td> Web-API for crafatar.com website that serves Minecraft avatars based on the skin for use in external applications </td>
+			</tr>
 		</table>
 	</details>
 	<details>
