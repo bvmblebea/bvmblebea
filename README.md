@@ -175,6 +175,13 @@
 				</td>
 				<td> Web-API for waifu.im website for getting waifu pictures from an archive of over 4000 images and multiple tags </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://gdbrowser.com/assets/coin.png" height="25px">
+					<a href="https://github.com/deluvsushi/gdbrowser.py"> gdbrowser.py </a>
+				</td>
+				<td> Web-API for gdbrowser.com website that lets you browse all of Geometry Dash's online features </td>
+			</tr>
 		</table>
 	</details>
 	<details>
