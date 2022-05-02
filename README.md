@@ -196,6 +196,13 @@
 				</td>
 				<td> Web-API for tetr.io website TETRA CHANNEL REST-API </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://lolz.guru/public/2017/lzt_logo.png" height="25px">
+					<a href="https://github.com/deluvsushi/lolzteam.py"> lolzteam.py </a>
+				</td>
+				<td> Web-API for lolz.guru social engineering forum </td>
+			</tr>
 		</table>
 	</details>
 	<details>
