@@ -16,8 +16,10 @@
 	</div>
 	<details>
 		<summary><b>Projects</b></summary>
-		<p align="center">Wrappers</p>
-		<table width="25%">
+		<table>
+			<tr>
+				<th colspan="3">Wrappers</th>
+			</tr>
 			<tr>
 				<th>Name</th>
 				<th>Description</th>
