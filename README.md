@@ -203,6 +203,13 @@
 				</td>
 				<td> Web-API for lolz.guru social engineering forum </td>
 			</tr>
+			<tr>
+				<td>
+					<img src="https://img.guerrillamail.com/4/6/f/46f9fd8911b3a915c1fec119e9062d00.png" height="25px">
+					<a href="https://github.com/deluvsushi/guerrillamail.py"> guerrillamail.py </a>
+				</td>
+				<td> Web-API for guerrillamail.com disposable temporary email address website </td>
+			</tr>
 		</table>
 	</details>
 	<details>
