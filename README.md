@@ -16,10 +16,8 @@
 	</div>
 	<details>
 		<summary><b>Projects</b></summary>
+		<p align="center">Wrappers</p>
 		<table>
-			<tr>
-				<th colspan="3">Wrappers</th>
-			</tr>
 			<tr>
 				<th>Name</th>
 				<th>Description</th>
@@ -212,7 +210,9 @@
 				</td>
 				<td> Web-API for guerrillamail.com disposable temporary email address website </td>
 			</tr>
-			<tr><td colspan="5" style="text-align:right">Total = 27</td></tr>
+			<tr>
+				<td colspan="5" style="text-align:right">Total = 27</td>
+			</tr>
 		</table>
 	</details>
 	<details>
