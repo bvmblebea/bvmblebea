@@ -211,7 +211,14 @@
 				<td> Web-API for guerrillamail.com disposable temporary email address website </td>
 			</tr>
 			<tr>
-				<td colspan="5" style="text-align:right">Total = 27</td>
+				<td>
+					<img src="https://pixelencounter.com/android-chrome-512x512.png" height="25px">
+					<a href="https://github.com/deluvsushi/pixelencounter.py"> pixelencounter.py </a>
+				</td>
+				<td> Web-API for pixelencounter.com website that generates randomly generated pixel monsters and planets </td>
+			</tr>
+			<tr>
+				<td colspan="5" style="text-align:right">Total = 28</td>
 			</tr>
 		</table>
 	</details>
