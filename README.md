@@ -218,7 +218,14 @@
 				<td> Web-API for pixelencounter.com website that generates randomly generated pixel monsters & planets </td>
 			</tr>
 			<tr>
-				<td colspan="5" style="text-align:right">Total = 28</td>
+				<td>
+					<img src="https://www.chess.com/bundles/web/images/brand/chesscom_pawn.b51896bf.png" height="25px">
+					<a href="https://github.com/deluvsushi/chess_com.py"> chess_com.py </a>
+				</td>
+				<td> Web-API for chess.com that created to get player data, game data, and clubs/tournaments information </td>
+			</tr>
+			<tr>
+				<td colspan="5" style="text-align:right">Total = 29</td>
 			</tr>
 		</table>
 	</details>
