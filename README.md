@@ -225,7 +225,14 @@
 				<td> Web-API for chess.com that created to get player data, game data, and clubs/tournaments information </td>
 			</tr>
 			<tr>
-				<td colspan="5" style="text-align:right">Total = 29</td>
+				<td>
+					<img src="https://grustnogram.ru/_nuxt/img/logo.57cb97e.svg" height="25px">
+					<a href="https://github.com/deluvsushi/grustnogram.py"> grustnogram.py </a>
+				</td>
+				<td> Mobile-API for grustnogram social network </td>
+			</tr>
+			<tr>
+				<td colspan="5" style="text-align:right">Total = 30</td>
 			</tr>
 		</table>
 	</details>
