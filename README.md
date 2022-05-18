@@ -232,7 +232,14 @@
 				<td> Mobile-API for grustnogram social network </td>
 			</tr>
 			<tr>
-				<td colspan="5" style="text-align:right">Total = 30</td>
+				<td>
+					<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/c7c2f609-3290-417a-a2b3-30b80ef78f2a/icon/1ee1fcf3-7e16-4bb0-b949-0418df7378ec" height="25px">
+					<a href="https://github.com/deluvsushi/icndb.py"> icndb.py </a>
+				</td>
+				<td> Web-API for icndb.com website with jokes about chucknorris </td>
+			</tr>
+			<tr>
+				<td colspan="5" style="text-align:right">Total = 31</td>
 			</tr>
 		</table>
 	</details>
