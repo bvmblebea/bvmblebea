@@ -131,7 +131,11 @@
 			<td>
 				<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/c7c2f609-3290-417a-a2b3-30b80ef78f2a/icon/1ee1fcf3-7e16-4bb0-b949-0418df7378ec" height="25px">
 				<a href="https://github.com/deluvsushi/icndb.py"> icndb.py </a> </td>
-		</tr> <tr> <td colspan="5" style="text-align:right">Total = 31</td> </tr>
+			<td>
+				<img src="http://deckofcardsapi.com/static/img/favicon/android-chrome-192x192.png" height="25px">
+				<a href="https://github.com/deluvsushi/deckofcards.py"> deckofcards.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 32</td> </tr>
 	</table>
 	</div>
 	<details>
