@@ -136,7 +136,7 @@
 				<a href="https://github.com/deluvsushi/deckofcards.py"> deckofcards.py </a> </td>
 			<td>
 				<img src="https://www.cheapshark.com/img/logo_text.png?v=1.0" height="25px">
-				<a href="https://github.com/deluvsushi/cheap_shark.py"> cheak_shark.py </a> </td>
+				<a href="https://github.com/deluvsushi/cheap_shark.py"> cheap_shark.py </a> </td>
 		</tr>
 		<tr>
 			<td>
