@@ -162,7 +162,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://exbo.ru/templates/EXBO/assets/img/logo.png" height="25px">
+				<img src="https://i.postimg.cc/0yCgF1Bm/19-54-25-logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/forum_exbo.py"> forum_exbo.py </a> </td>
 		</tr>
 		<tr> <td colspan="5" style="text-align:right">Total::: 40</td> </tr>
