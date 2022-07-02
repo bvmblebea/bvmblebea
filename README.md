@@ -160,7 +160,12 @@
 				<img src="https://www.tronalddump.io/img/tronalddump_850x850.png" height="25px">
 				<a href="https://github.com/deluvsushi/tronald_dump.py"> tronald_dump.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 39</td> </tr>
+		<tr>
+			<td>
+				<img src="https://forum.exbo.ru/assets/logo-mpqtunjc.png" height="25px">
+				<a href="https://github.com/deluvsushi/forum_exbo.py"> forum_exbo.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 40</td> </tr>
 	</table>
 	</div>
 	<details>
