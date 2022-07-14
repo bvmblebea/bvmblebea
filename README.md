@@ -164,8 +164,11 @@
 			<td>
 				<img src="https://i.postimg.cc/0yCgF1Bm/19-54-25-logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/forum_exbo.py"> forum_exbo.py </a> </td>
+			<td>
+				<img src="https://ideer.ru/icon.svg" height="25px">
+				<a href="https://github.com/deluvsushi/podslyshano.py"> podslyshano.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 40</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 41</td> </tr>
 	</table>
 	</div>
 	<details>
