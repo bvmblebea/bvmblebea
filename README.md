@@ -1,7 +1,7 @@
 <body>
 	<h1 align="center"> Welcome to my profile🍺 </h1>
 	<div align="center">
-		<img src="https://thumbs.gfycat.com/SpitefulFocusedDogwoodclubgall-max-1mb.gif">
+		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
 	</div>
 	<br>
 	<div>
