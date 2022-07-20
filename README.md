@@ -167,8 +167,11 @@
 			<td>
 				<img src="https://ideer.ru/icon.svg" height="25px">
 				<a href="https://github.com/deluvsushi/podslyshano.py"> podslyshano.py </a> </td>
+			<td>
+				<img src="https://i.postimg.cc/xqrrvXLC/19-10-52-logo.png", height="25px">
+				<a href="https://github.com/deluvsushi/pppoker.py"> pppoker.py <a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 41</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 42</td> </tr>
 	</table>
 	</div>
 	<details>
