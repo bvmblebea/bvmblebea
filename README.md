@@ -168,7 +168,7 @@
 				<img src="https://ideer.ru/icon.svg" height="25px">
 				<a href="https://github.com/deluvsushi/podslyshano.py"> podslyshano.py </a> </td>
 			<td>
-				<img src="https://i.postimg.cc/xqrrvXLC/19-10-52-logo.png", height="25px">
+				<img src="https://play-lh.googleusercontent.com/GX1HP5GydfzTaAESUW3wluvdFLZLnfYUVfjMJReWb3KOb4BUqS0GbfpOyizVzAPrAD0", height="25px">
 				<a href="https://github.com/deluvsushi/pppoker.py"> pppoker.py <a> </td>
 		</tr>
 		<tr> <td colspan="5" style="text-align:right">Total::: 42</td> </tr>
