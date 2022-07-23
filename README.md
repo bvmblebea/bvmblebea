@@ -16,7 +16,7 @@
 	</div>
 	<div>
 	<table>
-		<tr> <th colspan="3">Wrappers</th> </tr>
+		<tr> <th colspan="5">Wrappers</th> </tr>
 		<tr>
 			<td>
 				<img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
@@ -27,19 +27,17 @@
 			<td>
 				<img src="https://sun9-64.userapi.com/s/v1/ig2/RygOXt5VE0TbLePu6FeuPPyzS0BOo3ouTUrxeaSsLagXi1hGC7cLfkWtn7yQAM9zaaJImPmzYK5VJIl8z-B7mEFP.jpg?size=837x837&quality=96&crop=0,0,837,837&ava=1" height="25px">
 				<a href="https://github.com/deluvsushi/Remanga.py"> Remanga.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://sun9-66.userapi.com/s/v1/if1/Yaj0rTAS--iQS0Cf_b4Wv3mbHwkjYLRG6MbbwzKqVbg5mL79CHtSJe5OzFm1rTDLKcdfYRxJ.jpg?size=220x220&quality=96&type=album" height="25px">
 				<a href="https://github.com/deluvsushi/RandStuff.py"> RandStuff.py </a> </td>
 			<td>
 				<img src="https://camo.githubusercontent.com/fa9addb6cfa56c10defce2309b5fcfdedb19b5b77b26616efce22afb8228cc24/68747470733a2f2f692e6962622e636f2f6250637a4331672f313633363937373132343038312e6a7067", height="25px">
 				<a href="https://github.com/deluvsushi/AuthorToday.py"> AuthorToday.py </a> </td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://pbs.twimg.com/profile_images/1126922506286325761/x4T2PAkG_400x400.png" height="25px">
 				<a href="https://github.com/deluvsushi/amino.py"> amino.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://www.projz.com/static/media/header-logo.b22c965b.webp" height="25px">
 				<a href="https://github.com/deluvsushi/ProjectZ.py"> ProjectZ.py </a> </td>
@@ -49,19 +47,17 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/xBMmaATox_2z_rb76UCJjh89iWITz6Ivqq4FyguM6bpi7429suZHIoB-exrAAJkyrQ" height="25px">
 				<a href="https://github.com/deluvsushi/checkersonline.py"> checkersonline.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/TQDa6xjLfzjRV_MtTOsGYHaxEpJ7A5WvEYj7hmTx6bB0Jj6H2tSWiB-cVVT0LDXEaDDP" height="25px">
 				<a href="https://github.com/deluvsushi/101online.py"> 101online.py </a> </td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://anixart.tv/images/logo.svg" height="25px">
 				<a href="https://github.com/deluvsushi/anixart.py"> anixart.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/UGqSCx96rFlYX_P8YIzUBUo9g-q1J1Ba_dV1z0cxdBhWOmxZQODsPCDT7AQky7lBZA" height="25px">
 				<a href="https://github.com/deluvsushi/hackchat.py"> hackchat.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://notalone.tv/images/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/NotAlone.py"> NotAlone.py </a> </td>
@@ -82,19 +78,17 @@
 			<td>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" height="25px">
 				<a href="https://github.com/deluvsushi/vk_user.py"> vk_user.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://mcsrvstat.us/img/minecraft.png" height="25px">
 				<a href="https://github.com/deluvsushi/mcsrvstat.py"> mcsrvstat.py </a> </td>
 			<td>
 				<img src="https://capture.chat/static/assets/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/capture.py"> capture.py </a> </td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://campfire.moe/logo512.png" height="25px">
 				<a href="https://github.com/deluvsushi/campfire.py"> campfire.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://waifu.im/favicon.ico" height="25px">
 				<a href="https://github.com/deluvsushi/waifu_im.py"> waifu_im.py </a> </td>
@@ -104,19 +98,17 @@
 			<td>
 				<img src="https://crafatar.com/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/crafatar.py"> crafatar.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://tetr.io/res/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/tetr_io.py"> tetr_io.py </a> </td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://lolz.guru/public/2017/lzt_logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/lolzteam.py"> lolzteam.py </a> </td>
 			<td>
 				<img src="https://img.guerrillamail.com/4/6/f/46f9fd8911b3a915c1fec119e9062d00.png" height="25px">
 				<a href="https://github.com/deluvsushi/guerrillamail.py"> guerrillamail.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://pixelencounter.com/android-chrome-512x512.png" height="25px">
 				<a href="https://github.com/deluvsushi/pixelencounter.py"> pixelencounter.py </a> </td>
@@ -137,19 +129,17 @@
 			<td>
 				<img src="https://www.cheapshark.com/img/logo_text.png?v=1.0" height="25px">
 				<a href="https://github.com/deluvsushi/cheap_shark.py"> cheap_shark.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://www.gamerpower.com/assets/images/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/gamerpower.py"> gamerpower.py </a> </td>
 			<td>
 				<img src="https://anonfiles.com/static/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/anonfiles.py"> anonfiles.py </a> </td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://www.mmobomb.com/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/mmobomb.py"> mmobomb.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://playerdb.co/assets/images/logo.svg" height="25px">
 				<a href="https://github.com/deluvsushi/playerdb.py"> playerdb.py </a> </td>
@@ -159,19 +149,17 @@
 			<td>
 				<img src="https://www.tronalddump.io/img/tronalddump_850x850.png" height="25px">
 				<a href="https://github.com/deluvsushi/tronald_dump.py"> tronald_dump.py </a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://i.postimg.cc/0yCgF1Bm/19-54-25-logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/forum_exbo.py"> forum_exbo.py </a> </td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://ideer.ru/icon.svg" height="25px">
 				<a href="https://github.com/deluvsushi/podslyshano.py"> podslyshano.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/GX1HP5GydfzTaAESUW3wluvdFLZLnfYUVfjMJReWb3KOb4BUqS0GbfpOyizVzAPrAD0", height="25px">
 				<a href="https://github.com/deluvsushi/pppoker.py"> pppoker.py <a> </td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/W0x7hw_30A1FONAdPJjf_6zbXCbsLnxqgFF8fhUoUZ4okYPfbLECUDj1vJ2toGlrcBIQ" height="25px">
 				<a href="https://github.com/deluvsushi/pocket_combats.py"> pocket_combats.py </a> </td>
