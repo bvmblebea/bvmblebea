@@ -10,7 +10,7 @@
 			<li><b>Nickname:</b> deluvsushi </li>
 			<li><b>Watched:</b> 148 anime </li>
 			<li><b>Loves:</b> Sushi🍣, Gaming👾 </li>
-			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing characters </li>
+			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
 			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
 	</div>
@@ -171,14 +171,19 @@
 				<img src="https://play-lh.googleusercontent.com/GX1HP5GydfzTaAESUW3wluvdFLZLnfYUVfjMJReWb3KOb4BUqS0GbfpOyizVzAPrAD0", height="25px">
 				<a href="https://github.com/deluvsushi/pppoker.py"> pppoker.py <a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 42</td> </tr>
+		<tr>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/W0x7hw_30A1FONAdPJjf_6zbXCbsLnxqgFF8fhUoUZ4okYPfbLECUDj1vJ2toGlrcBIQ" height="25px">
+				<a href="https://github.com/deluvsushi/pocket_combats.py"> pocket_combats.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 43</td> </tr>
 	</table>
 	</div>
 	<details>
 		<summary><b>Contact me</b></summary>
-		<p align="center"><a href="https://t.me/FFuckEmWeBaLL" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p>
-		<p align="center"><a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></p>
-		<p align="center"><a href="https://vk.com/skeletonic" target="_blank"><img src="https://img.shields.io/badge/VKontakte-597da3?style=for-the-badge&logo=vk&logoColor=white"></p>
+		<p align="center"><a href="https://t.me/FFuckEmWeBaLL" target="_blank"><img src="https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p>
+		<p align="center"><a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><img src="https://img.shields.io/badge/deluvsushi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></p>
+		<p align="center"><a href="https://vk.com/skeletonic" target="_blank"><img src="https://img.shields.io/badge/@skeletonic-597da3?style=for-the-badge&logo=vk&logoColor=white"></p>
 	</details>
 	<div>
 		<h2 align="center"> Knowledge🍻 </h2>
