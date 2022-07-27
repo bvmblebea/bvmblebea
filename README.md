@@ -158,13 +158,16 @@
 				<img src="https://ideer.ru/icon.svg" height="25px">
 				<a href="https://github.com/deluvsushi/podslyshano.py"> podslyshano.py </a> </td>
 			<td>
-				<img src="https://play-lh.googleusercontent.com/GX1HP5GydfzTaAESUW3wluvdFLZLnfYUVfjMJReWb3KOb4BUqS0GbfpOyizVzAPrAD0", height="25px">
+				<img src="https://play-lh.googleusercontent.com/GX1HP5GydfzTaAESUW3wluvdFLZLnfYUVfjMJReWb3KOb4BUqS0GbfpOyizVzAPrAD0" height="25px">
 				<a href="https://github.com/deluvsushi/pppoker.py"> pppoker.py <a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/W0x7hw_30A1FONAdPJjf_6zbXCbsLnxqgFF8fhUoUZ4okYPfbLECUDj1vJ2toGlrcBIQ" height="25px">
 				<a href="https://github.com/deluvsushi/pocket_combats.py"> pocket_combats.py </a> </td>
+			<td>
+				<img src="https://besplatno-poker.com/wp-content/uploads/2017/03/logo.png">
+				<a href="https://github.com/deluvsushi/poker_arena.py"> poker_arena.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 43</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 44</td> </tr>
 	</table>
 	</div>
 	<details>
