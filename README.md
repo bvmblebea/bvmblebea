@@ -22,7 +22,7 @@
 				<img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
 				<a href="https://github.com/deluvsushi/AminoLab"> AminoLab </a> </td>
 			<td>
-				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg", height="25px">
+				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="25px">
 				<a href="https://github.com/deluvsushi/Anilibria.py"> Anilibria.py </a> </td>
 			<td>
 				<img src="https://sun9-64.userapi.com/s/v1/ig2/RygOXt5VE0TbLePu6FeuPPyzS0BOo3ouTUrxeaSsLagXi1hGC7cLfkWtn7yQAM9zaaJImPmzYK5VJIl8z-B7mEFP.jpg?size=837x837&quality=96&crop=0,0,837,837&ava=1" height="25px">
@@ -164,7 +164,7 @@
 				<img src="https://play-lh.googleusercontent.com/W0x7hw_30A1FONAdPJjf_6zbXCbsLnxqgFF8fhUoUZ4okYPfbLECUDj1vJ2toGlrcBIQ" height="25px">
 				<a href="https://github.com/deluvsushi/pocket_combats.py"> pocket_combats.py </a> </td>
 			<td>
-				<img src="https://besplatno-poker.com/wp-content/uploads/2017/03/logo.png">
+				<img src="https://besplatno-poker.com/wp-content/uploads/2017/03/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/poker_arena.py"> poker_arena.py </a> </td>
 		</tr>
 		<tr> <td colspan="5" style="text-align:right">Total::: 44</td> </tr>
