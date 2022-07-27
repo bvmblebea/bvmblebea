@@ -166,8 +166,11 @@
 			<td>
 				<img src="https://besplatno-poker.com/wp-content/uploads/2017/03/logo.png" height="30px">
 				<a href="https://github.com/deluvsushi/poker_arena.py"> poker_arena.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/l5qIn_Cvhrte8ynxFbBDwUH0xnC_HsGsMOcypltkKUu6lug6uoAK4lkn6Q2VZkoalPdY" height="30px">
+				<a href="https://github.com/deluvsushi/gm_online.py"> gm_online.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 44</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 45</td> </tr>
 	</table>
 	</div>
 	<details>
