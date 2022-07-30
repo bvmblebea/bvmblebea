@@ -174,8 +174,14 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/RBnroz1zv-Q0uMdJwNH90RAqdtp20bJzNITAfX2CxbnvcDcmD9nnpaagk4yrb3cT-0w" height="30px">
 				<a href="https://github.com/deluvsushi/tttonline.py"> tttonline.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/XuhLtB92lA2sOXgyMnC5ijCnCSaKJfij0NRbnVTlul_EL1eXmFt1BW67imYe5HlgLQ" height="30px">
+				<a href="https://github.com/deluvsushi/lvluplife.py"> lvluplife.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/zNTRSx2VkiG45oLR6hk5ppUl63aCxgK4gqxMdebnA5xUvWaXI_pVQq8GBQ-fM3mSXTM" height="30px">
+				<a href="https://github.com/deluvsushi/fan_of_guns.py"> fan_of_guns.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 46</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 48</td> </tr>
 	</table>
 	</div>
 	<details>
