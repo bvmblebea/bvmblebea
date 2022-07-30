@@ -180,8 +180,11 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/zNTRSx2VkiG45oLR6hk5ppUl63aCxgK4gqxMdebnA5xUvWaXI_pVQq8GBQ-fM3mSXTM" height="30px">
 				<a href="https://github.com/deluvsushi/fan_of_guns.py"> fan_of_guns.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/uywltYg71rMi3AwWjLQeo8jIiRF8bZ95uPBcZHoXC8jpZtDA8M98yM78FOAEWPWwX5I" height="30px">
+				<a href="https://github.com/deluvsushi/hide_online.py"> hide_online.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 48</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 49</td> </tr>
 	</table>
 	</div>
 	<details>
