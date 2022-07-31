@@ -99,7 +99,7 @@
 				<img src="https://crafatar.com/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/crafatar.py"> crafatar.py </a> </td>
 			<td>
-				<img src="https://tetr.io/res/logo.png" height="25px">
+				<img src="https://www.speedrun.com/gameasset/k6q4xw9d/cover?v=69457c0" height="25px">
 				<a href="https://github.com/deluvsushi/tetr_io.py"> tetr_io.py </a> </td>
 		</tr>
 		<tr>
