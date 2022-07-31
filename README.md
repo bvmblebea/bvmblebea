@@ -99,7 +99,7 @@
 				<img src="https://crafatar.com/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/crafatar.py"> crafatar.py </a> </td>
 			<td>
-				<img src="https://www.speedrun.com/gameasset/k6q4xw9d/cover?v=69457c0" height="25px">
+				<img src="https://tetr.io/res/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/tetr_io.py"> tetr_io.py </a> </td>
 		</tr>
 		<tr>
@@ -183,8 +183,11 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/uywltYg71rMi3AwWjLQeo8jIiRF8bZ95uPBcZHoXC8jpZtDA8M98yM78FOAEWPWwX5I" height="25px">
 				<a href="https://github.com/deluvsushi/hide_online.py"> hide_online.py </a> </td>
+			<td>
+				<img src="https://rsrc.drrr.wiki/3/33/Drrr.chat-logo-trans.png" height="25px">
+				<a href="https://github.com/deluvsushi/drrr_chat.py"> drrr_chat.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 49</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 50</td> </tr>
 	</table>
 	</div>
 	<details>
