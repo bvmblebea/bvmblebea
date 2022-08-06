@@ -3,6 +3,7 @@
 	<div align="center">
 		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
 	</div>
+	<code> 極めろ。泣いていい、逃げてもいい、ただ、諦めるな。 </code>
 	<br>
 	<div>
 		<h2 align="center"> About me🍪 </h2>
