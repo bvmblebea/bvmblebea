@@ -9,7 +9,7 @@
 	</div>
 	<br>
 	<div>
-		<h2 align="center"> About me🍪 </h2>
+		<h2 align="center"> About me </h2>
 		<ul>
 			<li><b>Nickname:</b> deluvsushi </li>
 			<li><b>Watched:</b> 156 anime </li>
