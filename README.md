@@ -11,8 +11,8 @@
 		<h2 align="center"> About me🍪 </h2>
 		<ul>
 			<li><b>Nickname:</b> deluvsushi </li>
-			<li><b>Watched:</b> 148 anime </li>
-			<li><b>Loves:</b> Sushi🍣, Gaming👾 </li>
+			<li><b>Watched:</b> 156 anime </li>
+			<li><b>Loves:</b> Sushi, Gaming </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
 			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
