@@ -4,7 +4,8 @@
 		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
 	</div>
 	<div align="center">
-		<code> 極めろ。泣いていい、逃げてもいい、ただ、諦めるな。 </code>
+		<code> You put a gun on my mans </code> <br>
+		<code> I put a hole in your parents </code>
 	</div>
 	<br>
 	<div>
