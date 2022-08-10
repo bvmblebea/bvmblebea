@@ -44,7 +44,7 @@
 				<a href="https://github.com/deluvsushi/amino.py"> amino.py </a> </td>
 			<td>
 				<img src="https://www.projz.com/static/media/header-logo.b22c965b.webp" height="25px">
-				<a href="https://github.com/deluvsushi/ProjectZ.py"> ProjectZ.py </a> </td>
+				<a href="https://github.com/deluvsushi/projectz.py"> projectz.py </a> </td>
 			<td>
 				<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="25px">
 				<a href="https://github.com/deluvsushi/discord_user.py"> discord_user.py </a> </td>
