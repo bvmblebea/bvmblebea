@@ -61,7 +61,7 @@
 				<a href="https://github.com/deluvsushi/anixart.py"> anixart.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/UGqSCx96rFlYX_P8YIzUBUo9g-q1J1Ba_dV1z0cxdBhWOmxZQODsPCDT7AQky7lBZA" height="25px">
-				<a href="https://github.com/deluvsushi/hackchat.py"> hackchat.py </a> </td>
+				<a href="https://github.com/deluvsushi/hack_chat.py"> hackchat.py </a> </td>
 			<td>
 				<img src="https://notalone.tv/images/logo.png" height="25px">
 				<a href="https://github.com/deluvsushi/notalone.py"> notalone.py </a> </td>
