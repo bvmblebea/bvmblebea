@@ -64,7 +64,7 @@
 				<a href="https://github.com/deluvsushi/hackchat.py"> hackchat.py </a> </td>
 			<td>
 				<img src="https://notalone.tv/images/logo.png" height="25px">
-				<a href="https://github.com/deluvsushi/NotAlone.py"> NotAlone.py </a> </td>
+				<a href="https://github.com/deluvsushi/notalone.py"> notalone.py </a> </td>
 			<td>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" height="25px">
 				<a href="https://github.com/deluvsushi/vk_audio.py"> vk_audio.py </a> </td>
