@@ -24,7 +24,7 @@
 		<tr>
 			<td>
 				<img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
-				<a href="https://github.com/deluvsushi/AminoLab"> AminoLab </a> </td>
+				<a href="https://github.com/deluvsushi/aminoapps.py"> aminoapps.py </a> </td>
 			<td>
 				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="25px">
 				<a href="https://github.com/deluvsushi/Anilibria.py"> Anilibria.py </a> </td>
