@@ -27,7 +27,7 @@
 				<a href="https://github.com/deluvsushi/aminoapps.py"> aminoapps.py </a> </td>
 			<td>
 				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="25px">
-				<a href="https://github.com/deluvsushi/Anilibria.py"> anilibria.py </a> </td>
+				<a href="https://github.com/deluvsushi/anilibria.py"> anilibria.py </a> </td>
 			<td>
 				<img src="https://sun9-64.userapi.com/s/v1/ig2/RygOXt5VE0TbLePu6FeuPPyzS0BOo3ouTUrxeaSsLagXi1hGC7cLfkWtn7yQAM9zaaJImPmzYK5VJIl8z-B7mEFP.jpg?size=837x837&quality=96&crop=0,0,837,837&ava=1" height="25px">
 				<a href="https://github.com/deluvsushi/remanga.py"> remanga.py </a> </td>
@@ -46,8 +46,8 @@
 				<img src="https://www.projz.com/static/media/header-logo.b22c965b.webp" height="25px">
 				<a href="https://github.com/deluvsushi/ProjectZ.py"> ProjectZ.py </a> </td>
 			<td>
-				<img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="25px">
-				<a href="https://github.com/deluvsushi/Discord_user.py"> Discord_user.py </a> </td>
+				<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="25px">
+				<a href="https://github.com/deluvsushi/discord_user.py"> discord_user.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/xBMmaATox_2z_rb76UCJjh89iWITz6Ivqq4FyguM6bpi7429suZHIoB-exrAAJkyrQ" height="25px">
 				<a href="https://github.com/deluvsushi/checkersonline.py"> checkersonline.py </a> </td>
