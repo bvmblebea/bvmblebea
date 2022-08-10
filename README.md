@@ -27,7 +27,7 @@
 				<a href="https://github.com/deluvsushi/aminoapps.py"> aminoapps.py </a> </td>
 			<td>
 				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="25px">
-				<a href="https://github.com/deluvsushi/Anilibria.py"> Anilibria.py </a> </td>
+				<a href="https://github.com/deluvsushi/Anilibria.py"> anilibria.py </a> </td>
 			<td>
 				<img src="https://sun9-64.userapi.com/s/v1/ig2/RygOXt5VE0TbLePu6FeuPPyzS0BOo3ouTUrxeaSsLagXi1hGC7cLfkWtn7yQAM9zaaJImPmzYK5VJIl8z-B7mEFP.jpg?size=837x837&quality=96&crop=0,0,837,837&ava=1" height="25px">
 				<a href="https://github.com/deluvsushi/remanga.py"> remanga.py </a> </td>
