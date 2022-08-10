@@ -50,7 +50,7 @@
 				<a href="https://github.com/deluvsushi/discord_user.py"> discord_user.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/xBMmaATox_2z_rb76UCJjh89iWITz6Ivqq4FyguM6bpi7429suZHIoB-exrAAJkyrQ" height="25px">
-				<a href="https://github.com/deluvsushi/checkersonline.py"> checkersonline.py </a> </td>
+				<a href="https://github.com/deluvsushi/checkers_online.py"> checkers_online.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/TQDa6xjLfzjRV_MtTOsGYHaxEpJ7A5WvEYj7hmTx6bB0Jj6H2tSWiB-cVVT0LDXEaDDP" height="25px">
 				<a href="https://github.com/deluvsushi/101online.py"> 101online.py </a> </td>
