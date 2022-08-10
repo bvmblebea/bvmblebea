@@ -36,7 +36,7 @@
 				<a href="https://github.com/deluvsushi/RandStuff.py"> RandStuff.py </a> </td>
 			<td>
 				<img src="https://camo.githubusercontent.com/fa9addb6cfa56c10defce2309b5fcfdedb19b5b77b26616efce22afb8228cc24/68747470733a2f2f692e6962622e636f2f6250637a4331672f313633363937373132343038312e6a7067", height="25px">
-				<a href="https://github.com/deluvsushi/AuthorToday.py"> AuthorToday.py </a> </td>
+				<a href="https://github.com/deluvsushi/author_today.py"> author_today.py </a> </td>
 		</tr>
 		<tr>
 			<td>
