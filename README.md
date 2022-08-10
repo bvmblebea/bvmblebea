@@ -86,7 +86,7 @@
 				<img src="https://mcsrvstat.us/img/minecraft.png" height="25px">
 				<a href="https://github.com/deluvsushi/mcsrvstat.py"> mcsrvstat.py </a> </td>
 			<td>
-				<img src="https://capture.chat/static/assets/logo.png" height="25px">
+				<img src="https://play-lh.googleusercontent.com/WDoP-Jos3M3Y7Kp5ihcOdYFhf50u_flPHvx2j0YjFh-0cv8aQZo11eDkNo7qFTZWyq29" height="25px">
 				<a href="https://github.com/deluvsushi/capture.py"> capture.py </a> </td>
 		</tr>
 		<tr>
