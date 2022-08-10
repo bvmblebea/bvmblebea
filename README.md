@@ -23,7 +23,7 @@
 		<tr> <th colspan="5">Wrappers</th> </tr>
 		<tr>
 			<td>
-				<img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				<img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="20px">
 				<a href="https://github.com/deluvsushi/aminoapps.py"> aminoapps.py </a> </td>
 			<td>
 				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="25px">
