@@ -201,8 +201,11 @@
 			<td>
 				<img src="http://colormind.io/img/logo_nav.svg" height="20px">
 				<a href="https://github.com/deluvsushi/colormind.py"> colormind.py </a> </td>
+			<td>
+				<img src="https://www.freetogame.com/assets/images/freetogame-logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/free_to_game.py"> free_to_game.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 53</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 54</td> </tr>
 	</table>
 	</div>
 	<details>
