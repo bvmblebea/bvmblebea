@@ -198,8 +198,11 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/3zfxWSRXQgx_8SAdCySsSYV59EdW8CW0YW-hA7oZSiMnVBpgMG2luQHcVfDmRneRJA" height="20px">
 				<a href="https://github.com/deluvsushi/nightwave_plaza.py"> nightwave_plaza.py </a> </td>
+			<td>
+				<img src="http://colormind.io/img/logo_nav.svg" height="20px">
+				<a href="https://github.com/deluvsushi/colormind.py"> colormind.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 52</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 53</td> </tr>
 	</table>
 	</div>
 	<details>
