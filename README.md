@@ -195,8 +195,11 @@
 			<td>
 				<img src="https://shrtco.de/img/favicons/android-chrome-512x512.png?v=3" height="20px">
 				<a href="https://github.com/deluvsushi/shrtcode.py"> shrtcode.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/3zfxWSRXQgx_8SAdCySsSYV59EdW8CW0YW-hA7oZSiMnVBpgMG2luQHcVfDmRneRJA" height="20px">
+				<a href="https://github.com/deluvsushi/nightwave_plaza.py"> nightwave_plaza.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 51</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 52</td> </tr>
 	</table>
 	</div>
 	<details>
