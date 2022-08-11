@@ -191,7 +191,12 @@
 				<img src="https://rsrc.drrr.wiki/3/33/Drrr.chat-logo-trans.png" height="20px">
 				<a href="https://github.com/deluvsushi/drrr_chat.py"> drrr_chat.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 50</td> </tr>
+		<tr>
+			<td>
+				<img src="https://shrtco.de/img/favicons/android-chrome-512x512.png?v=3" height="20px">
+				<a href="https://github.com/deluvsushi/shrtcode.py"> shrtcode.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 51</td> </tr>
 	</table>
 	</div>
 	<details>
