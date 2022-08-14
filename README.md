@@ -11,7 +11,7 @@
 	<div>
 		<h2 align="center"> About me </h2>
 		<ul>
-			<li><b>Nickname:</b> deluvsushi </li>
+			<li><b>Nickname:</b> Artemis, deluvsushi </li>
 			<li><b>Watched:</b> 156 anime </li>
 			<li><b>Loves:</b> Sushi, Gaming </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
