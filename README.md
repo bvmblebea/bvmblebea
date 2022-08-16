@@ -14,8 +14,8 @@
 			<li><b>Nickname:</b> Adonis, deluvsushi </li>
 			<li><b>Watched:</b> 156 anime </li>
 			<li><b>Loves:</b> Sushi, Gaming </li>
-			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
-			<li><b>Trying to learn:</b> Reverse engineering </li>
+			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing characters</li>
+			<li><b>Trying to:</b> Learn reverse engineering, get human emotions </li>
 		</ul>
 	</div>
 	<div>
