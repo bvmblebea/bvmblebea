@@ -29,7 +29,7 @@
 				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="20px">
 				<a href="https://github.com/deluvsushi/anilibria.py"> anilibria.py </a> </td>
 			<td>
-				<img src="https://sun9-64.userapi.com/s/v1/ig2/RygOXt5VE0TbLePu6FeuPPyzS0BOo3ouTUrxeaSsLagXi1hGC7cLfkWtn7yQAM9zaaJImPmzYK5VJIl8z-B7mEFP.jpg?size=837x837&quality=96&crop=0,0,837,837&ava=1" height="20px">
+				<img src="https://camo.githubusercontent.com/872f8251c493fa567820fdea213a74451e0b9ebb2400b9f1e594934463b9b000/68747470733a2f2f7265636f6d6963732e6f72672f69636f6e2e706e67" height="20px">
 				<a href="https://github.com/deluvsushi/remanga.py"> remanga.py </a> </td>
 			<td>
 				<img src="https://sun9-66.userapi.com/s/v1/if1/Yaj0rTAS--iQS0Cf_b4Wv3mbHwkjYLRG6MbbwzKqVbg5mL79CHtSJe5OzFm1rTDLKcdfYRxJ.jpg?size=220x220&quality=96&type=album" height="20px">
@@ -232,8 +232,11 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/napDdeoQAsGmvzaHVMT_iMRqjvo5tB9uGXkaoxfTDGFcLgqq_A39BD-dpff1fLSKH64=w240-h480-rw" height="20px">
 				<a href="https://github.com/deluvsushi/online_sms.py"> online_sms.py </a> </td>
+			<td>
+				<img src="https://camo.githubusercontent.com/872f8251c493fa567820fdea213a74451e0b9ebb2400b9f1e594934463b9b000/68747470733a2f2f7265636f6d6963732e6f72672f69636f6e2e706e67" height="20px">
+				<a href="https://github.com/deluvsushi/recomics.py"> recomics.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 62</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 63</td> </tr>
 	</table>
 	</div>
 	<details>
