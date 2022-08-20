@@ -235,8 +235,11 @@
 			<td>
 				<img src="https://camo.githubusercontent.com/872f8251c493fa567820fdea213a74451e0b9ebb2400b9f1e594934463b9b000/68747470733a2f2f7265636f6d6963732e6f72672f69636f6e2e706e67" height="20px">
 				<a href="https://github.com/deluvsushi/recomics.py"> recomics.py </a> </td>
+			<td>
+				<img src="https://camo.githubusercontent.com/872f8251c493fa567820fdea213a74451e0b9ebb2400b9f1e594934463b9b000/68747470733a2f2f7265636f6d6963732e6f72672f69636f6e2e706e67" height="20px">
+				<a href="https://github.com/deluvsushi/renovels.py"> renovels.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 63</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 64</td> </tr>
 	</table>
 	</div>
 	<details>
