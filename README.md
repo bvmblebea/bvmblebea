@@ -11,11 +11,11 @@
 	<div>
 		<h2 align="center"> About me </h2>
 		<ul>
-			<li><b>Nickname:</b> Adonis, deluvsushi </li>
+			<li><b>Nickname:</b> cantarella, deluvsushi </li>
 			<li><b>Watched:</b> 156 anime </li>
 			<li><b>Loves:</b> Sushi, Gaming </li>
-			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing characters</li>
-			<li><b>Trying to:</b> Learn reverse engineering, Get human emotions, Be like normal people</li>
+			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
+			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
 	</div>
 	<div>
@@ -204,8 +204,33 @@
 			<td>
 				<img src="https://www.freetogame.com/assets/images/freetogame-logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/free_to_game.py"> free_to_game.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/UbVxvDdZuooIGvhVc_jxrTECKHsFIWzX4mUZdkx26Qbc8uzg9_Yvc552QsMOHZqq2A" height="20px">
+				<a href="https://github.com/deluvsushi/among_chat.py"> among_chat.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 54</td> </tr>
+		<tr>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/Kw2p-ZJ42YJ7KzMswCOlmUXyybn_ozRQzAWuRDYU99yqbK48WHDFKtywcQyIw3FBNQ" height="20px">
+				<a href="https://github.com/deluvsushi/chess_royale.py"> chess_royale.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/6So1NGvRZ1xLq5Y7gjth5jLv9yP_bMkeT4BYYaglZ9tM_oIgoDyEx79PenhceXLwBKpc" height="20px">
+				<a href="https://github.com/deluvsushi/guilded.py"> guilded.py </a> </td>
+			<td>
+				<img src="https://static.tildacdn.com/tild3330-3832-4066-a662-303132353330/logo_big.png" height="20px">
+				<a href="https://github.com/deluvsushi/pp_nards.py"> pp_nards.py </a> </td>
+			<td>
+				<img src="https://lib.social/images/social.png?435" height="20px">
+				<a href="https://github.com/deluvsushi/social_lib.py"> social_lib.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/irCKdYt7yTkBngsXhwuXuVaYRX8-v1JL6WEDBaHCj-cA_BsaBVfuarMwGvsjeXevclo=w240-h480-rw" height="20px">
+				<a href="https://github.com/deluvsushi/vent.py"> vent.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://wolvesville.com/static/media/logo_text.a219eb8e.png" height="20px">
+				<a href="https://github.com/deluvsushi/wolvesville.py"> wolvesville.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 61</td> </tr>
 	</table>
 	</div>
 	<details>
