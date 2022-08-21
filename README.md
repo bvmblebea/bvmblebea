@@ -263,8 +263,11 @@
 			<td>
 				<img src="https://random-d.uk/static/favicon.png" height="20px">
 				<a href="https://github.com/deluvsushi/random_d_uk.py"> random_d_uk.py </a> </td>
+			<td>
+				<img src="https://catboys.com/favicon.png" height="20px">
+				<a href="https://github.com/deluvsushi/cat_boys.py"> cat_boys.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 71</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 72</td> </tr>
 	</table>
 	</div>
 	<details>
