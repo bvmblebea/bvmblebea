@@ -297,8 +297,11 @@
 			<td>
 				<img src="https://finalspaceapi.com/img/logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/final_space.py"> final_space.py </a> </td>
+			<td>
+				<img src="https://gameofthronesquotes.xyz/img/logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/g_o_t_quotes.py"> g_o_t_quotes.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 81</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 82</td> </tr>
 	</table>
 	</div>
 	<details>
