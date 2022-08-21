@@ -250,7 +250,7 @@
 				<img src="https://static.wattpad.com/image/supportfooterlogo.png" height="20px">
 				<a href="https://github.com/deluvsushi/wattpad.py"> wattpad.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 66</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 67</td> </tr>
 	</table>
 	</div>
 	<details>
