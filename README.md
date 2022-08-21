@@ -259,7 +259,12 @@
 				<img src="https://dog.ceo/img/dog-api-logo.svg" height="20px">
 				<a href="https://github.com/deluvsushi/dog_ceo.py"> dog_ceo.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 70</td> </tr>
+		<tr>
+			<td>
+				<img src="https://random-d.uk/static/favicon.png" height="20px">
+				<a href="https://github.com/deluvsushi/random_d_uk.py"> random_d_uk.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 71</td> </tr>
 	</table>
 	</div>
 	<details>
