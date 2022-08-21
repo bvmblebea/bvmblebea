@@ -272,8 +272,11 @@
 			<td>
 				<img src="https://bayfiles.com/static/logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/bayfiles.py"> bayfiles.py </a> </td>
+			<td>
+				<img src="https://www.apicagent.com/assets/img/favicons/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/deluvsushi/apic_agent.py"> apic_agent.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 74</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 75</td> </tr>
 	</table>
 	</div>
 	<details>
