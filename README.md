@@ -246,6 +246,9 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/i0mVZnCIXrkka2iEPqfUxm7mmQZeN77uABX_oQ1bt7QZfYDiCKeS7Jk6_nsYoJkBbQ" height="20px">
 				<a href="https://github.com/deluvsushi/game_jolt.py"> game_jolt.py </a> </td>
+			<td>
+				<img src="https://static.wattpad.com/image/supportfooterlogo.png" height="20px">
+				<a href="https://github.com/deluvsushi/wattpad.py"> wattpad.py </a> </td>
 		</tr>
 		<tr> <td colspan="5" style="text-align:right">Total::: 66</td> </tr>
 	</table>
