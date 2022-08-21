@@ -255,8 +255,11 @@
 			<td>
 				<img src="https://gasome.com/appIcon.png" height="20px">
 				<a href="https://github.com/deluvsushi/gasome.py"> gasome.py </a> </td>
+			<td>
+				<img src="https://dog.ceo/img/dog-api-logo.svg" height="20px">
+				<a href="https://github.com/deluvsushi/dog_ceo.py"> dog_ceo.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 69</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 70</td> </tr>
 	</table>
 	</div>
 	<details>
