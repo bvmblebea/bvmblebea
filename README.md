@@ -286,8 +286,11 @@
 			<td>
 				<img src="https://www.fruityvice.com/images/apple-touch-icon.png" height="20px">
 				<a href="https://github.com/deluvsushi/fruity_vice.py"> fruity_vice.py </a> </td>
+			<td>
+				<img src="https://whiskyhunter.net/static/apple-touch-icon-180x180.png" height="20px">
+				<a href="https://github.com/deluvsushi/whisky_hunter.py"> whisky_hunter.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 78</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 79</td> </tr>
 	</table>
 	</div>
 	<details>
