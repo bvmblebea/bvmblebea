@@ -290,7 +290,7 @@
 				<img src="https://whiskyhunter.net/static/apple-touch-icon-180x180.png" height="20px">
 				<a href="https://github.com/deluvsushi/whisky_hunter.py"> whisky_hunter.py </a> </td>
 			<td>
-				<img src="https://icanhazdadjoke.com/static/smile.png" height="20px">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/718smiley.svg/2048px-718smiley.svg.png" height="20px">
 				<a href="https://github.com/deluvsushi/icanhazdadjoke.py"> icanhazdadjoke.py </a> </td>
 		</tr>
 		<tr> <td colspan="5" style="text-align:right">Total::: 80</td> </tr>
