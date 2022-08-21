@@ -280,8 +280,11 @@
 			<td>
 				<img src="https://s3.amazonaws.com/statuspage-production/pages-transactional_logos/normal/29246/nt165cuvSgGdvTdII44b" height="20px">
 				<a href="https://github.com/deluvsushi/digital_ocean.py"> digital_ocean.py </a> </td>
+			<td>
+				<img src="https://disify.com/img/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/deluvsushi/disify.py"> disify.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 76</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 77</td> </tr>
 	</table>
 	</div>
 	<details>
