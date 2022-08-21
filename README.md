@@ -269,8 +269,11 @@
 			<td>
 				<img src="https://nekos.best/logo.svg" height="20px">
 				<a href="https://github.com/deluvsushi/nekos_best.py"> nekos_best.py </a> </td>
+			<td>
+				<img src="https://bayfiles.com/static/logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/bayfiles.py"> bayfiles.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 73</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 74</td> </tr>
 	</table>
 	</div>
 	<details>
