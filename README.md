@@ -252,8 +252,11 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/V3tQSnvUIUtlPJHuadNYfV_IbFHS8KcNMeWqBg2LqyA--QtmITKzFJ5hP2LASdx61A=w240-h480-rw" height="20px">
 				<a href="https://github.com/deluvsushi/lmk.py"> lmk.py </a> </td>
+			<td>
+				<img src="https://gasome.com/appIcon.png" height="20px">
+				<a href="https://github.com/deluvsushi/gasome.py"> gasome.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 68</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 69</td> </tr>
 	</table>
 	</div>
 	<details>
