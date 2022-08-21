@@ -293,7 +293,12 @@
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/718smiley.svg/2048px-718smiley.svg.png" height="20px">
 				<a href="https://github.com/deluvsushi/icanhazdadjoke.py"> icanhazdadjoke.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 80</td> </tr>
+		<tr>
+			<td>
+				<img src="https://finalspaceapi.com/img/logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/final_space.py"> final_space.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 81</td> </tr>
 	</table>
 	</div>
 	<details>
