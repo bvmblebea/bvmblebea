@@ -283,8 +283,11 @@
 			<td>
 				<img src="https://disify.com/img/apple-touch-icon.png" height="20px">
 				<a href="https://github.com/deluvsushi/disify.py"> disify.py </a> </td>
+			<td>
+				<img src="https://www.fruityvice.com/images/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/deluvsushi/fruity_vice.py"> fruity_vice.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 77</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 78</td> </tr>
 	</table>
 	</div>
 	<details>
