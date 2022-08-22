@@ -303,8 +303,11 @@
 			<td>
 				<img src="https://www.coinlore.com/cl_logo.webp" height="20px">
 				<a href="https://github.com/deluvsushi/coin_lore.py"> coin_lore.py </a> </td>
+			<td>
+				<img src="https://www.openbrewerydb.org/_app/assets/obdb-logo-bfe70fda.png" height="20px">
+				<a href="https://github.com/deluvsushi/open_brewery_db.py"> open_brewery_db.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 83</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 84</td> </tr>
 	</table>
 	</div>
 	<details>
