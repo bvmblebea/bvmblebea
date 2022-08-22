@@ -320,8 +320,11 @@
 			<td>
 				<img src="https://whatpulse.org/images/dashboard/logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/what_pulse.py"> what_pulse.py </a> </td>
+			<td>
+				<img src="https://www.uuidtools.com/android-icon-192x192.png" height="20px">
+				<a href="https://github.com/deluvsushi/uuid_tools.py"> uuid_tools.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 88</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 89</td> </tr>
 	</table>
 	</div>
 	<details>
