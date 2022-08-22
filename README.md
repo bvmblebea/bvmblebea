@@ -13,7 +13,7 @@
 		<ul>
 			<li><b>Nickname:</b> sazerac, deluvsushi </li>
 			<li><b>Watched:</b> 156 anime </li>
-			<li><b>Loves:</b> Sushi, Gaming </li>
+			<li><b>Loves:</b> Sushi, Gaming, UK Drill </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
 			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
@@ -300,8 +300,11 @@
 			<td>
 				<img src="https://gameofthronesquotes.xyz/img/logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/g_o_t_quotes.py"> g_o_t_quotes.py </a> </td>
+			<td>
+				<img src="https://www.coinlore.com/cl_logo.webp" height="20px">
+				<a href="https://github.com/deluvsushi/coin_lore.py"> coin_lore.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 82</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 83</td> </tr>
 	</table>
 	</div>
 	<details>
