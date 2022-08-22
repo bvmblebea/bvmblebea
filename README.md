@@ -1,5 +1,5 @@
 <body>
-	<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍺"/> </h1>
+	<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍺"> </h1>
 	<div align="center">
 		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
 	</div>
@@ -317,8 +317,11 @@
 			<td>
 				<img src="https://www.datamuse.com/api/datamuse-logo-rgb.png" height="20px">
 				<a href="https://github.com/deluvsushi/datamuse.py"> datamuse.py </a> </td>
+			<td>
+				<img src="https://whatpulse.org/images/dashboard/logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/what_pulse.py"> what_pulse.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 87</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 88</td> </tr>
 	</table>
 	</div>
 	<details>
