@@ -310,7 +310,11 @@
 				<img src="https://static.coingecko.com/s/coingecko-logo-8903d34ce19ca4be1c81f0db30e924154750d208683fad7ae6f2ce06c76d0a56.png" height="20px">
 				<a href="https://github.com/deluvsushi/coin_gecko.py"> coin_gecko.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 85</td> </tr>
+		<tr>
+			<td>
+				<img src="https://date.nager.at/images/logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/nager_date.py"> nager_date.py </a> </td>
+		<tr> <td colspan="5" style="text-align:right">Total::: 86</td> </tr>
 	</table>
 	</div>
 	<details>
