@@ -323,8 +323,11 @@
 			<td>
 				<img src="https://www.uuidtools.com/android-icon-192x192.png" height="20px">
 				<a href="https://github.com/deluvsushi/uuid_tools.py"> uuid_tools.py </a> </td>
+			<td>
+				<img src="http://metaphorpsum.com/images/logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/metaphorpsum.py"> metaphorpsum.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 89</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 90</td> </tr>
 	</table>
 	</div>
 	<details>
