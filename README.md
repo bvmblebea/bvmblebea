@@ -327,7 +327,12 @@
 				<img src="http://metaphorpsum.com/images/logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/metaphorpsum.py"> metaphorpsum.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 90</td> </tr>
+		<tr>
+			<td>
+				<img src="https://avatars.dicebear.com/img/favicon.svg" height="20px">
+				<a href="https://github.com/deluvsushi/dicebear_avatars.py"> dicebear_avatars.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 91</td> </tr>
 	</table>
 	</div>
 	<details>
