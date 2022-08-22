@@ -314,7 +314,11 @@
 			<td>
 				<img src="https://date.nager.at/images/logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/nager_date.py"> nager_date.py </a> </td>
-		<tr> <td colspan="5" style="text-align:right">Total::: 86</td> </tr>
+			<td>
+				<img src="https://www.datamuse.com/api/datamuse-logo-rgb.png" height="20px">
+				<a href="https://github.com/deluvsushi/datamuse.py"> datamuse.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 87</td> </tr>
 	</table>
 	</div>
 	<details>
