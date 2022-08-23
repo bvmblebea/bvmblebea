@@ -334,8 +334,11 @@
 			<td>
 				<img src="http://shoutcloud.io/images/logo.svg" height="20px">
 				<a href="https://github.com/deluvsushi/shout_cloud.py"> shout_cloud.py </a> </td>
+			<td>
+				<img src="https://camo.githubusercontent.com/f614db8b64928159b3c6a36b3a67eb98ae72f7b1a960096e1c7f35b35a68bd4c/68747470733a2f2f692e706f7374696d672e63632f387a4c516864344a2f69636f6e2d312e706e67" height="20px">
+				<a href="https://github.com/deluvsushi/cryptonator.py"> cryptonator.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 92</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 93</td> </tr>
 	</table>
 	</div>
 	<details>
