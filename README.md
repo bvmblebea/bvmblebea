@@ -351,8 +351,11 @@
 			<td>
 				<img src="https://kanye.rest/icon.png" height="20px">
 				<a href="https://github.com/deluvsushi/kanye_rest.py"> kanye_rest.py </a> </td>
+			<td>
+				<img src="https://breakingbadquotes.xyz/img/logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/brba_quotes.py"> brba_quotes.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 97</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 98</td> </tr>
 	</table>
 	</div>
 	<details>
