@@ -331,8 +331,11 @@
 			<td>
 				<img src="https://avatars.dicebear.com/img/favicon.svg" height="20px">
 				<a href="https://github.com/deluvsushi/dicebear_avatars.py"> dicebear_avatars.py </a> </td>
+			<td>
+				<img src="http://shoutcloud.io/images/logo.svg" height="20px">
+				<a href="https://github.com/deluvsushi/shout_cloud.py"> shout_cloud.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 91</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 92</td> </tr>
 	</table>
 	</div>
 	<details>
