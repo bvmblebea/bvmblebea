@@ -357,8 +357,11 @@
 			<td>
 				<img src="https://adviceslip.com/app/img/page_thumb.png" height="20px">
 				<a href="https://github.com/deluvsushi/advice_slip.py"> advice_slip.py </a> </td>
+			<td>
+				<img src="https://kimiquotes.herokuapp.com/favicon.png" height="20px">
+				<a href="https://github.com/deluvsushi/kimi_quotes.py"> kimi_quotes.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 99</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 100</td> </tr>
 	</table>
 	</div>
 	<details>
