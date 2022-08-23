@@ -344,7 +344,12 @@
 				<img src="https://www.kwelo.com/images/kwelo_logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/kwelo.py"> kwelo.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 95</td> </tr>
+		<tr>
+			<td>
+				<img src="https://datausa.io/images/logo_sm.png" height="20px">
+				<a href="https://github.com/deluvsushi/data_usa.py"> data_usa.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 96</td> </tr>
 	</table>
 	</div>
 	<details>
