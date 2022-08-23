@@ -348,8 +348,11 @@
 			<td>
 				<img src="https://datausa.io/images/logo_sm.png" height="20px">
 				<a href="https://github.com/deluvsushi/data_usa.py"> data_usa.py </a> </td>
+			<td>
+				<img src="https://kanye.rest/icon.png" height="20px">
+				<a href="https://github.com/deluvsushi/kanye_rest.py"> kanye_rest.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 96</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 97</td> </tr>
 	</table>
 	</div>
 	<details>
