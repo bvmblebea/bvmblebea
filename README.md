@@ -340,8 +340,11 @@
 			<td>
 				<img src="https://www.purgomalum.com/images/logo.gif" height="20px">
 				<a href="https://github.com/deluvsushi/purgomalum.py"> purgomalum.py </a> </td>
+			<td>
+				<img src="https://www.kwelo.com/images/kwelo_logo.png" height="20px">
+				<a href="https://github.com/deluvsushi/kwelo.py"> kwelo.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 94</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 95</td> </tr>
 	</table>
 	</div>
 	<details>
