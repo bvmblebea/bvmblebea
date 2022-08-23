@@ -361,7 +361,12 @@
 				<img src="https://kimiquotes.herokuapp.com/favicon.png" height="20px">
 				<a href="https://github.com/deluvsushi/kimi_quotes.py"> kimi_quotes.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 100</td> </tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/186207075-d7e83e9f-1739-442c-92d3-5a57daa2275d.svg" height="20px">
+				<a href="https://github.com/deluvsushi/federal_register.py"> federal_register.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 101</td> </tr>
 	</table>
 	</div>
 	<details>
