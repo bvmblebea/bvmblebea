@@ -354,8 +354,11 @@
 			<td>
 				<img src="https://breakingbadquotes.xyz/img/logo.png" height="20px">
 				<a href="https://github.com/deluvsushi/brba_quotes.py"> brba_quotes.py </a> </td>
+			<td>
+				<img src="https://adviceslip.com/app/img/page_thumb.png" height="20px">
+				<a href="https://github.com/deluvsushi/advice_slip.py"> advice_slip.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 98</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 99</td> </tr>
 	</table>
 	</div>
 	<details>
