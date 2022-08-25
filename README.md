@@ -368,8 +368,11 @@
 			<td>
 				<img src="https://www.toribash.com/toribash_logo_big.png" height="20px">
 				<a href="https://github.com/zeviel/forum_toribash.py"> forum_toribash.py </a> </td>
+			<td>
+				<img src="https://i.imgur.com/9RGJ5Ea.png" height="20px">
+				<a href="https://github.com/zeviel/cat_facts.py"> cat_facts.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 102</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 103</td> </tr>
 	</table>
 	</div>
 	<details>
