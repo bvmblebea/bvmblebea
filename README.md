@@ -371,8 +371,11 @@
 			<td>
 				<img src="https://i.imgur.com/9RGJ5Ea.png" height="20px">
 				<a href="https://github.com/zeviel/cat_facts.py"> cat_facts.py </a> </td>
+			<td>
+				<img src="https://randomfox.ca/logo.png" height="20px">
+				<a href="https://github.com/zeviel/random_fox.py"> random_fox.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 103</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 104</td> </tr>
 	</table>
 	</div>
 	<details>
