@@ -13,7 +13,7 @@
 		<ul>
 			<li><b>Nickname:</b> zeviel, deluvsushi </li>
 			<li><b>Watched:</b> 156 anime </li>
-			<li><b>Loves:</b> Sushi, Gaming, UK Drill </li>
+			<li><b>Loves:</b> Sushi, Gaming, UK Music </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
 			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
