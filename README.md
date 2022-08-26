@@ -391,8 +391,11 @@
 			<td>
 				<img src="https://macaddress.io/images/vertical-logo-black.png?v=2" height="20px">
 				<a href="https://github.com/zeviel/mac_address_io.py"> mac_address_io.py </a> </td>
+			<td>
+				<img src="https://proxykingdom.com/assets/images/brand.png" height="20px">
+				<a href="https://github.com/zeviel/proxy_kingdom.py"> proxy_kingdom.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 109</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 110</td> </tr>
 	</table>
 	</div>
 	<details>
