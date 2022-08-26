@@ -378,7 +378,12 @@
 				<img src="https://xkcd.com/s/0b7742.png" height="20px">
 				<a href="https://github.com/zeviel/xkcd.py"> xkcd.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 105</td> </tr>
+		<tr>
+			<td>
+				<img src="https://jservice.io/images/trebek.png" height="20px">
+				<a href="https://github.com/zeviel/jservice.py"> jservice.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 106</td> </tr>
 	</table>
 	</div>
 	<details>
