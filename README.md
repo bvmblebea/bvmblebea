@@ -388,8 +388,11 @@
 			<td>
 				<img src="https://apis.guru/assets/images/logo.svg" height="20px">
 				<a href="https://github.com/zeviel/apis_guru.py"> apis_guru.py </a> </td>
+			<td>
+				<img src="https://macaddress.io/images/vertical-logo-black.png?v=2" height="20px">
+				<a href="https://github.com/zeviel/mac_address_io.py"> mac_address_io.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 108</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 109</td> </tr>
 	</table>
 	</div>
 	<details>
