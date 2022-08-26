@@ -383,7 +383,7 @@
 				<img src="https://jservice.io/images/trebek.png" height="20px">
 				<a href="https://github.com/zeviel/jservice.py"> jservice.py </a> </td>
 			<td>
-				<img src="https://quizapi.io/storage/settings/March2020/H8dOZWtQD0IND4pqOJTT.png" height="20px">
+				<img src="https://quizapi.io/storage/QuizApi_Logo_White.png" height="20px">
 				<a href="https://github.com/zeviel/quiz_api.py"> quiz_api.py </a> </td>
 		</tr>
 		<tr> <td colspan="5" style="text-align:right">Total::: 107</td> </tr>
