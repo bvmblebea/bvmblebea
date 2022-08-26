@@ -385,8 +385,11 @@
 			<td>
 				<img src="https://quizapi.io/storage/QuizApi_Logo_White.png" height="20px">
 				<a href="https://github.com/zeviel/quiz_api.py"> quiz_api.py </a> </td>
+			<td>
+				<img src="https://apis.guru/assets/images/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/apis_guru.py"> apis_guru.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 107</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 108</td> </tr>
 	</table>
 	</div>
 	<details>
