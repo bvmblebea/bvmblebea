@@ -399,8 +399,11 @@
 			<td>
 				<img src="https://networkcalc.com/images/logo.png" height="20px">
 				<a href="https://github.com/zeviel/network_calc.py"> network_calc.py </a> </td>
+			<td>
+				<img src="https://ipbase.com/img/ipbase_logo.svg" height="20px">
+				<a href="https://github.com/zeviel/ip_base.py"> ip_base.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 111</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 112</td> </tr>
 	</table>
 	</div>
 	<details>
