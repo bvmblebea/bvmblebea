@@ -395,7 +395,12 @@
 				<img src="https://proxykingdom.com/assets/images/brand.png" height="20px">
 				<a href="https://github.com/zeviel/proxy_kingdom.py"> proxy_kingdom.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 110</td> </tr>
+		<tr>
+			<td>
+				<img src="https://networkcalc.com/images/logo.png" height="20px">
+				<a href="https://github.com/zeviel/network_calc.py"> network_calc.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 111</td> </tr>
 	</table>
 	</div>
 	<details>
