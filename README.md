@@ -1,19 +1,21 @@
 <body>
-	<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍺"> </h1>
+	<h1 align="center">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍺">
+	</h1>
 	<div align="center">
 		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
 	</div>
 	<div align="center">
-		<code> You put a gun on my mans </code> <br>
-		<code> I put a hole in your parents </code>
+		<code> I know you want this for life </code> <br>
+		<code> Taking pictures with all my ice </code>
 	</div>
 	<br>
 	<div>
 		<h2 align="center"> About me </h2>
 		<ul>
 			<li><b>Nickname:</b> zeviel, deluvsushi </li>
-			<li><b>Watched:</b> 156 anime </li>
-			<li><b>Loves:</b> Sushi, Gaming, UK Music </li>
+			<li><b>Watched:</b> 158 anime </li>
+			<li><b>Loves:</b> Sushi, Gaming, Music </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
 			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
@@ -411,9 +413,18 @@
 	</div>
 	<details>
 		<summary><b>Contact me</b></summary>
-		<p align="center"><a href="https://t.me/FFuckEmWeBaLL" target="_blank"><img src="https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p>
-		<p align="center"><a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank"><img src="https://img.shields.io/badge/zeviel-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></p>
-		<p align="center"><a href="https://vk.com/skeletonic" target="_blank"><img src="https://img.shields.io/badge/@skeletonic-597da3?style=for-the-badge&logo=vk&logoColor=white"></p>
+		<p align="center">
+			<a href="https://t.me/FFuckEmWeBaLL" target="_blank">
+			<img src="https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+		</p>
+		<p align="center">
+			<a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank">
+			<img src="https://img.shields.io/badge/zeviel-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+		</p>
+		<p align="center">
+			<a href="https://vk.com/skeletonic" target="_blank">
+			<img src="https://img.shields.io/badge/@skeletonic-597da3?style=for-the-badge&logo=vk&logoColor=white">
+		</p>
 	</details>
 	<div>
 		<h2 align="center"> Knowledge🍻 </h2>
