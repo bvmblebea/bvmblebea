@@ -410,8 +410,11 @@
 			<td>
 				<img src="https://assets.whicdn.com/assets/weheartit-42e2538b2440ef84f47b25402883bb255ef589c10193a8b323892a0f718749ab.png" height="20px">
 				<a href="https://github.com/zeviel/we_heart_it.py"> we_heart_it.py </a> </td>
+			<td>
+				<img src="https://cdn.brawlify.com/front/Star.svg" height="20px">
+				<a href="https://github.com/zeviel/brawlify.py"> brawlify.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 114</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 115</td> </tr>
 	</table>
 	</div>
 	<details>
