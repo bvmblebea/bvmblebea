@@ -414,7 +414,12 @@
 				<img src="https://cdn.brawlify.com/front/Star.svg" height="20px">
 				<a href="https://github.com/zeviel/brawlify.py"> brawlify.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 115</td> </tr>
+		<tr>
+			<td>
+				<img src="https://anime777.ru/apple-icon-512x512.png" height="20px">
+				<a href="https://github.com/zeviel/anime777.py"> anime777.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 116</td> </tr>
 	</table>
 	</div>
 	<details>
