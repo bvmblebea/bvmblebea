@@ -1,6 +1,6 @@
 <body>
 	<h1 align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍺">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍻">
 	</h1>
 	<div align="center">
 		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
@@ -11,7 +11,7 @@
 	</div>
 	<br>
 	<div>
-		<h2 align="center"> About me </h2>
+		<h2 align="center"> About me🍪 </h2>
 		<ul>
 			<li><b>Nickname:</b> zeviel, deluvsushi </li>
 			<li><b>Watched:</b> 158 anime </li>
@@ -418,8 +418,11 @@
 			<td>
 				<img src="https://anime777.ru/apple-icon-512x512.png" height="20px">
 				<a href="https://github.com/zeviel/anime777.py"> anime777.py </a> </td>
+			<td>
+				<img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Habitica_logo.png" height="20px">
+				<a href="https://github.com/zeviel/habitica.py"> habitica.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 116</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 117</td> </tr>
 	</table>
 	</div>
 	<details>
@@ -438,7 +441,7 @@
 		</p>
 	</details>
 	<div>
-		<h2 align="center"> Knowledge🍻 </h2>
+		<h2 align="center"> Knowledge🍺 </h2>
 		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
