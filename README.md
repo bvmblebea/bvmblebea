@@ -3,11 +3,12 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍻">
 	</h1>
 	<div align="center">
+		<img src="https://i.pinimg.com/originals/40/eb/71/40eb71374bfd72140300dbd8c8e5ba4a.gif">
 		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
 	</div>
 	<div align="center">
-		<code> I know you want this for life </code> <br>
-		<code> Taking pictures with all my ice </code>
+		<code> I got black in my voots </code> <br>
+		<code> My name Toby, like I'm Roots </code>
 	</div>
 	<br>
 	<div>
