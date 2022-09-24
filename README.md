@@ -424,8 +424,11 @@
 			<td>
 				<img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Habitica_logo.png" height="20px">
 				<a href="https://github.com/zeviel/habitica.py"> habitica.py </a> </td>
+			<td>
+				<img src="https://fredemp3.ru/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/frede_mp3.py"> frede_mp3.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 117</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 118</td> </tr>
 	</table>
 	</div>
 	<details>
