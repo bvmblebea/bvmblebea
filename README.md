@@ -17,7 +17,7 @@
 		<h2 align="center"> About me🍪 </h2>
 		<ul>
 			<li><b>Nickname:</b> zeviel, deluvsushi </li>
-			<li><b>Watched:</b> 158 anime </li>
+			<li><b>Watched:</b> 160 anime </li>
 			<li><b>Loves:</b> Sushi, Gaming, Music </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
 			<li><b>Trying to learn:</b> Reverse engineering </li>
