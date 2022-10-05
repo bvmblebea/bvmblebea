@@ -309,7 +309,7 @@
 				<img src="https://www.coinlore.com/cl_logo.webp" height="20px">
 				<a href="https://github.com/zeviel/coin_lore.py"> coin_lore.py </a> </td>
 			<td>
-				<img src="https://www.openbrewerydb.org/_app/assets/obdb-logo-bfe70fda.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/194081782-480bbda0-f23c-4c99-8ee9-251f580b3e05.png" height="20px">
 				<a href="https://github.com/zeviel/open_brewery_db.py"> open_brewery_db.py </a> </td>
 			<td>
 				<img src="https://static.coingecko.com/s/coingecko-logo-8903d34ce19ca4be1c81f0db30e924154750d208683fad7ae6f2ce06c76d0a56.png" height="20px">
@@ -337,7 +337,7 @@
 				<img src="https://avatars.dicebear.com/img/favicon.svg" height="20px">
 				<a href="https://github.com/zeviel/dicebear_avatars.py"> dicebear_avatars.py </a> </td>
 			<td>
-				<img src="http://shoutcloud.io/images/logo.svg" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/194083398-1bd6d8ab-d3de-435e-9574-1dcc604189f0.png" height="20px">
 				<a href="https://github.com/zeviel/shout_cloud.py"> shout_cloud.py </a> </td>
 			<td>
 				<img src="https://camo.githubusercontent.com/f614db8b64928159b3c6a36b3a67eb98ae72f7b1a960096e1c7f35b35a68bd4c/68747470733a2f2f692e706f7374696d672e63632f387a4c516864344a2f69636f6e2d312e706e67" height="20px">
