@@ -434,7 +434,12 @@
 				<img src="https://play-lh.googleusercontent.com/Q5umRrv41VdUx9Pj7FBO_Ra8pHSchpsaivF9Ng0QTGZQT-DGJdu_EhnT8su_Tc7oi2Y" height="20px">
 				<a href="https://github.com/zeviel/flapping_multiplayer.py"> flapping_multiplayer.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 120</td> </tr>
+		<tr>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/eWrjwwOC9YreoEiCKUTLA8fH5-dz3QCFH39A9S5u3APcZNpvYZ1mVxV5dvBWD1vc7L7x=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/my_apps_time.py"> my_apps_time.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 121</td> </tr>
 	</table>
 	</div>
 	<details>
