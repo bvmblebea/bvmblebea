@@ -6,9 +6,6 @@
 		<img src="https://i.pinimg.com/originals/40/eb/71/40eb71374bfd72140300dbd8c8e5ba4a.gif">
 	</div>
 	<div align="center">
-		<img src="https://brcforum.sitkocdn.ru/monthly_2022_04/original.gif.a320dfe2d5a50f3dab9dd818b4552b7b.gif">
-	</div>
-	<div align="center">
 		<code> I got black in my voots </code> <br>
 		<code> My name Toby, like I'm Roots </code>
 	</div>
