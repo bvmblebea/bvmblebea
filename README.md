@@ -435,12 +435,21 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/eWrjwwOC9YreoEiCKUTLA8fH5-dz3QCFH39A9S5u3APcZNpvYZ1mVxV5dvBWD1vc7L7x=w240-h480-rw" height="20px">
 				<a href="https://github.com/zeviel/my_apps_time.py"> my_apps_time.py </a> </td>
+			<td>
+				<img src="https://hyperkani.com/wp-content/uploads/2021/02/BomberLogo_BG_1_700px_tiny.png" height="20px">
+				<a href="https://github.com/zeviel/bomber_friends.py"> bomber_friends.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/200382040-8f549a49-80fd-497f-b88b-d52d2d67ba39.png" height="20px">
+				<a href="https://github.com/zeviel/shield_land.py"> shield_land.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/ZX-LIMGoP14MnT3cfLYL2BRh9FvojYipkkUgV1_t6qbGDecf0JH3dW_Ah4Trutc2KA" height="20px">
+				<a href="https://github.com/zeviel/brainly.py"> brainly.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 121</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 124</td> </tr>
 	</table>
 	</div>
 	<details>
-		<summary><b>Contact me</b></summary>
+		<summary><b>Contact me🌗</b></summary>
 		<p align="center">
 			<a href="https://t.me/FFuckEmWeBaLL" target="_blank">
 			<img src="https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
