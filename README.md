@@ -444,12 +444,15 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/ZX-LIMGoP14MnT3cfLYL2BRh9FvojYipkkUgV1_t6qbGDecf0JH3dW_Ah4Trutc2KA" height="20px">
 				<a href="https://github.com/zeviel/brainly.py"> brainly.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/pKnaImaiY9nabDTkvBRcz15LPKVvMFukqDMeotHPCYRw4Ce0J1w5pYgHKYpf6-UTXQ=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/main.py"> main.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 124</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 125</td> </tr>
 	</table>
 	</div>
 	<details>
-		<summary><b>Contact me🌗</b></summary>
+		<summary><b>Contact me</b></summary>
 		<p align="center">
 			<a href="https://t.me/FFuckEmWeBaLL" target="_blank">
 			<img src="https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
