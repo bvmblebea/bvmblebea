@@ -80,7 +80,7 @@
 				<a href="https://github.com/zeviel/zervo.py"> zervo.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/HLpUkrTbePb7ygvmF4_3EZdsPMx7gH8USs5wGqSShjnUvsYBv0OxpgyMBhy_xDN0POWM=s200-rw" height="20px">
-				<a href="https://github.com/zeviel/bgmonline.py"> bgmonline.py </a> </td>
+				<a href="https://github.com/zeviel/bgm_online.py"> bgm_online.py </a> </td>
 			<td>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/768px-VK_Compact_Logo.svg.png" height="20px">
 				<a href="https://github.com/zeviel/vk_user.py"> vk_user.py </a> </td>
