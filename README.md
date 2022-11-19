@@ -117,7 +117,7 @@
 				<a href="https://github.com/zeviel/guerrilla_mail.py"> guerrilla_mail.py </a> </td>
 			<td>
 				<img src="https://pixelencounter.com/android-chrome-512x512.png" height="20px">
-				<a href="https://github.com/zeviel/pixelencounter.py"> pixelencounter.py </a> </td>
+				<a href="https://github.com/zeviel/pixel_encounter.py"> pixel_encounter.py </a> </td>
 			<td>
 				<img src="https://www.chess.com/bundles/web/images/brand/chesscom_pawn.b51896bf.png" height="20px">
 				<a href="https://github.com/zeviel/chess_com.py"> chess_com.py </a> </td>
