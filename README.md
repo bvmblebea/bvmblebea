@@ -179,7 +179,7 @@
 		<tr>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/RBnroz1zv-Q0uMdJwNH90RAqdtp20bJzNITAfX2CxbnvcDcmD9nnpaagk4yrb3cT-0w" height="20px">
-				<a href="https://github.com/zeviel/tttonline.py"> tttonline.py </a> </td>
+				<a href="https://github.com/zeviel/ttt_online.py"> ttt_online.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/XuhLtB92lA2sOXgyMnC5ijCnCSaKJfij0NRbnVTlul_EL1eXmFt1BW67imYe5HlgLQ" height="20px">
 				<a href="https://github.com/zeviel/lvluplife.py"> lvluplife.py </a> </td>
