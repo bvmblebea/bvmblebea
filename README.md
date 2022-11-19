@@ -55,7 +55,7 @@
 				<a href="https://github.com/zeviel/checkers_online.py"> checkers_online.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/TQDa6xjLfzjRV_MtTOsGYHaxEpJ7A5WvEYj7hmTx6bB0Jj6H2tSWiB-cVVT0LDXEaDDP" height="20px">
-				<a href="https://github.com/zeviel/101online.py"> 101online.py </a> </td>
+				<a href="https://github.com/zeviel/one_h_one_online.py"> one_h_one_online.py </a> </td>
 		</tr>
 		<tr>
 			<td>
