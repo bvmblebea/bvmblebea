@@ -131,7 +131,7 @@
 				<a href="https://github.com/zeviel/icndb.py"> icndb.py </a> </td>
 			<td>
 				<img src="http://deckofcardsapi.com/static/img/favicon/android-chrome-192x192.png" height="20px">
-				<a href="https://github.com/zeviel/deckofcards.py"> deckofcards.py </a> </td>
+				<a href="https://github.com/zeviel/deck_of_cards.py"> deck_of_cards.py </a> </td>
 			<td>
 				<img src="https://www.cheapshark.com/img/logo_text.png?v=1.0" height="20px">
 				<a href="https://github.com/zeviel/cheap_shark.py"> cheap_shark.py </a> </td>
