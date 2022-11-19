@@ -114,7 +114,7 @@
 				<a href="https://github.com/zeviel/lolzteam.py"> lolzteam.py </a> </td>
 			<td>
 				<img src="https://img.guerrillamail.com/4/6/f/46f9fd8911b3a915c1fec119e9062d00.png" height="20px">
-				<a href="https://github.com/zeviel/guerrillamail.py"> guerrillamail.py </a> </td>
+				<a href="https://github.com/zeviel/guerrilla_mail.py"> guerrilla_mail.py </a> </td>
 			<td>
 				<img src="https://pixelencounter.com/android-chrome-512x512.png" height="20px">
 				<a href="https://github.com/zeviel/pixelencounter.py"> pixelencounter.py </a> </td>
