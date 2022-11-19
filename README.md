@@ -196,7 +196,7 @@
 		<tr>
 			<td>
 				<img src="https://shrtco.de/img/favicons/android-chrome-512x512.png?v=3" height="20px">
-				<a href="https://github.com/zeviel/shrtcode.py"> shrtcode.py </a> </td>
+				<a href="https://github.com/zeviel/shrt_code.py"> shrtcode.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/3zfxWSRXQgx_8SAdCySsSYV59EdW8CW0YW-hA7oZSiMnVBpgMG2luQHcVfDmRneRJA" height="20px">
 				<a href="https://github.com/zeviel/nightwave_plaza.py"> nightwave_plaza.py </a> </td>
