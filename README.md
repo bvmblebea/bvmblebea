@@ -137,7 +137,7 @@
 				<a href="https://github.com/zeviel/cheap_shark.py"> cheap_shark.py </a> </td>
 			<td>
 				<img src="https://www.gamerpower.com/assets/images/logo.png" height="20px">
-				<a href="https://github.com/zeviel/gamerpower.py"> gamerpower.py </a> </td>
+				<a href="https://github.com/zeviel/gamer_power.py"> gamer_power.py </a> </td>
 			<td>
 				<img src="https://anonfiles.com/static/logo.png" height="20px">
 				<a href="https://github.com/zeviel/anonfiles.py"> anonfiles.py </a> </td>
