@@ -100,7 +100,7 @@
 				<a href="https://github.com/zeviel/waifu_im.py"> waifu_im.py </a> </td>
 			<td>
 				<img src="https://gdbrowser.com/assets/coin.png" height="20px">
-				<a href="https://github.com/zeviel/gdbrowser.py"> gdbrowser.py </a> </td>
+				<a href="https://github.com/zeviel/gd_browser.py"> gd_browser.py </a> </td>
 			<td>
 				<img src="https://crafatar.com/logo.png" height="20px">
 				<a href="https://github.com/zeviel/crafatar.py"> crafatar.py </a> </td>
