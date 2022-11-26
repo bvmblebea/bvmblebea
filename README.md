@@ -76,7 +76,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/ee/7a/3cee7af2-2aeb-49b3-4713-b2e8601e9dc3/source/512x512bb.jpg" height="20px">
+				<img src="https://play-lh.googleusercontent.com/O390Px9RxOiPsFMW6odpciUSpmacvzltXzQcBHLxMld8_PYFoGB7_K_73WJT6kt7hzQ=w240-h480-rw" height="20px">
 				<a href="https://github.com/zeviel/zervo.py"> zervo.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/HLpUkrTbePb7ygvmF4_3EZdsPMx7gH8USs5wGqSShjnUvsYBv0OxpgyMBhy_xDN0POWM=s200-rw" height="20px">
