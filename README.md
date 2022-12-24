@@ -221,7 +221,7 @@
 				<img src="https://static.tildacdn.com/tild3330-3832-4066-a662-303132353330/logo_big.png" height="20px">
 				<a href="https://github.com/zeviel/pp_nards.py"> pp_nards.py </a> </td>
 			<td>
-				<img src="https://lib.social/icons/android-icon-192x192.png?333" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/209437723-ea36aa95-1ed8-454a-b205-f00330583127.png" height="20px">
 				<a href="https://github.com/zeviel/social_lib.py"> social_lib.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/irCKdYt7yTkBngsXhwuXuVaYRX8-v1JL6WEDBaHCj-cA_BsaBVfuarMwGvsjeXevclo=w240-h480-rw" height="20px">
