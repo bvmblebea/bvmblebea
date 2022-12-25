@@ -448,7 +448,29 @@
 				<img src="https://play-lh.googleusercontent.com/pKnaImaiY9nabDTkvBRcz15LPKVvMFukqDMeotHPCYRw4Ce0J1w5pYgHKYpf6-UTXQ=w240-h480-rw" height="20px">
 				<a href="https://github.com/zeviel/main.py"> main.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 125</td> </tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464586-25b1298e-a7fe-44e3-ac04-8a5563cab520.png" height="20px">
+				<a href="https://github.com/zeviel/magfi.py"> magfi.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464629-3d0961ed-3f4d-439a-b925-bb1f6a1a4a66.png" height="20px">
+				<a href="https://github.com/zeviel/black_russia.py"> black_russia.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464609-77ad4870-c947-425f-97ee-09814380d2e3.png" height="20px">
+				<a href="https://github.com/zeviel/matreshka.py"> matreshka.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/iSNtfoXRWQMQDgU5COv877QvLLDwN4yJuAccG8M0MwtFYrZjQJZXRGVoU-Jt3w0FM89e" height="20px">
+				<a href="https://github.com/zeviel/world_noor.py"> world_noor.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464662-caf7ff2c-66c6-4c90-aca6-5d635ef44f01.png" height="20px">
+				<a href="https://github.com/zeviel/role_gate.py"> role_gate.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464692-ba115d9e-ff65-4215-8498-6628e17d8367.png" height="20px">
+				<a href="https://github.com/zeviel/santrope.py"> santrope.py </a> </td>
+		</tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 131</td> </tr>
 	</table>
 	</div>
 	<details>
