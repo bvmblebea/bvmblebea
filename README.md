@@ -468,7 +468,7 @@
 		<tr>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464692-ba115d9e-ff65-4215-8498-6628e17d8367.png" height="20px">
-				<a href="https://github.com/zeviel/santrope.py"> santrope.py </a> </td>
+				<a href="https://github.com/zeviel/santrope_rp.py"> santrope_rp.py </a> </td>
 		</tr>
 		<tr> <td colspan="5" style="text-align:right">Total::: 131</td> </tr>
 	</table>
