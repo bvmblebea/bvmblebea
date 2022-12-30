@@ -469,8 +469,14 @@
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464692-ba115d9e-ff65-4215-8498-6628e17d8367.png" height="20px">
 				<a href="https://github.com/zeviel/santrope_rp.py"> santrope_rp.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209562868-089d20a0-3ca8-4071-8013-88fde3692e9a.png" height="20px">
+				<a href="https://github.com/zeviel/mordor_rp.py"> mordor_rp.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/210063603-3fbda69a-55f3-4210-b1b7-11be6fe1e7f2.png" height="20px">
+				<a href="https://github.com/zeviel/barvikha_rp.py"> barvikha_rp.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 131</td> </tr>
+		<tr> <td colspan="5" style="text-align:right">Total::: 133</td> </tr>
 	</table>
 	</div>
 	<details>
