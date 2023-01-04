@@ -475,8 +475,13 @@
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/210063603-3fbda69a-55f3-4210-b1b7-11be6fe1e7f2.png" height="20px">
 				<a href="https://github.com/zeviel/barvikha_rp.py"> barvikha_rp.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/aaGjX6qQAk2yc62CCg8VDddqPsEj3ELvA6SpX_SuXYVmQih77wUrUZm17-jMql-cmA" height="20px">
+				<a href="https://github.com/zeviel/bottled.py"> bottled.py </a> </td>
 		</tr>
-		<tr> <td colspan="5" style="text-align:right">Total::: 133</td> </tr>
+		<tr>
+			<td colspan="1" style="text-align:center">Total</td> <td colspan="1" style="text-align:center">134</td>
+		</tr>
 	</table>
 	</div>
 	<details>
