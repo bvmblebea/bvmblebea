@@ -478,9 +478,12 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/aaGjX6qQAk2yc62CCg8VDddqPsEj3ELvA6SpX_SuXYVmQih77wUrUZm17-jMql-cmA" height="20px">
 				<a href="https://github.com/zeviel/bottled.py"> bottled.py </a> </td>
+			<td>
+				<img src="https://web-static-axlebolt.s3.eu-central-1.amazonaws.com/store/bg-hot-winter-party-logo.png" height="20px">
+				<a href="https://github.com/zeviel/store_standoff2.py"> store_standoff2.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="1" style="text-align:center">Total</td> <td colspan="1" style="text-align:center">134</td>
+			<td colspan="5" style="text-align:center">Total::: 135</td>
 		</tr>
 	</table>
 	</div>
