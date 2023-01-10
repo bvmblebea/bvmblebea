@@ -483,7 +483,12 @@
 				<a href="https://github.com/zeviel/store_standoff2.py"> store_standoff2.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 135</td>
+			<td>
+				<img src="https://randommer.io/images/thumbnails/randommer.png" height="20px">
+				<a href="https://github.com/zeviel/randommer_io.py"> randommer_io.py </a> </td>
+		</tr>
+		<tr>
+			<td colspan="5" style="text-align:center">Total::: 136</td>
 		</tr>
 	</table>
 	</div>
