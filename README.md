@@ -489,9 +489,12 @@
 			<td>
 				<img src="https://tiny.cc/public/images/newlogo.png" height="20px">
 				<a href="https://github.com/zeviel/tiny_url.py"> tiny_url.py </a> </td>
+			<td>
+				<img src="https://dictionaryapi.dev/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/free_dictionary_api.py"> free_dictionary_api.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 137</td>
+			<td colspan="5" style="text-align:center">Total::: 138</td>
 		</tr>
 	</table>
 	</div>
