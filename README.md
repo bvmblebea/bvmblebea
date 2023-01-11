@@ -486,9 +486,12 @@
 			<td>
 				<img src="https://randommer.io/images/thumbnails/randommer.png" height="20px">
 				<a href="https://github.com/zeviel/randommer_io.py"> randommer_io.py </a> </td>
+			<td>
+				<img src="https://tiny.cc/public/images/newlogo.png" height="20px">
+				<a href="https://github.com/zeviel/tiny_url.py.py"> tiny_url.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 136</td>
+			<td colspan="5" style="text-align:center">Total::: 137</td>
 		</tr>
 	</table>
 	</div>
