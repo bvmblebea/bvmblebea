@@ -492,9 +492,12 @@
 			<td>
 				<img src="https://dictionaryapi.dev/favicon.ico" height="20px">
 				<a href="https://github.com/zeviel/free_dictionary_api.py"> free_dictionary_api.py </a> </td>
+			<td>
+				<img src="https://hindi-quotes.vercel.app/assets/quote.png" height="20px">
+				<a href="https://github.com/zeviel/hindi_quotes.py"> hindi_quotes.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 138</td>
+			<td colspan="5" style="text-align:center">Total::: 139</td>
 		</tr>
 	</table>
 	</div>
