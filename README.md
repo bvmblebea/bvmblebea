@@ -500,7 +500,12 @@
 				<a href="https://github.com/zeviel/numbers_api.py"> numbers_api.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 140</td>
+			<td>
+				<img src="https://riddles-api.vercel.app/assets/puzzle.png" height="20px">
+				<a href="https://github.com/zeviel/riddles_api.py"> riddles_api.py </a> </td>
+		</tr>
+		<tr>
+			<td colspan="5" style="text-align:center">Total::: 141</td>
 		</tr>
 	</table>
 	</div>
