@@ -495,9 +495,12 @@
 			<td>
 				<img src="https://hindi-quotes.vercel.app/assets/quote.png" height="20px">
 				<a href="https://github.com/zeviel/hindi_quotes.py"> hindi_quotes.py </a> </td>
+			<td>
+				<img src="http://numbersapi.com/img/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/numbers_api.py"> numbers_api.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 139</td>
+			<td colspan="5" style="text-align:center">Total::: 140</td>
 		</tr>
 	</table>
 	</div>
