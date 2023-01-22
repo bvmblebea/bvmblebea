@@ -503,9 +503,12 @@
 			<td>
 				<img src="https://riddles-api.vercel.app/assets/puzzle.png" height="20px">
 				<a href="https://github.com/zeviel/riddles_api.py"> riddles_api.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/213907111-e64296b0-0f28-4e84-b8d1-affd204f83a5.svg" height="20px">
+				<a href="https://github.com/zeviel/icon_finder.py"> icon_finder.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 141</td>
+			<td colspan="5" style="text-align:center">Total::: 142</td>
 		</tr>
 	</table>
 	</div>
