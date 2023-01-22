@@ -510,7 +510,7 @@
 				<img src="https://goprogram.ai/favicon.ico" height="20px">
 				<a href="https://github.com/zeviel/go_program_ai.py"> go_program_ai.py </a> </td>
 			<td>
-				<img src="https://animechan.vercel.app/image/home.jpeg" height="20px">
+				<img src="https://github.com/rocktimsaikia/anime-chan/raw/main/public/animechan_logo.png" height="20px">
 				<a href="https://github.com/zeviel/anime_chan.py"> anime_chan.py </a> </td>
 		</tr>
 		<tr>
