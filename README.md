@@ -512,9 +512,12 @@
 			<td>
 				<img src="https://github.com/rocktimsaikia/anime-chan/raw/main/public/animechan_logo.png" height="20px">
 				<a href="https://github.com/zeviel/anime_chan.py"> anime_chan.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/213914668-4e775b85-3a56-48c6-b1e0-7b1c5c46c75d.jpg" height="20px">
+				<a href="https://github.com/zeviel/jc_quotes.py"> jc_quotes.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 144</td>
+			<td colspan="5" style="text-align:center">Total::: 145</td>
 		</tr>
 	</table>
 	</div>
