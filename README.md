@@ -508,7 +508,7 @@
 				<a href="https://github.com/zeviel/icon_finder.py"> icon_finder.py </a> </td>
 			<td>
 				<img src="https://goprogram.ai/favicon.ico" height="20px">
-				<a href="https://github.com/zeviel/goprogram_ai.py.py"> goprogram_ai.py </a> </td>
+				<a href="https://github.com/zeviel/go_program_ai.py"> go_program_ai.py </a> </td>
 		</tr>
 		<tr>
 			<td colspan="5" style="text-align:center">Total::: 143</td>
