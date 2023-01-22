@@ -517,7 +517,12 @@
 				<a href="https://github.com/zeviel/jc_quotes.py"> jc_quotes.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 145</td>
+			<td>
+				<img src="https://lucifer-quotes.vercel.app/images/banner.png" height="20px">
+				<a href="https://github.com/zeviel/lucifer_quotes.py"> lucifer_quotes.py </a> </td>
+		</tr>
+		<tr>
+			<td colspan="5" style="text-align:center">Total::: 146</td>
 		</tr>
 	</table>
 	</div>
