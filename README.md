@@ -148,7 +148,7 @@
 				<a href="https://github.com/zeviel/mmobomb.py"> mmobomb.py </a> </td>
 			<td>
 				<img src="https://playerdb.co/assets/images/logo.svg" height="20px">
-				<a href="https://github.com/zeviel/player_db.py"> playerdb.py </a> </td>
+				<a href="https://github.com/zeviel/player_db.py"> player_db.py </a> </td>
 			<td>
 				<img src="https://psychonauts-api.netlify.app/static/media/psychonauts-logo.741d0b4d.png" height="20px">
 				<a href="https://github.com/zeviel/psychonauts.py"> psychonauts.py </a> </td>
