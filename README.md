@@ -509,9 +509,12 @@
 			<td>
 				<img src="https://goprogram.ai/favicon.ico" height="20px">
 				<a href="https://github.com/zeviel/go_program_ai.py"> go_program_ai.py </a> </td>
+			<td>
+				<img src="https://animechan.vercel.app/image/home.jpeg" height="20px">
+				<a href="https://github.com/zeviel/anime_chan.py"> anime_chan.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 143</td>
+			<td colspan="5" style="text-align:center">Total::: 144</td>
 		</tr>
 	</table>
 	</div>
