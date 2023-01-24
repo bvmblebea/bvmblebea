@@ -520,9 +520,21 @@
 			<td>
 				<img src="https://lucifer-quotes.vercel.app/images/banner.png" height="20px">
 				<a href="https://github.com/zeviel/lucifer_quotes.py"> lucifer_quotes.py </a> </td>
+			<td>
+				<img src="https://coffee.alexflipnote.dev/assets/profile.png" height="20px">
+				<a href="https://github.com/zeviel/coffee_api.py"> coffee_api.py </a> </td>
+			<td>
+				<img src="https://quokka.pics/images/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/quokka_pics.py"> quokka_pics.py </a> </td>
+			<td>
+				<img src="https://testimonialapi.toolcarton.com/img/testimonial.svg" height="20px">
+				<a href="https://github.com/zeviel/testimonial_api.py"> testimonial_apipy </a> </td>
+			<td>
+				<img src="/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
+				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
 		<tr>
-			<td colspan="5" style="text-align:center">Total::: 146</td>
+			<td colspan="5" style="text-align:center">Total::: 150</td>
 		</tr>
 	</table>
 	</div>
