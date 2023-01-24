@@ -528,9 +528,9 @@
 				<a href="https://github.com/zeviel/quokka_pics.py"> quokka_pics.py </a> </td>
 			<td>
 				<img src="https://testimonialapi.toolcarton.com/img/testimonial.svg" height="20px">
-				<a href="https://github.com/zeviel/testimonial_api.py"> testimonial_apipy </a> </td>
+				<a href="https://github.com/zeviel/testimonial_api.py"> testimonial_api.py </a> </td>
 			<td>
-				<img src="/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
+				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
 		<tr>
