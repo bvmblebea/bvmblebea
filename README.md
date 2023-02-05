@@ -534,11 +534,14 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 1</th> </tr>
+		<tr> <th colspan="5">Bash - 2</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
 				<a href="https://github.com/zeviel/crime_mobile.sh"> crime_mobile.sh </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/0hCEdq8rdzS-OSiLRbenLftA_yB9gTfaAP-Pz_UWukqU7hGnZ1wUYYjo3zzZReEQuRk" height="20px">
+				<a href="https://github.com/zeviel/intellect.sh"> intellect.sh </a> </td>
 		</tr>
 	</table>
 	</div>
