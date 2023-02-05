@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 5</th> </tr>
+		<tr> <th colspan="5">Bash - 6</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -551,6 +551,11 @@
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/216817366-0b359fd9-c2ea-4c7c-ba10-a7be237520c4.png" height="20px">
 				<a href="https://github.com/zeviel/owo.sh"> kick_box.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://www.thecocktaildb.com/images/logo.png" height="20px">
+				<a href="https://github.com/zeviel/cocktail_db.sh"> cocktail_db.sh </a> </td>
 		</tr>
 	</table>
 	</div>
