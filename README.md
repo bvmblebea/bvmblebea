@@ -549,7 +549,7 @@
 				<img src="https://user-images.githubusercontent.com/77536370/216816715-8205447d-4111-4b26-9972-b9aea4fa98fe.png" height="20px">
 				<a href="https://github.com/zeviel/owo.sh"> owo.sh </a> </td>
 			<td>
-				<img src="https://open.kickbox.com/assets/logo.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/216817366-0b359fd9-c2ea-4c7c-ba10-a7be237520c4.png" height="20px">
 				<a href="https://github.com/zeviel/owo.sh"> kick_box.sh </a> </td>
 		</tr>
 	</table>
