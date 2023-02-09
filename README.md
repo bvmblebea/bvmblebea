@@ -287,7 +287,7 @@
 				<img src="https://disify.com/img/apple-touch-icon.png" height="20px">
 				<a href="https://github.com/zeviel/disify.py"> disify.py </a> </td>
 			<td>
-				<img src="https://www.fruityvice.com/images/apple-touch-icon.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/217811322-dee5cbdc-3558-475f-bfe0-abb965599d6d.png" height="20px">
 				<a href="https://github.com/zeviel/fruity_vice.py"> fruity_vice.py </a> </td>
 			<td>
 				<img src="https://whiskyhunter.net/static/apple-touch-icon-180x180.png" height="20px">
@@ -332,7 +332,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/217810586-d8add712-65bf-4cc5-bff4-f1dcc204de2a.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/217811216-f78142b1-0ef7-4260-9ab6-d878a6d36e96.png" height="20px">
 				<a href="https://github.com/zeviel/dicebear_avatars.py"> dicebear_avatars.py </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/194083398-1bd6d8ab-d3de-435e-9574-1dcc604189f0.png" height="20px">
