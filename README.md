@@ -563,7 +563,7 @@
 				<img src="https://play-lh.googleusercontent.com/bJnYvc5yLIScw4gcbSYj3C006Fr25BiojKFkqOK4cK9P4Vk0iQ-Yj2VpMchu9yCpy0k=w240-h480-rw" height="20px">
 				<a href="https://github.com/zeviel/anon_stars.sh"> anon_stars.sh </a> </td>
 			<td>
-				<img src="https://play-lh.googleusercontent.com/A1OFVt6jVim8d1a3FpEMQJZSEA23Y1URppBxSckBUSVwkKWDkw3lz7EUYtVZCqiWm9g height="20px">
+				<img src="https://play-lh.googleusercontent.com/A1OFVt6jVim8d1a3FpEMQJZSEA23Y1URppBxSckBUSVwkKWDkw3lz7EUYtVZCqiWm9g" height="20px">
 				<a href="https://github.com/zeviel/anon.sh"> anon.sh </a> </td>
 		</tr>
 	</table>
@@ -587,6 +587,7 @@
 		<h2 align="center"> Knowledge🍺 </h2>
 		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+		<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 	</div>
 	<div>
