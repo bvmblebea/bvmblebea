@@ -46,7 +46,7 @@
 				<img src="https://pbs.twimg.com/profile_images/1126922506286325761/x4T2PAkG_400x400.png" height="20px">
 				<a href="https://github.com/zeviel/amino.py"> amino.py </a> </td>
 			<td>
-				<img src="https://www.projz.com/static/media/header-logo.b22c965b.webp" height="20px">
+				<img src="https://play-lh.googleusercontent.com/l85wmjBOqRAwoDaKKO4_aEwjBSZnLTXS52FvlB-yW4Tmp9b48geIM3xcZbBVzNsNQxE" height="20px">
 				<a href="https://github.com/zeviel/projectz.py"> projectz.py </a> </td>
 			<td>
 				<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="20px">
