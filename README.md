@@ -332,7 +332,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://avatars.dicebear.com/img/favicon.svg" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/217810586-d8add712-65bf-4cc5-bff4-f1dcc204de2a.png" height="20px">
 				<a href="https://github.com/zeviel/dicebear_avatars.py"> dicebear_avatars.py </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/194083398-1bd6d8ab-d3de-435e-9574-1dcc604189f0.png" height="20px">
@@ -361,7 +361,7 @@
 				<img src="https://adviceslip.com/app/img/page_thumb.png" height="20px">
 				<a href="https://github.com/zeviel/advice_slip.py"> advice_slip.py </a> </td>
 			<td>
-				<img src="https://kimiquotes.herokuapp.com/favicon.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/217810081-1fbb93f3-3f52-4e59-b318-8567af1196c5.png" height="20px">
 				<a href="https://github.com/zeviel/kimi_quotes.py"> kimi_quotes.py </a> </td>
 		</tr>
 		<tr>
