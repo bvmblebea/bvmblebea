@@ -111,7 +111,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://lolz.guru/public/2017/lzt_logo.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/217814702-adbdc1d5-dd6f-42e2-a8e3-cda9f428eb51.svg" height="20px">
 				<a href="https://github.com/zeviel/lolzteam.py"> lolzteam.py </a> </td>
 			<td>
 				<img src="https://img.guerrillamail.com/4/6/f/46f9fd8911b3a915c1fec119e9062d00.png" height="20px">
