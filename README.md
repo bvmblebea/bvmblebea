@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 8</th> </tr>
+		<tr> <th colspan="5">Bash - 9</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -562,6 +562,9 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/bJnYvc5yLIScw4gcbSYj3C006Fr25BiojKFkqOK4cK9P4Vk0iQ-Yj2VpMchu9yCpy0k=w240-h480-rw" height="20px">
 				<a href="https://github.com/zeviel/anon_stars.sh"> anon_stars.sh </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/A1OFVt6jVim8d1a3FpEMQJZSEA23Y1URppBxSckBUSVwkKWDkw3lz7EUYtVZCqiWm9g height="20px">
+				<a href="https://github.com/zeviel/anon.sh"> anon.sh </a> </td>
 		</tr>
 	</table>
 	</div>
