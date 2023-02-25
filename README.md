@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 9</th> </tr>
+		<tr> <th colspan="5">Bash - 10/th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -550,7 +550,7 @@
 				<a href="https://github.com/zeviel/owo.sh"> owo.sh </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/216817366-0b359fd9-c2ea-4c7c-ba10-a7be237520c4.png" height="20px">
-				<a href="https://github.com/zeviel/owo.sh"> kick_box.sh </a> </td>
+				<a href="https://github.com/zeviel/kick_box.sh"> kick_box.sh </a> </td>
 		</tr>
 		<tr>
 			<td>
@@ -565,6 +565,9 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/A1OFVt6jVim8d1a3FpEMQJZSEA23Y1URppBxSckBUSVwkKWDkw3lz7EUYtVZCqiWm9g" height="20px">
 				<a href="https://github.com/zeviel/anon.sh"> anon.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/221360184-c94cf4db-0f49-45fb-81bd-e9d4763beba5.svg" height="20px">
+				<a href="https://github.com/zeviel/temp_number.sh"> temp_number.sh </a> </td>
 		</tr>
 	</table>
 	</div>
