@@ -528,7 +528,7 @@
 				<img src="https://quokka.pics/images/logo.svg" height="20px">
 				<a href="https://github.com/zeviel/quokka_pics.py"> quokka_pics.py </a> </td>
 			<td>
-				<img src="https://testimonialapi.toolcarton.com/img/testimonial.svg" height="20px">
+				<img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/d3a34aa5-b743-444c-9f27-2efe0bea7b9a.png" height="20px">
 				<a href="https://github.com/zeviel/testimonial_api.py"> testimonial_api.py </a> </td>
 			<td>
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
