@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 12</th> </tr>
+		<tr> <th colspan="5">Bash - 13</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -576,6 +576,9 @@
 			<td>
 				<img src="https://gowo.su/assets/images/manifest/icon-512x512.png" height="20px">
 				<a href="https://github.com/zeviel/gowo.sh"> gowo.sh </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/jlLeWcv_T6QZRWab3smN3LTRRswCscFtEU0kNKdA9CweThu2vzWCvL0RqdK1NJOZH3E" height="20px">
+				<a href="https://github.com/zeviel/manga_net.sh"> manga_net.sh </a> </td>
 		</tr>
 	</table>
 	</div>
