@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 14</th> </tr>
+		<tr> <th colspan="5">Bash - 15</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -582,6 +582,9 @@
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/222918238-365a5a15-4708-4f86-9dcb-88359d1a4d68.png" height="20px">
 				<a href="https://github.com/zeviel/spoilers.sh"> spoilers.sh </a> </td>
+			<td>
+				<img src="https://sun6-22.userapi.com/impf/t6BOD6x5lJ-fCBrc_ZENm1SLJ_dqIbjLhGaK6Q/XGXJv2mMH0Y.jpg?size=139x139&quality=90&sign=3c32cf1c8a69784084b1eedd55d66696" height="20px">
+				<a href="https://github.com/zeviel/conferences.sh"> conferences.sh </a> </td>
 		</tr>
 	</table>
 	</div>
