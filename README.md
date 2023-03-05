@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 23</th> </tr>
+		<tr> <th colspan="5">Bash - 32</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -613,6 +613,37 @@
 			<td>
 				<img src="https://sun6-23.userapi.com/impf/iNTjR069-jQUc2afyx-7Y6157mKhiC0_8HJafA/xkOl_M6QwIk.jpg?size=139x139&quality=90&sign=eeccb87a6c515e28ae2cd7bdc0279d6d" height="20px">
 				<a href="https://github.com/zeviel/sheep_royale.sh"> sheep_royale.sh </a> </td>
+			<td>
+				<img src="https://sun6-22.userapi.com/impf/WzNDY3e3ftOeVI327NRakmIchMJEkiLj6N2U2Q/xRWZyCvwki8.jpg?size=139x139&quality=90&sign=e2c704182553df6e70c85ca61be2cab7" height="20px">
+				<a href="https://github.com/zeviel/guess_word.sh"> guess_word.sh </a> </td>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/q-vWUCmecz614c9lgLA3WZjoeU4TBNKwzk2Maw/RIyiSm0yh08.jpg?size=139x139&quality=90&sign=624ede56b44c07bb9c993ce482236ce0" height="20px">
+				<a href="https://github.com/zeviel/investor.sh"> investor.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://sun6-21.userapi.com/impf/BKUMa1D-kqH_mo4sjzbYX2G32Ko4Xm2Zxk2UOg/Y9fTciDQhn0.jpg?size=278x278&quality=90&sign=7da735be66d3158d85db07e789f6ea57" height="20px">
+				<a href="https://github.com/zeviel/bingo.sh"> bingo.sh </a> </td>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/L_FXDmZwJljilMI_WqswbF96h6noQT5iUih75w/yRg8lrDU8WY.jpg?size=278x278&quality=90&sign=b84dba8e6f9df37da5e4621a8abddbaa" height="20px">
+				<a href="https://github.com/zeviel/vaccine.sh"> vaccine.sh </a> </td>
+			<td>
+				<img src="https://sun6-21.userapi.com/impf/iRVdbkbh6QMYPW8CCCTm4r7FKIhBU2m3ptxC5g/3-4-RoJiic4.jpg?size=278x278&quality=90&sign=62b6b4b4f6e3906e63ec3761c38ca1f9" height="20px">
+				<a href="https://github.com/zeviel/barbecue.sh"> barbecue.sh </a> </td>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/5WyVjFZTBuOQkZnoXFOOi404B0Cbk2h7wiEd6g/ivkNIVaw0Uc.jpg?size=278x278&quality=90&sign=9f27723cb14bfea8b57a5b91405087de" height="20px">
+				<a href="https://github.com/zeviel/overwatch_hub.sh"> overwatch_hub.sh </a> </td>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/x9p_pElvdXR7C3xk9sLBtEXkWBc0JhwPZV4r_Q/EzvXiPQ5uJg.jpg?size=139x139&quality=90&sign=79f0af3c12bd2d6d68c5341334b3013b" height="20px">
+				<a href="https://github.com/zeviel/memedelnya.sh"> memedelnya.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://sun6-21.userapi.com/impf/EB0o97XqBgRVb7__qqqPIxsYD6v3hKI8SmwYlA/PYIJovq05uw.jpg?size=278x278&quality=90&sign=11765bd54f5d46222f74a837b41c3737" height="20px">
+				<a href="https://github.com/zeviel/secret_santa.sh"> secret_santa.sh </a> </td>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/GSR6VBcJf80vSgCoky4CWtfzy_5Yu3qqsvZ9Jw/suWnj6hNONo.jpg?size=278x278&quality=90&sign=a4af17874c25a97d4bf7f7a1413fb1d6" height="20px">
+				<a href="https://github.com/zeviel/what_to_watch.sh"> what_to_watch.sh </a> </td>
 		</tr>
 	</table>
 	</div>
