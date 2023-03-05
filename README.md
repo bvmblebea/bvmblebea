@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 20</th> </tr>
+		<tr> <th colspan="5">Bash - 21</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -602,6 +602,11 @@
 			<td>
 				<img src="https://sun6-23.userapi.com/impf/OflXQgXj0VbZhe1sb6JAv-oJbCwEV32GVqwhDQ/QsxH8Pdcvi8.jpg?size=139x139&quality=90&sign=1356d833585297d91c7e582ac3e441b8" height="20px">
 				<a href="https://github.com/zeviel/server_control.sh"> server_control.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://sun6-23.userapi.com/impf/4pE7IFtpFm8Nnf7fkCKUoQmSo7qHUMSwrZ0XFA/Nfs7RQdCTno.jpg?size=139x139&quality=90&sign=87d2a4c2ce215cc91deef3a719855922" height="20px">
+				<a href="https://github.com/zeviel/unshortener.sh"> unshortener.sh </a> </td>
 		</tr>
 	</table>
 	</div>
