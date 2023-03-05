@@ -612,7 +612,7 @@
 				<a href="https://github.com/zeviel/broadcast.sh"> broadcast.sh </a> </td>
 			<td>
 				<img src="https://sun6-23.userapi.com/impf/iNTjR069-jQUc2afyx-7Y6157mKhiC0_8HJafA/xkOl_M6QwIk.jpg?size=139x139&quality=90&sign=eeccb87a6c515e28ae2cd7bdc0279d6d" height="20px">
-				<a href="https://github.com/zeviel/broadcast.sh"> broadcasts.sh </a> </td>
+				<a href="https://github.com/zeviel/sheep_royale.sh"> sheep_royale.sh </a> </td>
 		</tr>
 	</table>
 	</div>
