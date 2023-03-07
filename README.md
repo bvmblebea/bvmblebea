@@ -656,7 +656,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://sun6-20.userapi.com/impf/T8BJeBOVF-ST4haSi6RjHfVXcXnPtLl3PZWO6A/ZLbuNkga_LI.jpg?size=139x139&quality=90&sign=fcf8a599bd8cd4a514c69aae55a6be4a4" height="20px">
+				<img src="https://sun6-20.userapi.com/impf/T8BJeBOVF-ST4haSi6RjHfVXcXnPtLl3PZWO6A/ZLbuNkga_LI.jpg?size=139x139&quality=90&sign=fcf8a599bd8cd4a514c69aae55a6be44" height="20px">
 				<a href="https://github.com/zeviel/notifications.sh"> notifications.sh </a> </td>
 		</tr>
 	</table>
