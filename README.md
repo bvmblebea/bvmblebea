@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 32</th> </tr>
+		<tr> <th colspan="5">Bash - 36</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -644,6 +644,20 @@
 			<td>
 				<img src="https://sun6-20.userapi.com/impf/GSR6VBcJf80vSgCoky4CWtfzy_5Yu3qqsvZ9Jw/suWnj6hNONo.jpg?size=278x278&quality=90&sign=a4af17874c25a97d4bf7f7a1413fb1d6" height="20px">
 				<a href="https://github.com/zeviel/what_to_watch.sh"> what_to_watch.sh </a> </td>
+			<td>
+				<img src="https://sun6-22.userapi.com/impf/RK7OVuYjAz0c8AOd6AYQpS_dlyFn1JOSCXKlaA/KTLf0XG9504.jpg?size=278x278&quality=90&sign=26951c17470b8c74d38c1980ff70a040" height="20px">
+				<a href="https://github.com/zeviel/post_cards.sh"> post_cards.sh </a> </td>
+			<td>
+				<img src="https://arockets.ru/public/img/arockets_vk_mini_app_logo.png" height="20px">
+				<a href="https://github.com/zeviel/a_rockets.sh"> a_rockets.sh </a> </td>
+			<td>
+				<img src="https://sun6-22.userapi.com/impf/gBcB7Ky5yn_X8uDEaBYyKXGdk7VFQ7GxjUuBrg/624n6yxljwA.jpg?size=139x139&quality=90&sign=bffcc750da0b8c01a1a05ccf2316b7e9" height="20px">
+				<a href="https://github.com/zeviel/spectator.sh"> spectator.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/T8BJeBOVF-ST4haSi6RjHfVXcXnPtLl3PZWO6A/ZLbuNkga_LI.jpg?size=139x139&quality=90&sign=fcf8a599bd8cd4a514c69aae55a6be4a4" height="20px">
+				<a href="https://github.com/zeviel/notifications.sh"> notifications.sh </a> </td>
 		</tr>
 	</table>
 	</div>
