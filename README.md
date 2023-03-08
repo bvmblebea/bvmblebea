@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 36</th> </tr>
+		<tr> <th colspan="5">Bash - 41</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -658,6 +658,23 @@
 			<td>
 				<img src="https://sun6-20.userapi.com/impf/T8BJeBOVF-ST4haSi6RjHfVXcXnPtLl3PZWO6A/ZLbuNkga_LI.jpg?size=139x139&quality=90&sign=fcf8a599bd8cd4a514c69aae55a6be44" height="20px">
 				<a href="https://github.com/zeviel/notifications.sh"> notifications.sh </a> </td>
+			<td>
+				<img src="https://hi-chef.ru/512x512.png" height="20px">
+				<a href="https://github.com/zeviel/hi_chef.sh"> hi_chef.sh </a> </td>
+			<td>
+				<img src="https://sun9-76.userapi.com/impf/c857732/v857732114/20660b/XSJJG1zzI5g.jpg?size=278x278&quality=90&sign=242e5dda2346770eeb11153d3768d30d" height="20px">
+				<a href="https://github.com/zeviel/cook.sh"> cook.sh </a> </td>
+			<td>
+				<img src="https://sun6-21.userapi.com/impf/kYVdQdp4ulvgGOdcCzZqs-nR57RpTCEsVY0tOQ/1BlZx4ETH4k.jpg?size=278x278&quality=90&sign=b67ef842bbeb3081760d52e3d2ab3c5e" height="20px">
+				<a href="https://github.com/zeviel/hot_ali.sh"> hot_ali.sh </a> </td>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/_Q5OD2v5n-WAulphGcrSWqJbzNrfDImO13UAig/Cskt_bg3ORo.jpg?size=278x278&quality=90&sign=96c397128e7743780ca58e330700f575" height="20px">
+				<a href="https://github.com/zeviel/new_year_promise.sh"> new_year_promise.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://sun6-20.userapi.com/impf/ZgIJeODAUl0Egt14xKFmXUjQ0AuVH8hc4445MA/4Lk_8SPQelM.jpg?size=278x278&quality=90&sign=e7dc40d61aabacb5aa88971234a8b4bd" height="20px">
+				<a href="https://github.com/zeviel/dreams.sh"> dreams.sh </a> </td>
 		</tr>
 	</table>
 	</div>
