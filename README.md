@@ -682,7 +682,7 @@
 				<img src="https://api.award-vpn.com/images/logo.png" height="20px">
 				<a href="https://github.com/zeviel/award_vpn.sh"> award_vpn.sh </a> </td>
 			<td>
-				<img src="https://api.hide.expert/logo.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/229271567-b9886dc2-ba38-40a8-a93e-964f2a3974d7.png" height="20px">
 				<a href="https://github.com/zeviel/hide_expert_vpn.sh"> hide_expert_vpn.sh </a> </td>
 		</tr>
 	</table>
