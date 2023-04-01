@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 42</th> </tr>
+		<tr> <th colspan="5">Bash - 44</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -678,6 +678,12 @@
 			<td>
 				<img src="https://play-lh.googleusercontent.com/L5lgFrwLfGi_b-WcFhK1-xAPQoTNDSoycTNZOR-K6ibQ-FIVpO0OHk5RjP8d-OoQag" height="20px">
 				<a href="https://github.com/zeviel/vypr_vpn.sh"> vypr_vpn.sh </a> </td>
+			<td>
+				<img src="https://api.award-vpn.com/images/logo.png" height="20px">
+				<a href="https://github.com/zeviel/award_vpn.sh"> award_vpn.sh </a> </td>
+			<td>
+				<img src="https://api.hide.expert/logo.png" height="20px">
+				<a href="https://github.com/zeviel/hide_expert_vpn.sh"> hide_expert_vpn.sh </a> </td>
 		</tr>
 	</table>
 	</div>
