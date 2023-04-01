@@ -32,7 +32,7 @@
 				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="20px">
 				<a href="https://github.com/zeviel/anilibria.py"> anilibria.py </a> </td>
 			<td>
-				<img src="https://camo.githubusercontent.com/872f8251c493fa567820fdea213a74451e0b9ebb2400b9f1e594934463b9b000/68747470733a2f2f7265636f6d6963732e6f72672f69636f6e2e706e67" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/229271639-8d9834f9-b983-470b-833b-35ab9496e93d.svg" height="20px">
 				<a href="https://github.com/zeviel/remanga.py"> remanga.py </a> </td>
 			<td>
 				<img src="https://sun9-66.userapi.com/s/v1/if1/Yaj0rTAS--iQS0Cf_b4Wv3mbHwkjYLRG6MbbwzKqVbg5mL79CHtSJe5OzFm1rTDLKcdfYRxJ.jpg?size=220x220&quality=96&type=album" height="20px">
@@ -236,10 +236,10 @@
 				<img src="https://play-lh.googleusercontent.com/napDdeoQAsGmvzaHVMT_iMRqjvo5tB9uGXkaoxfTDGFcLgqq_A39BD-dpff1fLSKH64=w240-h480-rw" height="20px">
 				<a href="https://github.com/zeviel/online_sms.py"> online_sms.py </a> </td>
 			<td>
-				<img src="https://camo.githubusercontent.com/872f8251c493fa567820fdea213a74451e0b9ebb2400b9f1e594934463b9b000/68747470733a2f2f7265636f6d6963732e6f72672f69636f6e2e706e67" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/229271639-8d9834f9-b983-470b-833b-35ab9496e93d.svg" height="20px">
 				<a href="https://github.com/zeviel/recomics.py"> recomics.py </a> </td>
 			<td>
-				<img src="https://camo.githubusercontent.com/872f8251c493fa567820fdea213a74451e0b9ebb2400b9f1e594934463b9b000/68747470733a2f2f7265636f6d6963732e6f72672f69636f6e2e706e67" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/229271639-8d9834f9-b983-470b-833b-35ab9496e93d.svg" height="20px">
 				<a href="https://github.com/zeviel/renovels.py"> renovels.py </a> </td>
 			<td>
 				<img src="https://rps101.pythonanywhere.com/static/apple-touch-icon.png" height="20px">
