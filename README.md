@@ -702,7 +702,7 @@
 				<img src="https://user-images.githubusercontent.com/77536370/232048870-21fe87a4-1679-4386-806e-fcb7681b4e27.png" height="20px">
 				<a href="https://github.com/zeviel/hide_all_vpn.sh"> hide_all_vpn.sh </a> </td>
 			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/232048870-21fe87a4-1679-4386-806e-fcb7681b4e27.png" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/232049559-dacf2ac7-dbe7-4bba-94c8-a95167fd96cc.svg" height="20px">
 				<a href="https://github.com/zeviel/10_minute_mail.sh"> 10_minute_mail.sh </a> </td>
 		</tr>
 		<tr>
