@@ -13,11 +13,11 @@
 	<div>
 		<h2 align="center"> About me🍪 </h2>
 		<ul>
-			<li><b>Nickname:</b> lil zeviel, deluvsushi, arthemis </li>
+			<li><b>Nickname:</b> zeviel, deluvsushi </li>
 			<li><b>Watched:</b> 160 anime </li>
-			<li><b>Loves:</b> Gaming, Listening to music </li>
-			<li><b>Hobbies:</b> Programming, Drawing graffities and characters, Creating beats, 3D modeling</li>
-			<li><b>Trying to learn:</b> Something interesting </li>
+			<li><b>Loves:</b> Sushi, Gaming, Music </li>
+			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
+			<li><b>Trying to learn:</b> Reverse engineering </li>
 		</ul>
 	</div>
 	<div>
@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 50</th> </tr>
+		<tr> <th colspan="5">Bash - 53</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -702,9 +702,19 @@
 				<img src="https://user-images.githubusercontent.com/77536370/232048870-21fe87a4-1679-4386-806e-fcb7681b4e27.png" height="20px">
 				<a href="https://github.com/zeviel/hide_all_vpn.sh"> hide_all_vpn.sh </a> </td>
 			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/232049559-dacf2ac7-dbe7-4bba-94c8-a95167fd96cc.svg" height="20px">
+				<img src="https://user-images.githubusercontent.com/77536370/232048870-21fe87a4-1679-4386-806e-fcb7681b4e27.png" height="20px">
 				<a href="https://github.com/zeviel/10_minute_mail.sh"> 10_minute_mail.sh </a> </td>
 		</tr>
+		<tr>
+			<td>
+				<img src="https://http.cat/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/zeviel/http_cats.sh"> http_cats.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/232065128-42e08ccb-a53c-4ab4-8213-3c1d530c06e0.svg" height="20px">
+				<a href="https://github.com/zeviel/abstract_public_holiday.sh"> abstract_public_holiday.sh </a> </td>
+			<td>
+				<img src="https://waifu.pics/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/waifu_pics.sh"> waifu_pics.sh </a> </td>
 	</table>
 	</div>
 	<details>
