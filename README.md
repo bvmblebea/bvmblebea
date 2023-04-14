@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 47</th> </tr>
+		<tr> <th colspan="5">Bash - 50</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -695,6 +695,15 @@
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/230589058-d0d98447-b5fc-44b7-a4ba-0246c1de5642.png" height="20px">
 				<a href="https://github.com/zeviel/jax_vpn.sh"> jax_vpn.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/232045535-59f9abdc-1d1f-40ba-ac9b-8b4a411bfb85.svg" height="20px">
+				<a href="https://github.com/zeviel/1_click_vpn.sh"> 1_click_vpn.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/232048870-21fe87a4-1679-4386-806e-fcb7681b4e27.png" height="20px">
+				<a href="https://github.com/zeviel/hide_all_vpn.sh"> hide_all_vpn.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/232049559-dacf2ac7-dbe7-4bba-94c8-a95167fd96cc.svg" height="20px">
+				<a href="https://github.com/zeviel/10_minute_mail.sh"> 10_minute_mail.sh </a> </td>
 		</tr>
 	</table>
 	</div>
