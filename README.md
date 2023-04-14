@@ -13,11 +13,11 @@
 	<div>
 		<h2 align="center"> About me🍪 </h2>
 		<ul>
-			<li><b>Nickname:</b> zeviel, deluvsushi </li>
+			<li><b>Nickname:</b> lil zeviel, deluvsushi, arthemis </li>
 			<li><b>Watched:</b> 160 anime </li>
-			<li><b>Loves:</b> Sushi, Gaming, Music </li>
-			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters</li>
-			<li><b>Trying to learn:</b> Reverse engineering </li>
+			<li><b>Loves:</b> Gaming, Listening to music </li>
+			<li><b>Hobbies:</b> Programming, Drawing graffities and characters, Creating beats, 3D modeling</li>
+			<li><b>Trying to learn:</b> Something interesting </li>
 		</ul>
 	</div>
 	<div>
