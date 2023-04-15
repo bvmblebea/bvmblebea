@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 53</th> </tr>
+		<tr> <th colspan="5">Bash - 57</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -715,6 +715,21 @@
 			<td>
 				<img src="https://waifu.pics/favicon.png" height="20px">
 				<a href="https://github.com/zeviel/waifu_pics.sh"> waifu_pics.sh </a> </td>
+			<td>
+				<img src="https://placekitten.com/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/zeviel/place_kitten.sh"> place_kitten.sh </a> </td>
+			<td>
+				<img src="https://place.dog/logo.png" height="20px">
+				<a href="https://github.com/zeviel/place_dog.sh"> place_dog.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/232212233-826e6db3-ece5-49bf-a458-dba3be30a0a8.svg" height="20px">
+				<a href="https://github.com/zeviel/punk_api.sh"> punk_api.sh </a> </td>
+			<td>
+				<img src="https://rickandmortyapi.com/icons/icon-512x512.png?v=1538abef51e33ef514e8fe1ab9aeab4e" height="20px">
+				<a href="https://github.com/zeviel/rick_and_morty_api.sh"> rick_and_morty_api.sh </a> </td>
+		</tr>
 	</table>
 	</div>
 	<details>
