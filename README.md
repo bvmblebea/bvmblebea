@@ -534,7 +534,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 59</th> </tr>
+		<tr> <th colspan="5">Bash - 100</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -735,6 +735,142 @@
 			<td>
 				<img src="https://amiiboapi.com/static/favicon/android-icon-192x192.png" height="20px">
 				<a href="https://github.com/zeviel/amiibo_api.sh"> amiibo_api.sh </a> </td>
+			<td>
+				<img src="https://movsw.0x0.st/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/zeviel/0x0_st.sh"> 0x0_st.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://agify.io/images/agify.png?59733b6e19c74b6c47fd8e4b3e20f6ef" height="20px">
+				<a href="https://github.com/zeviel/agify.sh"> agify.sh </a> </td>
+			<td>
+				<img src="https://bettercallsaul-api.onrender.com/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/better_call_saul_api.sh"> better_call_saul_api.sh </a> </td>
+			<td>
+				<img src="https://binlist.net/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/bin_list.sh"> bin_list.sh </a> </td>
+			<td>
+				<img src="https://yt3.googleusercontent.com/ytc/AGIKgqNHQbWTZLuAzJGaUko3DGrxeQFA8UyRb8rTdTGR=s176-c-k-c0x00ffffff-no-rj" height="20px">
+				<a href="https://github.com/zeviel/binary_jazz.sh"> binary_jazz.sh </a> </td>
+			<td>
+				<img src="https://biriyani.anoram.com/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/biriyani_as_service.sh"> biriyani_as_service.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://www.bobsburgersapi.com/static/media/logo.fde474c9f99b4028a04f.png" height="20px">
+				<a href="https://github.com/zeviel/bobs_burgers_api.sh"> bobs_burgers_api.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/235307825-ad0fb0fe-3cb5-4f53-9408-878e8e02c093.jpg" height="20px">
+				<a href="https://github.com/zeviel/bots_archive.sh"> bots_archive.sh </a> </td>
+			<td>
+				<img src="https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png" height="20px">
+				<a href="https://github.com/zeviel/chuck_norris_io.sh"> chuck_norris_io.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/235308156-9c38c8aa-6c46-4291-aba8-05a636cc9115.png" height="20px">
+				<a href="https://github.com/zeviel/digimon_api.sh"> digimon_api.sh </a> </td>
+			<td>
+				<img src="https://disneyapi.dev/favicon.svg?v=496a51d19182578899ddd1e460de9a12" height="20px">
+				<a href="https://github.com/zeviel/disney_api.sh"> disney_api.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://elonmu.sh/android-chrome-512x512.png" height="20px">
+				<a href="https://github.com/zeviel/elon_mu.sh"> elon_mu.sh </a> </td>
+			<td>
+				<img src="https://fakerapi.it/assets/img/symbol.png" height="20px">
+				<a href="https://github.com/zeviel/faker_api.sh"> faker_api.sh </a> </td>
+			<td>
+				<img src="https://www.fbi.gov/++theme++11-14-22-fbi/images/fbi_seal_new.png" height="20px">
+				<a href="https://github.com/zeviel/fbi_wanted_api.sh"> fbi_wanted_api.sh </a> </td>
+			<td>
+				<img src="https://trackercdn.com/static-files/trackergg/production/dist/client/assets/6d718acb.png" height="20px">
+				<a href="https://github.com/zeviel/fortnite_tracker.sh"> fortnite_tracker.sh </a> </td>
+			<td>
+				<img src="https://www.frankfurter.app/images/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/frank_furter.sh"> frank_furter.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://ipwhois.io/img/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/ip_who_is.sh"> ip_who_is.sh </a> </td>
+			<td>
+				<img src="https://www.jailbase.com/static/imgs/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/jail_base.sh"> jail_base.sh </a> </td>
+			<td>
+				<img src="https://jsonbase.com/jsonbase-logo@2x.f35097c8.png" height="20px">
+				<a href="https://github.com/zeviel/json_base.sh"> json_base.sh </a> </td>
+			<td>
+				<img src="https://raw.githubusercontent.com/gitfrosh/lotr-api/release/frontend/public/icons/icon-512x512.png" height="20px">
+				<a href="https://github.com/zeviel/lotr_api.sh"> lotr_api.sh </a> </td>
+			<td>
+				<img src="https://www.mailcheck.ai/img/logo-256.jpg" height="20px">
+				<a href="https://github.com/zeviel/mail_check_ai.sh"> mail_check_ai.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://c1.tablecdn.com/pa/mercury-retrograde-science-api.jpg" height="20px">
+				<a href="https://github.com/zeviel/mercury_retrograde_api.sh"> mercury_retrograde_api.sh </a> </td>
+			<td>
+				<img src="https://nationalize.io/images/nationalize.png?1dc4296c2e09ed965b21ae4c0aecec73" height="20px">
+				<a href="https://github.com/zeviel/nationalize.sh"> nationalize.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/235304003-9e9382a2-5ec2-4354-80c0-7c4c31e0acf4.png" height="20px">
+				<a href="https://github.com/zeviel/newton.sh"> newton.sh </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/102715674/228890015-c38a38c5-cd6c-4dcf-b955-cde95fb380ca.svg" height="20px">
+				<a href="https://github.com/zeviel/people_generator_api.sh"> people_generator_api.sh </a> </td>
+			<td>
+				<img src="https://nick-cannon-baby-api.onrender.com/static/media/NickCannonBabyApiLogo.11af6d8d44798d85b178.png" height="20px">
+				<a href="https://github.com/zeviel/nick_cannon_baby_api.sh"> nick_cannon_baby_api.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://ok.surf/android-icon-192x192.png" height="20px">
+				<a href="https://github.com/zeviel/ok_surf.sh"> ok_surf.sh </a> </td>
+			<td>
+				<img src="https://owen-wilson-wow-api.onrender.com/static/media/Logo.3b55998c204f27064b30.png" height="20px">
+				<a href="https://github.com/zeviel/owen_wilson_wow_api.sh"> owen_wilson_wow_api.sh </a> </td>
+			<td>
+				<img src="https://placebear.com/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/place_bear.sh"> place_bear.sh </a> </td>
+			<td>
+				<img src="https://quotesondesign.com/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/quotes_on_design.sh"> quotes_on_design.sh </a> </td>
+			<td>
+				<img src="https://cdnassets.raider.io/images/mstile-310x310.png" height="20px">
+				<a href="https://github.com/zeviel/raider_io.sh"> raider_io.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://shibe.online/assets/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/shibe_online.sh"> shibe_online.sh </a> </td>
+			<td>
+				<img src="http://smashlounge.com/img/assets/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/smash_lounge.sh"> smash_lounge.sh </a> </td>
+			<td>
+				<img src="https://swapi.dev/static/favicon.ico" height="20px">
+				<a href="https://github.com/zeviel/star_wars_api.sh"> star_wars_api.sh </a> </td>
+			<td>
+				<img src="https://status.pizza/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/status_pizza.sh"> status_pizza.sh </a> </td>
+			<td>
+				<img src="https://sunrise-sunset.org/logo-v1_62x47.svg" height="20px">
+				<a href="https://github.com/zeviel/sunrise_sunset.sh"> sunrise_sunset.sh </a> </td>
+		</tr>
+				<tr>
+			<td>
+				<img src="https://super_heroapi.com/assets/img/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/super_hero_api.sh"> super_hero_api.sh </a> </td>
+			<td>
+				<img src="https://www.theaudiodb.com/images/logo_new_12.png" height="20px">
+				<a href="https://github.com/zeviel/the_audio_db.sh"> the_audio_db.sh </a> </td>
+			<td>
+				<img src="https://www.themealdb.com/images/logo-small.png" height="20px">
+				<a href="https://github.com/zeviel/the_meal_db.sh"> the_meal_db.sh </a> </td>
+			<td>
+				<img src="hhttps://vadivelu.anoram.com/ahaan.png" height="20px">
+				<a href="https://github.com/zeviel/vadivelu_http_codes.sh"> vadivelu_http_codes.sh </a> </td>
 		</tr>
 	</table>
 	</div>
