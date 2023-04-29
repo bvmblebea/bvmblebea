@@ -869,6 +869,9 @@
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/235312577-d86dce13-8912-488c-a1a2-e7b39136759b.png" height="20px">
 				<a href="https://github.com/zeviel/vadivelu_http_codes.sh"> vadivelu_http_codes.sh </a> </td>
+			<td>
+				<img src="https://www.thesportsdb.com/images/logo32.png" height="20px">
+				<a href="https://github.com/zeviel/the_sports_db.sh"> the_sports_db </a> </td>
 		</tr>
 	</table>
 	</div>
