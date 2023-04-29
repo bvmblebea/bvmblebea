@@ -858,7 +858,7 @@
 				<img src="https://sunrise-sunset.org/logo-v1_62x47.svg" height="20px">
 				<a href="https://github.com/zeviel/sunrise_sunset.sh"> sunrise_sunset.sh </a> </td>
 		</tr>
-				<tr>
+		<tr>
 			<td>
 				<img src="https://super_heroapi.com/assets/img/favicon.png" height="20px">
 				<a href="https://github.com/zeviel/super_hero_api.sh"> super_hero_api.sh </a> </td>
