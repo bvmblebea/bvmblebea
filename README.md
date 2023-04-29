@@ -532,7 +532,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 99</th> </tr>
+		<tr> <th colspan="5">Bash - 100</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
