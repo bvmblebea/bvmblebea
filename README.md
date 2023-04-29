@@ -3,7 +3,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍻">
 	</h1>
 	<div align="center">
-		<img src="https://i.pinimg.com/originals/4c/af/a1/4cafa1f9b1ec178232b8344f4123754f.gif">
+		<img src="https://media.tenor.com/Pk8EkEp1KIUAAAAC/hell-drysill.gif">
 	</div>
 	<div align="center">
 		<code> I got black in my voots </code> <br>
