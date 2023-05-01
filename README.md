@@ -11,7 +11,7 @@
 	</div>
 	<br>
 	<div>
-		<h2 align="center"> About me🍪 </h2>
+		<h2 align="center"> About me </h2>
 		<ul>
 			<li><b>Nickname:</b> zeviel, deluvsushi </li>
 			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters </li>
