@@ -240,7 +240,7 @@
 				<img src="https://user-images.githubusercontent.com/77536370/229271639-8d9834f9-b983-470b-833b-35ab9496e93d.svg" height="20px">
 				<a href="https://github.com/zeviel/renovels.py"> renovels.py </a> </td>
 			<td>
-				<img src="https://rps101.pythonanywhere.com/static/apple-touch-icon.png" height="20px">
+				<img src="https://apislist.com/static/apis/621/icon.png" height="20px">
 				<a href="https://github.com/zeviel/rps101.py"> rps101.py </a> </td>
 		</tr>
 		<tr>
@@ -881,7 +881,7 @@
 				<img src="https://mcstatus.io/img/icon.png" height="20px">
 				<a href="https://github.com/zeviel/mc_status.sh"> mc_status.sh </a> </td>
 			<td>
-				<img src="https://e7.pngegg.com/pngimages/768/374/png-clipart-minecraft-block-minecraft-games-minecraft.png" height="20px">
+				<img src="https://github.com/zeviel/anixart.py/assets/77536370/9f21ad57-ae49-4ab9-aef1-7d672b9c1005" height="20px">
 				<a href="https://github.com/zeviel/bedrock_info.sh"> bedrock_info.sh </a> </td>
 			<td>
 				<img src="https://pbs.twimg.com/profile_images/378800000150331168/5348fa4ca72d96dcd19471084a45b7aa_400x400.jpeg" height="20px">
@@ -926,7 +926,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://cdn.adguardvpn.com/website/adguard-vpn.com/favicons/favicon.svg" height="20px">
+				<img src="https://github.com/zeviel/anixart.py/assets/77536370/392d4753-173f-4fcf-a2ce-6b6d515ae642" height="20px">
 				<a href="https://github.com/zeviel/adguard_vpn.sh"> adguard_vpn.sh </a> </td>
 			<td>
 				<img src="https://github.com/zeviel/anixart.py/assets/77536370/496634ca-0a99-400c-ad2e-e16738f475dd" height="20px">
