@@ -1,6 +1,6 @@
 <body>
 	<h1 align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&color=B60000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile🍻">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FFFFFF00&color=B60000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profileðŸ»">
 	</h1>
 	<div align="center">
 		<img src="https://media.tenor.com/Pk8EkEp1KIUAAAAC/hell-drysill.gif">
@@ -1026,6 +1026,23 @@
 				<img src="https://ip-api.com/docs/static/logo.png" height="20px">
 				<a href="https://github.com/zeviel/ip_api.sh"> ip_api.sh </a> </td>
 		</tr>
+		<tr>
+			<td>
+				<img src="https://ipgeolocation.io/images/logo.png" height="20px">
+				<a href="https://github.com/zeviel/ip_geo_location.sh"> ip_geo_location.sh </a> </td>
+			<td>
+				<img src="https://cdn.ip2location.io/assets/img/logo-sm.png" height="20px">
+				<a href="https://github.com/zeviel/ip_2_location.sh"> ip_2_location.sh </a> </td>
+			<td>
+				<img src="https://geo.ipify.org/images/ipgeolocation/logo.png?v=2" height="20px">
+				<a href="https://github.com/zeviel/ipify.sh"> ipify.sh </a> </td>
+			<td>
+				<img src="https://ipinfo.io/_next/static/media/logo.a3c39026.svg" height="20px">
+				<a href="https://github.com/zeviel/ip_info.sh"> ip_info.sh </a> </td>
+			<td>
+				<img src="https://www.findip.net/assets/images/logo-dark.png" height="20px">
+				<a href="https://github.com/zeviel/find_ip.sh"> find_ip.sh </a> </td>
+		</tr>
 	</table>
 	</div>
 	<details>
@@ -1051,7 +1068,7 @@
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 	</div>
 	<div>
-		<h2 align="center"> Statistics🍖 </h2>
+		<h2 align="center"> Statistics🍻 </h2>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeviel&theme=dark&hide_border=true">
 		<img src="https://github-readme-stats.vercel.app/api?username=zeviel&show_icons=true&theme=dark&hide_border=true">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeviel&theme=dark&hide_border=true">
