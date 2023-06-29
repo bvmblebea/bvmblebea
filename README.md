@@ -532,7 +532,7 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/zeviel/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
-		<tr> <th colspan="5">Bash - 100</th> </tr>
+		<tr> <th colspan="5">Bash - 150</th> </tr>
 		<tr>
 			<td>
 				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
@@ -742,7 +742,7 @@
 				<img src="https://agify.io/images/agify.png?59733b6e19c74b6c47fd8e4b3e20f6ef" height="20px">
 				<a href="https://github.com/zeviel/agify.sh"> agify.sh </a> </td>
 			<td>
-				<img src="https://bettercallsaul-api.onrender.com/favicon.ico" height="20px">
+				<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Better_Call_Saul_logo.svg/1200px-Better_Call_Saul_logo.svg.png" height="20px">
 				<a href="https://github.com/zeviel/better_call_saul_api.sh"> better_call_saul_api.sh </a> </td>
 			<td>
 				<img src="https://binlist.net/favicon.png" height="20px">
@@ -871,7 +871,160 @@
 				<a href="https://github.com/zeviel/vadivelu_http_codes.sh"> vadivelu_http_codes.sh </a> </td>
 			<td>
 				<img src="https://www.thesportsdb.com/images/logo32.png" height="20px">
-				<a href="https://github.com/zeviel/the_sports_db.sh"> the_sports_db </a> </td>
+				<a href="https://github.com/zeviel/the_sports_db.sh"> the_sports_db.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
+				<a href="https://github.com/zeviel/minecraft_rating.sh"> minecraft_rating.sh </a> </td>
+			<td>
+				<img src="https://mcstatus.io/img/icon.png" height="20px">
+				<a href="https://github.com/zeviel/mc_status.sh"> mc_status.sh </a> </td>
+			<td>
+				<img src="https://e7.pngegg.com/pngimages/768/374/png-clipart-minecraft-block-minecraft-games-minecraft.png" height="20px">
+				<a href="https://github.com/zeviel/bedrock_info.sh"> bedrock_info.sh </a> </td>
+			<td>
+				<img src="https://pbs.twimg.com/profile_images/378800000150331168/5348fa4ca72d96dcd19471084a45b7aa_400x400.jpeg" height="20px">
+				<a href="https://github.com/zeviel/foaas.sh"> foaas.sh </a> </td>
+			<td>
+				<img src="https://adresse.data.gouv.fr/_next/static/media/favicon.f453a8cf.svg" height="20px">
+				<a href="https://github.com/zeviel/french_address_search.sh"> french_address_search.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://groundhog-day.com/images/logo.png" height="20px">
+				<a href="https://github.com/zeviel/ground_hog_day.sh"> ground_hog_day.sh </a> </td>
+			<td>
+				<img src="https://fastfoxvpn.com/img/flogo.svg" height="20px">
+				<a href="https://github.com/zeviel/fast_fox_vpn.sh"> fast_fox_vpn.sh </a> </td>
+			<td>
+				<img src="https://rewardsvpn.com/vpnadmin/assets/img/reward.svg" height="20px">
+				<a href="https://github.com/zeviel/reward_vpn.sh"> reward_vpn.sh </a> </td>
+			<td>
+				<img src="https://turbotrackvpn.com/img/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/turbo_track_vpn.sh"> turbo_track_vpn.sh </a> </td>
+			<td>
+				<img src="https://cdn.writeas.net/img/writeas-logo.svg" height="20px">
+				<a href="https://github.com/zeviel/write_as.sh"> write_as.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/EDAzf9nQr0LYgdlLnRY5zOLiKVNo3WkdyDgkSBabd4TXMfKEhvwFwWqbH7BhiTDEOLQ=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/hapi_vpn.sh"> hapi_vpn.sh </a> </td>
+			<td>
+				<img src="https://bbvpn.avdev.site/assets/images/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/bb_vpn.sh"> bb_vpn.sh </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/5r5QCHreImfwdTHqZC3ISIbFMcMoZpwhRYMxnv7kEAfWwM6s2xN1cGc9DA9k1bYURA=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/solar_dvpn.sh"> solar_dvpn.sh </a> </td>
+			<td>
+				<img src="https://notvpn.io/public/img/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/not_vpn.sh"> not_vpn.sh </a> </td>
+			<td>
+				<img src="https://www.funnylabz.com/images/apps/funnyinsults.png" height="20px">
+				<a href="https://github.com/zeviel/funny_insults.sh"> funny_insults.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://cdn.adguardvpn.com/website/adguard-vpn.com/favicons/favicon.svg" height="20px">
+				<a href="https://github.com/zeviel/adguard_vpn.sh"> adguard_vpn.sh </a> </td>
+			<td>
+				<img src="https://github.com/zeviel/anixart.py/assets/77536370/496634ca-0a99-400c-ad2e-e16738f475dd" height="20px">
+				<a href="https://github.com/zeviel/7_vpn.sh"> 7_vpn.sh </a> </td>
+			<td>
+				<img src="https://github.com/zeviel/anixart.py/assets/77536370/299f05aa-bca5-406d-b234-c7adcf32a72c" height="20px">
+				<a href="https://github.com/zeviel/surf_shark_vpn.sh"> surf_shark_vpn.sh </a> </td>
+			<td>
+				<img src="https://www.geojs.io/img/logo.png" height="20px">
+				<a href="https://github.com/zeviel/geo_js.sh"> geo_js.sh </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/6qNNvf0WOFgyd0tJLWKeOxKD9sZEm8aJXT25UjERgYXKE-tVXpf4YXkQhDAE6BG6hgg=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/f1_rockets_vpn.sh"> f1_rockets_vpn.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/zeviel/email_fake.sh/assets/77536370/8aba9bcd-9e83-4be2-8bed-08552618d305" height="20px">
+				<a href="https://github.com/zeviel/email_fake.sh"> email_fake </a> </td>
+			<td>
+				<img src="https://burnermail.io/assets/burnermail_logo_black-79be860f9b3db7a99487a5b412080eee8778f56a679e726a78071c6c6af44c1e.svg" height="20px">
+				<a href="https://github.com/zeviel/burner_mail.sh"> burner_mail.sh </a> </td>
+			<td>
+				<img src="https://mdn.r.worldssl.net/img/10minuteinboxlogo.png" height="20px">
+				<a href="https://github.com/zeviel/minute_inbox.sh"> minute_inbox.sh </a> </td>
+			<td>
+				<img src="https://workingvpn.com/img/workingvpn-logo-white.svg" height="20px">
+				<a href="https://github.com/zeviel/working_vpn.sh"> working_vpn.sh </a> </td>
+			<td>
+				<img src="https://vpnly.net/_assets/images/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/vpnly.sh"> vpnly.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://uvpn.me/wp-content/themes/uvpn2020/images/white-logo-with-text-2021.svg" height="20px">
+				<a href="https://github.com/zeviel/uvpn.sh"> uvpn.sh </a> </td>
+			<td>
+				<img src="https://quicksilvervpn.com/img/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/quick_silver_vpn.sh"> quick_silver_vpn.sh </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/IZQj8bAL7ceRCXueKh6gP3Gl-Z7Bb9lPS584dpTrX6HwOCHXmBwUg2OKCZLBsrl7VtA=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/rapid_vpn.sh"> rapid_vpn.sh </a> </td>
+			<td>
+				<img src="https://goosevpn.com/wp-content/themes/goosevpn/dist/goosevpn-logo.png.webp" height="20px">
+				<a href="https://github.com/zeviel/goose_vpn.sh"> goose_vpn.sh </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/Y0JBfa1LPPhts1z-nd-qm7aZJGb8rQYXdxvd81ZbgFQJ2Vvw5fTCoqJIhVavZu1K2x0=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/jump_vpn.sh"> jump_vpn.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/5MOsiws1T29kvQDFOC-psNQFH7L9WRQnpZrwWb9i_B2UamH7qQLy2esZEismjLjb3w=w240-h480-rw" height="20px">
+				<a href="https://github.com/zeviel/beast_vpn.sh"> beast_vpn.sh </a> </td>
+			<td>
+				<img src="https://blokada.org/img/brand/white.png" height="20px">
+				<a href="https://github.com/zeviel/blokada.sh"> blokada.sh </a> </td>
+			<td>
+				<img src="https://quickflowvpn.com/img/logo.svg" height="20px">
+				<a href="https://github.com/zeviel/quick_flow_vpn.sh"> quick_flow_vpn.sh </a> </td>
+			<td>
+				<img src="https://www.clashofstats.com/_nuxt/img/logo-home-blue-grey.7bfaabf.png" height="20px">
+				<a href="https://github.com/zeviel/clash_of_stats.sh"> clash_of_stats.sh </a> </td>
+			<td>
+				<img src="https://smailpro.com/img/smailpro.com/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/zeviel/smail_pro.sh"> smail_pro.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://tempmail.dev/assets2/images/logo.svg?a13" height="20px">
+				<a href="https://github.com/zeviel/temp_mail_dev.sh"> temp_mail_dev.sh </a> </td>
+			<td>
+				<img src="https://tmailor.com/img/Logo.png" height="20px">
+				<a href="https://github.com/zeviel/tmailor.sh"> tmailor.sh </a> </td>
+			<td>
+				<img src="https://anonymmail.net/assets/img/logo.png" height="20px">
+				<a href="https://github.com/zeviel/anonym_mail.sh"> anonym_mail.sh </a> </td>
+			<td>
+				<img src="https://github.com/zeviel/harakiri_mail.sh/assets/77536370/11c8368a-107a-4ce0-b536-cce3ee7a6ffe" height="20px">
+				<a href="https://github.com/zeviel/harakiri_mail.sh"> harakiri_mail.sh </a> </td>
+			<td>
+				<img src="https://whoer.net/ru/favicon.png" height="20px">
+				<a href="https://github.com/zeviel/whoer_vpn.sh"> whoer_vpn.sh </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://sandvpn.com/images/logo64.png" height="20px">
+				<a href="https://github.com/zeviel/sand_vpn.sh"> sand_vpn.sh </a> </td>
+			<td>
+				<img src="https://waa.ai/img/avatars/akari.jpg" height="20px">
+				<a href="https://github.com/zeviel/akari_link_shortener.sh"> akari_link_shortener.sh </a> </td>
+			<td>
+				<img src="https://www.myip.com/img/myip.png" height="20px">
+				<a href="https://github.com/zeviel/my_ip.sh"> my_ip.sh </a> </td>
+			<td>
+				<img src="https://github.com/zeviel/ip_api.sh/assets/77536370/883266af-757e-4126-a05c-91791bf7af12" height="20px">
+				<a href="https://github.com/zeviel/extreme_ip_lookup.sh"> extreme_ip_lookup.sh </a> </td>
+			<td>
+				<img src="https://ip-api.com/docs/static/logo.png" height="20px">
+				<a href="https://github.com/zeviel/ip_api.sh"> ip_api.sh </a> </td>
 		</tr>
 	</table>
 	</div>
