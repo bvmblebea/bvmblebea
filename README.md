@@ -115,7 +115,7 @@
 				<img src="https://img.guerrillamail.com/4/6/f/46f9fd8911b3a915c1fec119e9062d00.png" height="20px">
 				<a href="https://github.com/zeviel/guerrilla_mail.py"> guerrilla_mail.py </a> </td>
 			<td>
-				<img src="https://pixelencounter.com/android-chrome-512x512.png" height="20px">
+				<img src="https://github.com/zeviel/anixart.py/assets/77536370/dba37d92-e9d6-4cd2-af5f-c2e20675bd0a" height="20px">
 				<a href="https://github.com/zeviel/pixel_encounter.py"> pixel_encounter.py </a> </td>
 			<td>
 				<img src="https://www.chess.com/bundles/web/images/brand/chesscom_pawn.b51896bf.png" height="20px">
