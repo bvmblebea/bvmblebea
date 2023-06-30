@@ -926,7 +926,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/zeviel/anixart.py/assets/77536370/392d4753-173f-4fcf-a2ce-6b6d515ae642" height="20px">
+				<img src="https://github.com/zeviel/zeviel/assets/77536370/6d5fc2c5-94f8-4103-a380-eaf8cc7a1840" height="20px">
 				<a href="https://github.com/zeviel/adguard_vpn.sh"> adguard_vpn.sh </a> </td>
 			<td>
 				<img src="https://github.com/zeviel/anixart.py/assets/77536370/496634ca-0a99-400c-ad2e-e16738f475dd" height="20px">
