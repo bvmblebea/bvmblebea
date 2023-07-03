@@ -944,7 +944,7 @@
 		<tr>
 			<td>
 				<img src="https://github.com/zeviel/email_fake.sh/assets/77536370/8aba9bcd-9e83-4be2-8bed-08552618d305" height="20px">
-				<a href="https://github.com/zeviel/email_fake.sh"> email_fake </a> </td>
+				<a href="https://github.com/zeviel/email_fake.sh"> email_fake.sh </a> </td>
 			<td>
 				<img src="https://burnermail.io/assets/burnermail_logo_black-79be860f9b3db7a99487a5b412080eee8778f56a679e726a78071c6c6af44c1e.svg" height="20px">
 				<a href="https://github.com/zeviel/burner_mail.sh"> burner_mail.sh </a> </td>
