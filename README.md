@@ -1051,14 +1051,6 @@
 			<a href="https://t.me/FFuckEmWeBaLL" target="_blank">
 			<img src="https://img.shields.io/badge/@FFuckEmWeBaLL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 		</p>
-		<p align="center">
-			<a href="https://youtube.com/channel/UCfr0xeEmrOs1j9y5TvNyMgg" target="_blank">
-			<img src="https://img.shields.io/badge/zeviel-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-		</p>
-		<p align="center">
-			<a href="https://vk.com/skeletonic" target="_blank">
-			<img src="https://img.shields.io/badge/@skeletonic-597da3?style=for-the-badge&logo=vk&logoColor=white">
-		</p>
 	</details>
 	<div>
 		<h2 align="center"> Knowledge🍺 </h2>
