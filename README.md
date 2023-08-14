@@ -13,8 +13,8 @@
 	<div>
 		<h2 align="center"> About me </h2>
 		<ul>
-			<li><b>Nickname:</b> zeviel, deluvsushi </li>
-			<li><b>Hobbies:</b> Programming, Drawing graffities, Making beats, Drawing Characters </li>
+			<li><b>Nickname:</b> zeviel </li>
+			<li><b>Hobbies:</b> Programming, Drawing graffities, Drawing Characters. Making beats </li>
 			<li><b>Trying to learn:</b> Something interesting </li>
 		</ul>
 	</div>
