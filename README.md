@@ -6,8 +6,8 @@
 		<img src="https://media.tenor.com/Pk8EkEp1KIUAAAAC/hell-drysill.gif">
 	</div>
 	<div align="center">
-		<code> I got black in my voots </code> <br>
-		<code> My name Toby, like I'm Roots </code>
+		<code> If it was me dying on the sidewalk, you'd walk right over me </code> <br>
+		<code> I pass you everyday and you don't notice me </code>
 	</div>
 	<br>
 	<div>
