@@ -1034,13 +1034,4 @@
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 		<img src="https://img.shields.io/badge/typescript-%23121011.svg?style=for-the-badge&logo=typescript">
 	</div>
-	<div>
-		<h2 align="center"> Statistics </h2>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeviel&theme=dark&hide_border=true">
-		<img src="https://github-readme-stats.vercel.app/api?username=zeviel&show_icons=true&theme=dark&hide_border=true">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeviel&theme=dark&hide_border=true">
-		<img src="https://stardev.io/developers/zeviel/badge/languages/global.svg">
-		<img src="https://github-profile-trophy.vercel.app/?username=zeviel&no-frame=true&no-bg=true&theme=juicyfresh">
-		<img src="https://komarev.com/ghpvc/?username=zeviel&color=000000&style=plastic&label=viewers">
-	</div>
 </body>
