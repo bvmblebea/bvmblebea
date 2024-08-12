@@ -1026,13 +1026,6 @@
 		</tr>
 	</table>
 	</div>
-	<details>
-		<summary><b>Contact me</b></summary>
-		<p align="center">
-			<a href="https://t.me/FFuckEmWeBaLL" target="_blank">
-			<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-		</p>
-	</details>
 	<div>
 		<h2 align="center"> Knowledge </h2>
 		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
