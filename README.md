@@ -1,4 +1,7 @@
 <body>
+	<div align="center">
+		<code> Comfort kills dreams </code> 
+	</div>
 	<div>
 	<table>
 		<tr> <th colspan="5">Wrappers</th> </tr>
@@ -1027,11 +1030,11 @@
 	</table>
 	</div>
 	<div>
-		<h2 align="center"> Knowledge </h2>
+		<h2 align="center"> Stack </h2>
 		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 		<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash">
 		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-		<img src="https://img.shields.io/badge/typescript-%23121011.svg?style=for-the-badge&logo=typescript">
+		<img src="https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript">
 	</div>
 </body>
