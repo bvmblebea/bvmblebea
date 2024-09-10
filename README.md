@@ -1127,7 +1127,7 @@
 				<img src="https://tolle.io/images/tolle_logo.png" height="20px">
 				<a href="https://github.com/vvh0ame/tolle_vpn.js"> tolle_vpn.js </a> </td>
 			<td>
-				<img src="https://norm.gg/assets/Norm-2-e907a242.svg" height="20px">
+				<img src="https://github.com/user-attachments/assets/ed4d2f0e-f1f5-4b16-9485-aa0de0821a2a" height="20px">
 				<a href="https://github.com/vvh0ame/norm.js"> norm.js </a> </td>
 		</tr>
 	</table>
