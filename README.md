@@ -178,7 +178,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://shrtco.de/img/favicons/android-chrome-512x512.png?v=3" height="20px">
+				<img src="https://images-apilist-fun.sfo2.cdn.digitaloceanspaces.com/shrtco.de_api_api.png" height="20px">
 				<a href="https://github.com/vvh0ame/shrt_code.py"> shrt_code.py </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/3zfxWSRXQgx_8SAdCySsSYV59EdW8CW0YW-hA7oZSiMnVBpgMG2luQHcVfDmRneRJA" height="20px">
