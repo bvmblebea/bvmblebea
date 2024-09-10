@@ -1050,7 +1050,7 @@
 				<img src="https://www.frankfurter.app/images/favicon.png" height="20px">
 				<a href="https://github.com/vvh0ame/frankfurter.js"> frankfurter.js </a> </td>
 			<td>
-				<img src="https://www.getthedata.com/images/getthedata_logo_icon.png" height="20px">
+				<img src="https://github.com/user-attachments/assets/733c1eef-8a9f-4e30-acdf-30e6269a6202" height="20px">
 				<a href="https://github.com/vvh0ame/get_the_data.js"> get_the_data.js </a> </td>
 			<td>
 				<img src="https://isrostats.in/favicon.ico" height="20px">
@@ -1070,7 +1070,7 @@
 				<img src="https://myttc.ca/images/logo.png" height="20px">
 				<a href="https://github.com/vvh0ame/myttc.js"> myttc.js </a> </td>
 			<td>
-				<img src="http://www.postalpincode.in/Images/Home/Logo.jpg" height="20px">
+				<img src="https://github.com/user-attachments/assets/16af8ee6-392a-4c96-bed3-625be2afb3a5" height="20px">
 				<a href="https://github.com/vvh0ame/postal_pin_code.js"> postal_pin_code.js </a> </td>
 			<td>
 				<img src="https://www.refugerestrooms.org/assets/logo-100x100-86f97aa57df88c23fc970a8860578fc8d5b45b6c74ea1b437774e2bedb2a771f.png" height="20px">
@@ -1098,7 +1098,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://isitwater.com/assets/img/isitwater-crop.png" height="20px">
+				<img src="https://github.com/user-attachments/assets/2242d0cf-624c-4852-a229-a3bc483ba6c3" height="20px">
 				<a href="https://github.com/vvh0ame/is_it_water.js"> is_it_water.js </a> </td>
 			<td>
 				<img src="https://disease.sh/assets/img/icon_caw_simple.png" height="20px">
