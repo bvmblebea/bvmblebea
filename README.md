@@ -1027,7 +1027,7 @@
 				<img src="https://www.findip.net/assets/images/logo-dark.png" height="20px">
 				<a href="https://github.com/vvh0ame/find_ip.sh"> find_ip.sh </a> </td>
 		</tr>
-		<tr> <th colspan="5">JavaScript - 50</th> </tr>
+		<tr> <th colspan="5">JavaScript - 45</th> </tr>
 		<tr>
 			<td>
 				<img src="https://postali.app/favicon.svg" height="20px">
