@@ -1135,7 +1135,7 @@
 				<img src="https://azbooka.ru/favicon.svg" height="20px">
 				<a href="https://github.com/vvh0ame/azbooka.js"> azbooka.js </a> </td>
 			<td>
-				<img src="https://trendymanga.com/assets/apple-touch-icon.ba86e040.png" height="20px">
+				<img src="https://github.com/user-attachments/assets/a8551b6a-9d7b-4c9e-9aec-90aa1104ac6d" height="20px">
 				<a href="https://github.com/vvh0ame/trendy_manga.js"> trendy_manga.js </a> </td>
 			<td>
 				<img src="https://nakama.social//icons/logo-circle.svg" height="20px">
