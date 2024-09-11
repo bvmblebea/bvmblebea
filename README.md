@@ -1027,7 +1027,7 @@
 				<img src="https://www.findip.net/assets/images/logo-dark.png" height="20px">
 				<a href="https://github.com/vvh0ame/find_ip.sh"> find_ip.sh </a> </td>
 		</tr>
-		<tr> <th colspan="5">JavaScript - 30</th> </tr>
+		<tr> <th colspan="5">JavaScript - 50</th> </tr>
 		<tr>
 			<td>
 				<img src="https://postali.app/favicon.svg" height="20px">
@@ -1129,6 +1129,57 @@
 			<td>
 				<img src="https://github.com/user-attachments/assets/ed4d2f0e-f1f5-4b16-9485-aa0de0821a2a" height="20px">
 				<a href="https://github.com/vvh0ame/norm.js"> norm.js </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://azbooka.ru/favicon.svg" height="20px">
+				<a href="https://github.com/vvh0ame/azbooka.js"> azbooka.js </a> </td>
+			<td>
+				<img src="https://trendymanga.com/assets/apple-touch-icon.ba86e040.png" height="20px">
+				<a href="https://github.com/vvh0ame/trendy_manga.js"> trendy_manga.js </a> </td>
+			<td>
+				<img src="https://nakama.social//icons/logo-circle.svg" height="20px">
+				<a href="https://github.com/vvh0ame/nakama.js"> nakama.js </a> </td>
+			<td>
+				<img src="https://mail.tm/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/vvh0ame/mail_tm.js"> mail_tm.js </a> </td>
+			<td>
+				<img src="https://getnada.cc/wp-content/uploads/2023/11/getnada-white.png" height="20px">
+				<a href="https://github.com/vvh0ame/nada.js"> nada.js </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://jelly-belly-wiki.netlify.app/static/media/fivcon-final.799a6a76d33db1724b5c.png" height="20px">
+				<a href="https://github.com/vvh0ame/jelly_belly_wiki.js"> jelly_belly_wiki.js </a> </td>
+			<td>
+				<img src="https://hp-api.onrender.com/images/Favicons/icons8-harry-potter-papercut-512.png" height="20px">
+				<a href="https://github.com/vvh0ame/hp_api.js"> hp_api.js </a> </td>
+			<td>
+				<img src="https://www.weather.gov/bundles/templating/images/header/header.png" height="20px">
+				<a href="https://github.com/vvh0ame/national_weather_service.js"> national_weather_service.js </a> </td>
+			<td>
+				<img src="https://strangerthings-quotes.vercel.app/images/favicon.png" height="20px">
+				<a href="https://github.com/vvh0ame/stranger_things_quotes.js"> stranger_things_quotes.js </a> </td>
+			<td>
+				<img src="https://publicapi.dev/images/logos/whatthecommit.com.png" height="20px">
+				<a href="https://github.com/vvh0ame/what_the_commit.js"> what_the_commit.js </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://placekeanu.com/static/apple-touch-icon.png" height="20px">
+				<a href="https://github.com/vvh0ame/place_keanu.js"> place_keanu.js </a> </td>
+			<td>
+				<img src="https://www.thecolorapi.com/images/favicon.png" height="20px">
+				<a href="https://github.com/vvh0ame/the_color_api.js"> the_color_api.js </a> </td>
+			<td>
+				<img src="https://docs.pokemontcg.io/img/gengar.png" height="20px">
+				<a href="https://github.com/vvh0ame/pokemon_tcg.js"> pokemon_tcg.js </a> </td>
+			<td>
+				<img src="https://5e-bits.github.io/docs/img/favicon.ico" height="20px">
+				<a href="https://github.com/vvh0ame/dnd5e_api.js"> dnd5e_api.js </a> </td>
+			<td>
+				<img src="https://publicapi.dev/images/logos/api.citybik.es.png" height="20px">
+				<a href="https://github.com/vvh0ame/city_bikes.js"> city_bikes.js </a> </td>
 		</tr>
 	</table>
 	</div>
