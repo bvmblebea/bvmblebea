@@ -1027,7 +1027,7 @@
 				<img src="https://www.findip.net/assets/images/logo-dark.png" height="20px">
 				<a href="https://github.com/vvh0ame/find_ip.sh"> find_ip.sh </a> </td>
 		</tr>
-		<tr> <th colspan="5">JavaScript - 45</th> </tr>
+		<tr> <th colspan="5">JavaScript - 50</th> </tr>
 		<tr>
 			<td>
 				<img src="https://postali.app/favicon.svg" height="20px">
@@ -1178,8 +1178,25 @@
 				<img src="https://5e-bits.github.io/docs/img/favicon.ico" height="20px">
 				<a href="https://github.com/vvh0ame/dnd5e_api.js"> dnd5e_api.js </a> </td>
 			<td>
-				<img src="https://publicapi.dev/images/logos/api.citybik.es.png" height="20px">
-				<a href="https://github.com/vvh0ame/city_bikes.js"> city_bikes.js </a> </td>
+				<img src="https://publicapi.dev/images/logos/whatthecommit.com.png" height="20px">
+				<a href="https://github.com/vvh0ame/what_the_commit.js"> what_the_commit.js </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://letto.app/android-icon-192x192.png" height="20px">
+				<a href="https://github.com/vvh0ame/letto.js"> letto.js </a> </td>
+			<td>
+				<img src="https://github.com/user-attachments/assets/db93e4d3-8d3d-4053-a180-242ea78c315f" height="20px">
+				<a href="https://github.com/vvh0ame/scope_gg.js"> scope_gg.js </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/Fdl7pkrh6aaKtQX5qbFhINpfbdyYvHTief7qo69ibN7OQLESAmwI1NHdkWnzQ5y5zMJ4=w480-h960-rw" height="20px">
+				<a href="https://github.com/vvh0ame/tactician.js"> tactician.js </a> </td>
+			<td>
+				<img src="https://anime.fans/logo512.png" height="20px">
+				<a href="https://github.com/vvh0ame/anime_fans.js"> anime_fans.js </a> </td>
+			<td>
+				<img src="https://csfloat.com/assets/n-mini-logo.png" height="20px">
+				<a href="https://github.com/vvh0ame/cs_float.js"> cs_float.js </a> </td>
 		</tr>
 	</table>
 	</div>
