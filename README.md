@@ -1,6 +1,6 @@
 <body>
 	<div align="center">
-		<code> Comfort kills dreams </code> 
+		<code> Development </code> 
 	</div>
 	<div>
 	<table>
