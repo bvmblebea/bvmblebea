@@ -1178,8 +1178,8 @@
 				<img src="https://5e-bits.github.io/docs/img/favicon.ico" height="20px">
 				<a href="https://github.com/vvh0ame/dnd5e_api.js"> dnd5e_api.js </a> </td>
 			<td>
-				<img src="https://publicapi.dev/images/logos/whatthecommit.com.png" height="20px">
-				<a href="https://github.com/vvh0ame/what_the_commit.js"> what_the_commit.js </a> </td>
+				<img src="https://c1.tablecdn.com/pa/city-bikes-api.jpg" height="20px">
+				<a href="https://github.com/vvh0ame/city_bikes.js"> city_bikes.js </a> </td>
 		</tr>
 		<tr>
 			<td>
