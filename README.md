@@ -1033,11 +1033,11 @@
 				<img src="https://user-images.githubusercontent.com/77536370/186207075-d7e83e9f-1739-442c-92d3-5a57daa2275d.svg" height="20px">
 				<a href="https://github.com/vvh0ame/federal_register.js"> federal_register.js </a> </td>
 			<td>
-				<img src="https://www.toribash.com/toribash_logo_big.png" height="20px">
-				<a href="https://github.com/vvh0ame/forum_toribash.py"> forum_toribash.py </a> </td>
+				<img src="https://discord.name/icons/apple-touch-icon.png?v=2" height="20px">
+				<a href="https://github.com/vvh0ame/discord_name.js"> discord_name.js </a> </td>
 			<td>
 				<img src="https://i.imgur.com/9RGJ5Ea.png" height="20px">
-				<a href="https://github.com/vvh0ame/cat_facts.py"> cat_facts.py </a> </td>
+				<a href="https://github.com/vvh0ame/cat_facts.js"> cat_facts.js </a> </td>
 			<td>
 				<img src="https://randomfox.ca/logo.png" height="20px">
 				<a href="https://github.com/vvh0ame/random_fox.py"> random_fox.py </a> </td>
