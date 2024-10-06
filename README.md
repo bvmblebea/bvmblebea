@@ -857,7 +857,7 @@
 				<img src="https://www.findip.net/assets/images/logo-dark.png" height="20px">
 				<a href="https://github.com/vvh0ame/find_ip.sh"> find_ip.sh </a> </td>
 		</tr>
-		<tr> <th colspan="5">JavaScript - 50</th> </tr>
+		<tr> <th colspan="5">JavaScript - 100</th> </tr>
 		<tr>
 			<td>
 				<img src="https://postali.app/favicon.svg" height="20px">
@@ -1040,27 +1040,27 @@
 				<a href="https://github.com/vvh0ame/cat_facts.js"> cat_facts.js </a> </td>
 			<td>
 				<img src="https://randomfox.ca/logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/random_fox.py"> random_fox.py </a> </td>
+				<a href="https://github.com/vvh0ame/random_fox.js"> random_fox.js </a> </td>
 			<td>
-				<img src="https://xkcd.com/s/0b7742.png" height="20px">
-				<a href="https://github.com/vvh0ame/xkcd.py"> xkcd.py </a> </td>
+				<img src="https://publicapi.dev/images/logos/xkcd.com.png" height="20px">
+				<a href="https://github.com/vvh0ame/xkcd.js"> xkcd.js </a> </td>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://jservice.io/images/trebek.png" height="20px">
-				<a href="https://github.com/vvh0ame/jservice.py"> jservice.py </a> </td>
+				<img src="https://raw.githubusercontent.com/sottenad/jService/refs/heads/master/public/images/trebek.png" height="20px">
+				<a href="https://github.com/vvh0ame/jservice.js"> jservice.js </a> </td>
 			<td>
 				<img src="https://quizapi.io/storage/QuizApi_Logo_White.png" height="20px">
-				<a href="https://github.com/vvh0ame/quiz_api.py"> quiz_api.py </a> </td>
+				<a href="https://github.com/vvh0ame/quiz_api.js"> quiz_api.js </a> </td>
 			<td>
 				<img src="https://apis.guru/assets/images/logo.svg" height="20px">
-				<a href="https://github.com/vvh0ame/apis_guru.py"> apis_guru.py </a> </td>
+				<a href="https://github.com/vvh0ame/apis_guru.py"> apis_guru.js </a> </td>
 			<td>
 				<img src="https://macaddress.io/images/vertical-logo-black.png?v=2" height="20px">
-				<a href="https://github.com/vvh0ame/mac_address_io.py"> mac_address_io.py </a> </td>
+				<a href="https://github.com/vvh0ame/mac_address_io.py"> mac_address_io.js </a> </td>
 			<td>
 				<img src="https://proxykingdom.com/assets/images/brand.png" height="20px">
-				<a href="https://github.com/vvh0ame/proxy_kingdom.py"> proxy_kingdom.py </a> </td>
+				<a href="https://github.com/vvh0ame/proxy_kingdom.py"> proxy_kingdom.js </a> </td>
 		</tr>
 		<tr>
 			<td>
