@@ -5,7 +5,7 @@
 	<div>
 	<table>
 		<tr> <th colspan="5">Wrappers</th> </tr>
-		<tr> <th colspan="5">Python - 150</th> </tr>
+		<tr> <th colspan="5">Python - 100</th> </tr>
 		<tr>
 			<td>
 				<img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px">
@@ -345,176 +345,6 @@
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/217810081-1fbb93f3-3f52-4e59-b318-8567af1196c5.png" height="20px">
 				<a href="https://github.com/vvh0ame/kimi_quotes.py"> kimi_quotes.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/186207075-d7e83e9f-1739-442c-92d3-5a57daa2275d.svg" height="20px">
-				<a href="https://github.com/vvh0ame/federal_register.py"> federal_register.py </a> </td>
-			<td>
-				<img src="https://www.toribash.com/toribash_logo_big.png" height="20px">
-				<a href="https://github.com/vvh0ame/forum_toribash.py"> forum_toribash.py </a> </td>
-			<td>
-				<img src="https://i.imgur.com/9RGJ5Ea.png" height="20px">
-				<a href="https://github.com/vvh0ame/cat_facts.py"> cat_facts.py </a> </td>
-			<td>
-				<img src="https://randomfox.ca/logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/random_fox.py"> random_fox.py </a> </td>
-			<td>
-				<img src="https://xkcd.com/s/0b7742.png" height="20px">
-				<a href="https://github.com/vvh0ame/xkcd.py"> xkcd.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://jservice.io/images/trebek.png" height="20px">
-				<a href="https://github.com/vvh0ame/jservice.py"> jservice.py </a> </td>
-			<td>
-				<img src="https://quizapi.io/storage/QuizApi_Logo_White.png" height="20px">
-				<a href="https://github.com/vvh0ame/quiz_api.py"> quiz_api.py </a> </td>
-			<td>
-				<img src="https://apis.guru/assets/images/logo.svg" height="20px">
-				<a href="https://github.com/vvh0ame/apis_guru.py"> apis_guru.py </a> </td>
-			<td>
-				<img src="https://macaddress.io/images/vertical-logo-black.png?v=2" height="20px">
-				<a href="https://github.com/vvh0ame/mac_address_io.py"> mac_address_io.py </a> </td>
-			<td>
-				<img src="https://proxykingdom.com/assets/images/brand.png" height="20px">
-				<a href="https://github.com/vvh0ame/proxy_kingdom.py"> proxy_kingdom.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://networkcalc.com/images/logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/network_calc.py"> network_calc.py </a> </td>
-			<td>
-				<img src="https://ipbase.com/img/ipbase_logo.svg" height="20px">
-				<a href="https://github.com/vvh0ame/ip_base.py"> ip_base.py </a> </td>
-			<td>
-				<img src="https://www.domcop.com/openpagerank/assets/images/OpenPageRank.png" height="20px">
-				<a href="https://github.com/vvh0ame/open_page_rank.py"> open_page_rank.py </a> </td>
-			<td>
-				<img src="https://assets.whicdn.com/assets/weheartit-42e2538b2440ef84f47b25402883bb255ef589c10193a8b323892a0f718749ab.png" height="20px">
-				<a href="https://github.com/vvh0ame/we_heart_it.py"> we_heart_it.py </a> </td>
-			<td>
-				<img src="https://cdn.brawlify.com/front/Star.svg" height="20px">
-				<a href="https://github.com/vvh0ame/brawlify.py"> brawlify.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://anime777.ru/apple-icon-512x512.png" height="20px">
-				<a href="https://github.com/vvh0ame/anime777.py"> anime777.py </a> </td>
-			<td>
-				<img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Habitica_logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/habitica.py"> habitica.py </a> </td>
-			<td>
-				<img src="https://fredemp3.ru/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/frede_mp3.py"> frede_mp3.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/WsGICIZQvP1eEx-TjN0TeWHWdpqENuV7lNIA-IYNu6rVHBlmM76mFVoWSIDxCxG3CA" height="20px">
-				<a href="https://github.com/vvh0ame/flapping_cage.py"> flapping_cage.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/Q5umRrv41VdUx9Pj7FBO_Ra8pHSchpsaivF9Ng0QTGZQT-DGJdu_EhnT8su_Tc7oi2Y" height="20px">
-				<a href="https://github.com/vvh0ame/flapping_multiplayer.py"> flapping_multiplayer.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/eWrjwwOC9YreoEiCKUTLA8fH5-dz3QCFH39A9S5u3APcZNpvYZ1mVxV5dvBWD1vc7L7x=w240-h480-rw" height="20px">
-				<a href="https://github.com/vvh0ame/my_apps_time.py"> my_apps_time.py </a> </td>
-			<td>
-				<img src="https://hyperkani.com/wp-content/uploads/2021/02/BomberLogo_BG_1_700px_tiny.png" height="20px">
-				<a href="https://github.com/vvh0ame/bomber_friends.py"> bomber_friends.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/200382040-8f549a49-80fd-497f-b88b-d52d2d67ba39.png" height="20px">
-				<a href="https://github.com/vvh0ame/shield_land.py"> shield_land.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/ZX-LIMGoP14MnT3cfLYL2BRh9FvojYipkkUgV1_t6qbGDecf0JH3dW_Ah4Trutc2KA" height="20px">
-				<a href="https://github.com/vvh0ame/brainly.py"> brainly.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/pKnaImaiY9nabDTkvBRcz15LPKVvMFukqDMeotHPCYRw4Ce0J1w5pYgHKYpf6-UTXQ=w240-h480-rw" height="20px">
-				<a href="https://github.com/vvh0ame/main.py"> main.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/209464586-25b1298e-a7fe-44e3-ac04-8a5563cab520.png" height="20px">
-				<a href="https://github.com/vvh0ame/magfi.py"> magfi.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/209464629-3d0961ed-3f4d-439a-b925-bb1f6a1a4a66.png" height="20px">
-				<a href="https://github.com/vvh0ame/black_russia.py"> black_russia.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/209464609-77ad4870-c947-425f-97ee-09814380d2e3.png" height="20px">
-				<a href="https://github.com/vvh0ame/matreshka.py"> matreshka.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/iSNtfoXRWQMQDgU5COv877QvLLDwN4yJuAccG8M0MwtFYrZjQJZXRGVoU-Jt3w0FM89e" height="20px">
-				<a href="https://github.com/vvh0ame/world_noor.py"> world_noor.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/209464662-caf7ff2c-66c6-4c90-aca6-5d635ef44f01.png" height="20px">
-				<a href="https://github.com/vvh0ame/role_gate.py"> role_gate.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/209464692-ba115d9e-ff65-4215-8498-6628e17d8367.png" height="20px">
-				<a href="https://github.com/vvh0ame/santrope_rp.py"> santrope_rp.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/209562868-089d20a0-3ca8-4071-8013-88fde3692e9a.png" height="20px">
-				<a href="https://github.com/vvh0ame/mordor_rp.py"> mordor_rp.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/210063603-3fbda69a-55f3-4210-b1b7-11be6fe1e7f2.png" height="20px">
-				<a href="https://github.com/vvh0ame/barvikha_rp.py"> barvikha_rp.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/aaGjX6qQAk2yc62CCg8VDddqPsEj3ELvA6SpX_SuXYVmQih77wUrUZm17-jMql-cmA" height="20px">
-				<a href="https://github.com/vvh0ame/bottled.py"> bottled.py </a> </td>
-			<td>
-				<img src="https://web-static-axlebolt.s3.eu-central-1.amazonaws.com/store/bg-hot-winter-party-logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/store_standoff2.py"> store_standoff2.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://randommer.io/images/thumbnails/randommer.png" height="20px">
-				<a href="https://github.com/vvh0ame/randommer_io.py"> randommer_io.py </a> </td>
-			<td>
-				<img src="https://tiny.cc/public/images/newlogo.png" height="20px">
-				<a href="https://github.com/vvh0ame/tiny_url.py"> tiny_url.py </a> </td>
-			<td>
-				<img src="https://dictionaryapi.dev/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/free_dictionary_api.py"> free_dictionary_api.py </a> </td>
-			<td>
-				<img src="https://hindi-quotes.vercel.app/assets/quote.png" height="20px">
-				<a href="https://github.com/vvh0ame/hindi_quotes.py"> hindi_quotes.py </a> </td>
-			<td>
-				<img src="http://numbersapi.com/img/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/numbers_api.py"> numbers_api.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://riddles-api.vercel.app/assets/puzzle.png" height="20px">
-				<a href="https://github.com/vvh0ame/riddles_api.py"> riddles_api.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/213907111-e64296b0-0f28-4e84-b8d1-affd204f83a5.svg" height="20px">
-				<a href="https://github.com/vvh0ame/icon_finder.py"> icon_finder.py </a> </td>
-			<td>
-				<img src="https://goprogram.ai/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/go_program_ai.py"> go_program_ai.py </a> </td>
-			<td>
-				<img src="https://github.com/rocktimsaikia/anime-chan/raw/main/public/animechan_logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/anime_chan.py"> anime_chan.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/213914668-4e775b85-3a56-48c6-b1e0-7b1c5c46c75d.jpg" height="20px">
-				<a href="https://github.com/vvh0ame/jc_quotes.py"> jc_quotes.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://lucifer-quotes.vercel.app/images/banner.png" height="20px">
-				<a href="https://github.com/vvh0ame/lucifer_quotes.py"> lucifer_quotes.py </a> </td>
-			<td>
-				<img src="https://coffee.alexflipnote.dev/assets/profile.png" height="20px">
-				<a href="https://github.com/vvh0ame/coffee_api.py"> coffee_api.py </a> </td>
-			<td>
-				<img src="https://quokka.pics/images/logo.svg" height="20px">
-				<a href="https://github.com/vvh0ame/quokka_pics.py"> quokka_pics.py </a> </td>
-			<td>
-				<img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/d3a34aa5-b743-444c-9f27-2efe0bea7b9a.png" height="20px">
-				<a href="https://github.com/vvh0ame/testimonial_api.py"> testimonial_api.py </a> </td>
-			<td>
-				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
-				<a href="https://github.com/vvh0ame/yes_no.py.py"> yes_no.py </a> </td>
 		</tr>
 		<tr> <th colspan="5">Bash - 150</th> </tr>
 		<tr>
@@ -1198,6 +1028,175 @@
 				<img src="https://csfloat.com/assets/n-mini-logo.png" height="20px">
 				<a href="https://github.com/vvh0ame/cs_float.js"> cs_float.js </a> </td>
 		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/186207075-d7e83e9f-1739-442c-92d3-5a57daa2275d.svg" height="20px">
+				<a href="https://github.com/vvh0ame/federal_register.js"> federal_register.js </a> </td>
+			<td>
+				<img src="https://www.toribash.com/toribash_logo_big.png" height="20px">
+				<a href="https://github.com/vvh0ame/forum_toribash.py"> forum_toribash.py </a> </td>
+			<td>
+				<img src="https://i.imgur.com/9RGJ5Ea.png" height="20px">
+				<a href="https://github.com/vvh0ame/cat_facts.py"> cat_facts.py </a> </td>
+			<td>
+				<img src="https://randomfox.ca/logo.png" height="20px">
+				<a href="https://github.com/vvh0ame/random_fox.py"> random_fox.py </a> </td>
+			<td>
+				<img src="https://xkcd.com/s/0b7742.png" height="20px">
+				<a href="https://github.com/vvh0ame/xkcd.py"> xkcd.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://jservice.io/images/trebek.png" height="20px">
+				<a href="https://github.com/vvh0ame/jservice.py"> jservice.py </a> </td>
+			<td>
+				<img src="https://quizapi.io/storage/QuizApi_Logo_White.png" height="20px">
+				<a href="https://github.com/vvh0ame/quiz_api.py"> quiz_api.py </a> </td>
+			<td>
+				<img src="https://apis.guru/assets/images/logo.svg" height="20px">
+				<a href="https://github.com/vvh0ame/apis_guru.py"> apis_guru.py </a> </td>
+			<td>
+				<img src="https://macaddress.io/images/vertical-logo-black.png?v=2" height="20px">
+				<a href="https://github.com/vvh0ame/mac_address_io.py"> mac_address_io.py </a> </td>
+			<td>
+				<img src="https://proxykingdom.com/assets/images/brand.png" height="20px">
+				<a href="https://github.com/vvh0ame/proxy_kingdom.py"> proxy_kingdom.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://networkcalc.com/images/logo.png" height="20px">
+				<a href="https://github.com/vvh0ame/network_calc.py"> network_calc.py </a> </td>
+			<td>
+				<img src="https://ipbase.com/img/ipbase_logo.svg" height="20px">
+				<a href="https://github.com/vvh0ame/ip_base.py"> ip_base.py </a> </td>
+			<td>
+				<img src="https://www.domcop.com/openpagerank/assets/images/OpenPageRank.png" height="20px">
+				<a href="https://github.com/vvh0ame/open_page_rank.py"> open_page_rank.py </a> </td>
+			<td>
+				<img src="https://assets.whicdn.com/assets/weheartit-42e2538b2440ef84f47b25402883bb255ef589c10193a8b323892a0f718749ab.png" height="20px">
+				<a href="https://github.com/vvh0ame/we_heart_it.py"> we_heart_it.py </a> </td>
+			<td>
+				<img src="https://cdn.brawlify.com/front/Star.svg" height="20px">
+				<a href="https://github.com/vvh0ame/brawlify.py"> brawlify.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://anime777.ru/apple-icon-512x512.png" height="20px">
+				<a href="https://github.com/vvh0ame/anime777.py"> anime777.py </a> </td>
+			<td>
+				<img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Habitica_logo.png" height="20px">
+				<a href="https://github.com/vvh0ame/habitica.py"> habitica.py </a> </td>
+			<td>
+				<img src="https://fredemp3.ru/favicon.ico" height="20px">
+				<a href="https://github.com/vvh0ame/frede_mp3.py"> frede_mp3.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/WsGICIZQvP1eEx-TjN0TeWHWdpqENuV7lNIA-IYNu6rVHBlmM76mFVoWSIDxCxG3CA" height="20px">
+				<a href="https://github.com/vvh0ame/flapping_cage.py"> flapping_cage.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/Q5umRrv41VdUx9Pj7FBO_Ra8pHSchpsaivF9Ng0QTGZQT-DGJdu_EhnT8su_Tc7oi2Y" height="20px">
+				<a href="https://github.com/vvh0ame/flapping_multiplayer.py"> flapping_multiplayer.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/eWrjwwOC9YreoEiCKUTLA8fH5-dz3QCFH39A9S5u3APcZNpvYZ1mVxV5dvBWD1vc7L7x=w240-h480-rw" height="20px">
+				<a href="https://github.com/vvh0ame/my_apps_time.py"> my_apps_time.py </a> </td>
+			<td>
+				<img src="https://hyperkani.com/wp-content/uploads/2021/02/BomberLogo_BG_1_700px_tiny.png" height="20px">
+				<a href="https://github.com/vvh0ame/bomber_friends.py"> bomber_friends.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/200382040-8f549a49-80fd-497f-b88b-d52d2d67ba39.png" height="20px">
+				<a href="https://github.com/vvh0ame/shield_land.py"> shield_land.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/ZX-LIMGoP14MnT3cfLYL2BRh9FvojYipkkUgV1_t6qbGDecf0JH3dW_Ah4Trutc2KA" height="20px">
+				<a href="https://github.com/vvh0ame/brainly.py"> brainly.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/pKnaImaiY9nabDTkvBRcz15LPKVvMFukqDMeotHPCYRw4Ce0J1w5pYgHKYpf6-UTXQ=w240-h480-rw" height="20px">
+				<a href="https://github.com/vvh0ame/main.py"> main.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464586-25b1298e-a7fe-44e3-ac04-8a5563cab520.png" height="20px">
+				<a href="https://github.com/vvh0ame/magfi.py"> magfi.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464629-3d0961ed-3f4d-439a-b925-bb1f6a1a4a66.png" height="20px">
+				<a href="https://github.com/vvh0ame/black_russia.py"> black_russia.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464609-77ad4870-c947-425f-97ee-09814380d2e3.png" height="20px">
+				<a href="https://github.com/vvh0ame/matreshka.py"> matreshka.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/iSNtfoXRWQMQDgU5COv877QvLLDwN4yJuAccG8M0MwtFYrZjQJZXRGVoU-Jt3w0FM89e" height="20px">
+				<a href="https://github.com/vvh0ame/world_noor.py"> world_noor.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464662-caf7ff2c-66c6-4c90-aca6-5d635ef44f01.png" height="20px">
+				<a href="https://github.com/vvh0ame/role_gate.py"> role_gate.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209464692-ba115d9e-ff65-4215-8498-6628e17d8367.png" height="20px">
+				<a href="https://github.com/vvh0ame/santrope_rp.py"> santrope_rp.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/209562868-089d20a0-3ca8-4071-8013-88fde3692e9a.png" height="20px">
+				<a href="https://github.com/vvh0ame/mordor_rp.py"> mordor_rp.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/210063603-3fbda69a-55f3-4210-b1b7-11be6fe1e7f2.png" height="20px">
+				<a href="https://github.com/vvh0ame/barvikha_rp.py"> barvikha_rp.py </a> </td>
+			<td>
+				<img src="https://play-lh.googleusercontent.com/aaGjX6qQAk2yc62CCg8VDddqPsEj3ELvA6SpX_SuXYVmQih77wUrUZm17-jMql-cmA" height="20px">
+				<a href="https://github.com/vvh0ame/bottled.py"> bottled.py </a> </td>
+			<td>
+				<img src="https://web-static-axlebolt.s3.eu-central-1.amazonaws.com/store/bg-hot-winter-party-logo.png" height="20px">
+				<a href="https://github.com/vvh0ame/store_standoff2.py"> store_standoff2.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://randommer.io/images/thumbnails/randommer.png" height="20px">
+				<a href="https://github.com/vvh0ame/randommer_io.py"> randommer_io.py </a> </td>
+			<td>
+				<img src="https://tiny.cc/public/images/newlogo.png" height="20px">
+				<a href="https://github.com/vvh0ame/tiny_url.py"> tiny_url.py </a> </td>
+			<td>
+				<img src="https://dictionaryapi.dev/favicon.ico" height="20px">
+				<a href="https://github.com/vvh0ame/free_dictionary_api.py"> free_dictionary_api.py </a> </td>
+			<td>
+				<img src="https://hindi-quotes.vercel.app/assets/quote.png" height="20px">
+				<a href="https://github.com/vvh0ame/hindi_quotes.py"> hindi_quotes.py </a> </td>
+			<td>
+				<img src="http://numbersapi.com/img/favicon.ico" height="20px">
+				<a href="https://github.com/vvh0ame/numbers_api.py"> numbers_api.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://riddles-api.vercel.app/assets/puzzle.png" height="20px">
+				<a href="https://github.com/vvh0ame/riddles_api.py"> riddles_api.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/213907111-e64296b0-0f28-4e84-b8d1-affd204f83a5.svg" height="20px">
+				<a href="https://github.com/vvh0ame/icon_finder.py"> icon_finder.py </a> </td>
+			<td>
+				<img src="https://goprogram.ai/favicon.ico" height="20px">
+				<a href="https://github.com/vvh0ame/go_program_ai.py"> go_program_ai.py </a> </td>
+			<td>
+				<img src="https://github.com/rocktimsaikia/anime-chan/raw/main/public/animechan_logo.png" height="20px">
+				<a href="https://github.com/vvh0ame/anime_chan.py"> anime_chan.py </a> </td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/77536370/213914668-4e775b85-3a56-48c6-b1e0-7b1c5c46c75d.jpg" height="20px">
+				<a href="https://github.com/vvh0ame/jc_quotes.py"> jc_quotes.py </a> </td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://lucifer-quotes.vercel.app/images/banner.png" height="20px">
+				<a href="https://github.com/vvh0ame/lucifer_quotes.py"> lucifer_quotes.py </a> </td>
+			<td>
+				<img src="https://coffee.alexflipnote.dev/assets/profile.png" height="20px">
+				<a href="https://github.com/vvh0ame/coffee_api.py"> coffee_api.py </a> </td>
+			<td>
+				<img src="https://quokka.pics/images/logo.svg" height="20px">
+				<a href="https://github.com/vvh0ame/quokka_pics.py"> quokka_pics.py </a> </td>
+			<td>
+				<img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/d3a34aa5-b743-444c-9f27-2efe0bea7b9a.png" height="20px">
+				<a href="https://github.com/vvh0ame/testimonial_api.py"> testimonial_api.py </a> </td>
+			<td>
+				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
+				<a href="https://github.com/vvh0ame/yes_no.py.py"> yes_no.py </a> </td>
 	</table>
 	</div>
 	<div>
