@@ -1054,47 +1054,47 @@
 				<a href="https://github.com/vvh0ame/quiz_api.js"> quiz_api.js </a> </td>
 			<td>
 				<img src="https://apis.guru/assets/images/logo.svg" height="20px">
-				<a href="https://github.com/vvh0ame/apis_guru.py"> apis_guru.js </a> </td>
+				<a href="https://github.com/vvh0ame/apis_guru.js"> apis_guru.js </a> </td>
 			<td>
 				<img src="https://macaddress.io/images/vertical-logo-black.png?v=2" height="20px">
-				<a href="https://github.com/vvh0ame/mac_address_io.py"> mac_address_io.js </a> </td>
+				<a href="https://github.com/vvh0ame/mac_address_io.js"> mac_address_io.js </a> </td>
 			<td>
 				<img src="https://proxykingdom.com/assets/images/brand.png" height="20px">
-				<a href="https://github.com/vvh0ame/proxy_kingdom.py"> proxy_kingdom.js </a> </td>
+				<a href="https://github.com/vvh0ame/proxy_kingdom.js"> proxy_kingdom.js </a> </td>
 		</tr>
 		<tr>
 			<td>
 				<img src="https://networkcalc.com/images/logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/network_calc.py"> network_calc.py </a> </td>
+				<a href="https://github.com/vvh0ame/network_calc.js"> network_calc.js </a> </td>
 			<td>
 				<img src="https://ipbase.com/img/ipbase_logo.svg" height="20px">
-				<a href="https://github.com/vvh0ame/ip_base.py"> ip_base.py </a> </td>
+				<a href="https://github.com/vvh0ame/ip_base.js"> ip_base.js </a> </td>
 			<td>
 				<img src="https://www.domcop.com/openpagerank/assets/images/OpenPageRank.png" height="20px">
-				<a href="https://github.com/vvh0ame/open_page_rank.py"> open_page_rank.py </a> </td>
+				<a href="https://github.com/vvh0ame/open_page_rank.js"> open_page_rank.js </a> </td>
 			<td>
-				<img src="https://assets.whicdn.com/assets/weheartit-42e2538b2440ef84f47b25402883bb255ef589c10193a8b323892a0f718749ab.png" height="20px">
-				<a href="https://github.com/vvh0ame/we_heart_it.py"> we_heart_it.py </a> </td>
+				<img src="https://weheartit.com/images/logo.svg" height="20px">
+				<a href="https://github.com/vvh0ame/we_heart_it.js"> we_heart_it.js </a> </td>
 			<td>
-				<img src="https://cdn.brawlify.com/front/Star.svg" height="20px">
-				<a href="https://github.com/vvh0ame/brawlify.py"> brawlify.py </a> </td>
+				<img src="https://cdn-misc.brawlify.com/front/Star.svg" height="20px">
+				<a href="https://github.com/vvh0ame/brawlify.js"> brawlify.js </a> </td>
 		</tr>
 		<tr>
 			<td>
 				<img src="https://anime777.ru/apple-icon-512x512.png" height="20px">
-				<a href="https://github.com/vvh0ame/anime777.py"> anime777.py </a> </td>
+				<a href="https://github.com/vvh0ame/anime777.js"> anime777.js </a> </td>
 			<td>
 				<img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Habitica_logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/habitica.py"> habitica.py </a> </td>
+				<a href="https://github.com/vvh0ame/habitica.js"> habitica.js </a> </td>
 			<td>
 				<img src="https://fredemp3.ru/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/frede_mp3.py"> frede_mp3.py </a> </td>
+				<a href="https://github.com/vvh0ame/frede_mp3.js"> frede_mp3.js </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/WsGICIZQvP1eEx-TjN0TeWHWdpqENuV7lNIA-IYNu6rVHBlmM76mFVoWSIDxCxG3CA" height="20px">
-				<a href="https://github.com/vvh0ame/flapping_cage.py"> flapping_cage.py </a> </td>
+				<a href="https://github.com/vvh0ame/flapping_cage.js"> flapping_cage.js </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/Q5umRrv41VdUx9Pj7FBO_Ra8pHSchpsaivF9Ng0QTGZQT-DGJdu_EhnT8su_Tc7oi2Y" height="20px">
-				<a href="https://github.com/vvh0ame/flapping_multiplayer.py"> flapping_multiplayer.py </a> </td>
+				<a href="https://github.com/vvh0ame/flapping_together.js"> flapping_together.js </a> </td>
 		</tr>
 		<tr>
 			<td>
