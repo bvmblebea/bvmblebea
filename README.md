@@ -1099,10 +1099,10 @@
 		<tr>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/eWrjwwOC9YreoEiCKUTLA8fH5-dz3QCFH39A9S5u3APcZNpvYZ1mVxV5dvBWD1vc7L7x=w240-h480-rw" height="20px">
-				<a href="https://github.com/vvh0ame/my_apps_time.py"> my_apps_time.py </a> </td>
+				<a href="https://github.com/vvh0ame/my_apps_time.js"> my_apps_time.js </a> </td>
 			<td>
 				<img src="https://hyperkani.com/wp-content/uploads/2021/02/BomberLogo_BG_1_700px_tiny.png" height="20px">
-				<a href="https://github.com/vvh0ame/bomber_friends.py"> bomber_friends.py </a> </td>
+				<a href="https://github.com/vvh0ame/bomber_friends.js"> bomber_friends.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/200382040-8f549a49-80fd-497f-b88b-d52d2d67ba39.png" height="20px">
 				<a href="https://github.com/vvh0ame/shield_land.py"> shield_land.py </a> </td>
