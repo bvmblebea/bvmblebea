@@ -1,6 +1,12 @@
 <body>
-	<div align="center">
-		<code> Development </code> 
+	<div align="left">
+		<h2> Stack </h2>
+		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+		<img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+		<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+		<img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3">
 	</div>
 	<div>
 	<table>
@@ -1198,14 +1204,5 @@
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
 				<a href="https://github.com/vvh0ame/yes_no.py.py"> yes_no.py </a> </td>
 	</table>
-	</div>
-	<div>
-		<h2 align="center"> Stack </h2>
-		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-		<img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-		<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-		<img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3">
 	</div>
 </body>
