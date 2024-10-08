@@ -1111,27 +1111,27 @@
 				<a href="https://github.com/vvh0ame/bomber_friends.js"> bomber_friends.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/200382040-8f549a49-80fd-497f-b88b-d52d2d67ba39.png" height="20px">
-				<a href="https://github.com/vvh0ame/shield_land.py"> shield_land.py </a> </td>
+				<a href="https://github.com/vvh0ame/shield_land.js"> shield_land.js </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/ZX-LIMGoP14MnT3cfLYL2BRh9FvojYipkkUgV1_t6qbGDecf0JH3dW_Ah4Trutc2KA" height="20px">
-				<a href="https://github.com/vvh0ame/brainly.py"> brainly.py </a> </td>
+				<a href="https://github.com/vvh0ame/brainly.js"> brainly.js </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/pKnaImaiY9nabDTkvBRcz15LPKVvMFukqDMeotHPCYRw4Ce0J1w5pYgHKYpf6-UTXQ=w240-h480-rw" height="20px">
-				<a href="https://github.com/vvh0ame/main.py"> main.py </a> </td>
+				<a href="https://github.com/vvh0ame/main.js"> main.js </a> </td>
 		</tr>
 		<tr>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464586-25b1298e-a7fe-44e3-ac04-8a5563cab520.png" height="20px">
-				<a href="https://github.com/vvh0ame/magfi.py"> magfi.py </a> </td>
+				<a href="https://github.com/vvh0ame/magfi.js"> magfi.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464629-3d0961ed-3f4d-439a-b925-bb1f6a1a4a66.png" height="20px">
-				<a href="https://github.com/vvh0ame/black_russia.py"> black_russia.py </a> </td>
+				<a href="https://github.com/vvh0ame/black_russia.js"> black_russia.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464609-77ad4870-c947-425f-97ee-09814380d2e3.png" height="20px">
-				<a href="https://github.com/vvh0ame/matreshka.py"> matreshka.py </a> </td>
+				<a href="https://github.com/vvh0ame/matreshka.js"> matreshka.js </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/iSNtfoXRWQMQDgU5COv877QvLLDwN4yJuAccG8M0MwtFYrZjQJZXRGVoU-Jt3w0FM89e" height="20px">
-				<a href="https://github.com/vvh0ame/world_noor.py"> world_noor.py </a> </td>
+				<a href="https://github.com/vvh0ame/world_noor.js"> world_noor.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464662-caf7ff2c-66c6-4c90-aca6-5d635ef44f01.png" height="20px">
 				<a href="https://github.com/vvh0ame/role_gate.py"> role_gate.py </a> </td>
