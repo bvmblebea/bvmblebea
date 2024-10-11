@@ -1156,53 +1156,53 @@
 		<tr>
 			<td>
 				<img src="https://randommer.io/images/thumbnails/randommer.png" height="20px">
-				<a href="https://github.com/vvh0ame/randommer_io.py"> randommer_io.py </a> </td>
+				<a href="https://github.com/vvh0ame/randommer_io.js"> randommer_io.js </a> </td>
 			<td>
 				<img src="https://tiny.cc/public/images/newlogo.png" height="20px">
-				<a href="https://github.com/vvh0ame/tiny_url.py"> tiny_url.py </a> </td>
+				<a href="https://github.com/vvh0ame/tiny_url.js"> tiny_url.js </a> </td>
 			<td>
 				<img src="https://dictionaryapi.dev/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/free_dictionary_api.py"> free_dictionary_api.py </a> </td>
+				<a href="https://github.com/vvh0ame/free_dictionary_api.js"> free_dictionary_api.js </a> </td>
 			<td>
 				<img src="https://hindi-quotes.vercel.app/assets/quote.png" height="20px">
-				<a href="https://github.com/vvh0ame/hindi_quotes.py"> hindi_quotes.py </a> </td>
+				<a href="https://github.com/vvh0ame/hindi_quotes.js"> hindi_quotes.js </a> </td>
 			<td>
 				<img src="http://numbersapi.com/img/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/numbers_api.py"> numbers_api.py </a> </td>
+				<a href="https://github.com/vvh0ame/numbers_api.js"> numbers_api.js </a> </td>
 		</tr>
 		<tr>
 			<td>
 				<img src="https://riddles-api.vercel.app/assets/puzzle.png" height="20px">
-				<a href="https://github.com/vvh0ame/riddles_api.py"> riddles_api.py </a> </td>
+				<a href="https://github.com/vvh0ame/riddles_api.js"> riddles_api.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/213907111-e64296b0-0f28-4e84-b8d1-affd204f83a5.svg" height="20px">
-				<a href="https://github.com/vvh0ame/icon_finder.py"> icon_finder.py </a> </td>
+				<a href="https://github.com/vvh0ame/icon_finder.js"> icon_finder.js </a> </td>
 			<td>
 				<img src="https://goprogram.ai/favicon.ico" height="20px">
-				<a href="https://github.com/vvh0ame/go_program_ai.py"> go_program_ai.py </a> </td>
+				<a href="https://github.com/vvh0ame/go_program_ai.js"> go_program_ai.js </a> </td>
 			<td>
-				<img src="https://github.com/rocktimsaikia/anime-chan/raw/main/public/animechan_logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/anime_chan.py"> anime_chan.py </a> </td>
+				<img src="https://animechan.io/_next/image?url=%2Flogo.png&w=640&q=75" height="20px">
+				<a href="https://github.com/vvh0ame/anime_chan.js"> anime_chan.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/213914668-4e775b85-3a56-48c6-b1e0-7b1c5c46c75d.jpg" height="20px">
-				<a href="https://github.com/vvh0ame/jc_quotes.py"> jc_quotes.py </a> </td>
+				<a href="https://github.com/vvh0ame/jc_quotes.js"> jc_quotes.js </a> </td>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://lucifer-quotes.vercel.app/images/banner.png" height="20px">
-				<a href="https://github.com/vvh0ame/lucifer_quotes.py"> lucifer_quotes.py </a> </td>
+				<img src="https://lucifer-quotes.vercel.app/images/favicon.png" height="20px">
+				<a href="https://github.com/vvh0ame/lucifer_quotes.js"> lucifer_quotes.js </a> </td>
 			<td>
 				<img src="https://coffee.alexflipnote.dev/assets/profile.png" height="20px">
-				<a href="https://github.com/vvh0ame/coffee_api.py"> coffee_api.py </a> </td>
+				<a href="https://github.com/vvh0ame/coffee_api.js"> coffee_api.js </a> </td>
 			<td>
 				<img src="https://quokka.pics/images/logo.svg" height="20px">
-				<a href="https://github.com/vvh0ame/quokka_pics.py"> quokka_pics.py </a> </td>
+				<a href="https://github.com/vvh0ame/quokka_pics.js"> quokka_pics.js </a> </td>
 			<td>
 				<img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/d3a34aa5-b743-444c-9f27-2efe0bea7b9a.png" height="20px">
-				<a href="https://github.com/vvh0ame/testimonial_api.py"> testimonial_api.py </a> </td>
+				<a href="https://github.com/vvh0ame/testimonial_api.js"> testimonial_api.js </a> </td>
 			<td>
 				<img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px">
-				<a href="https://github.com/vvh0ame/yes_no.py.py"> yes_no.py </a> </td>
+				<a href="https://github.com/vvh0ame/yes_no.js"> yes_no.js </a> </td>
 	</table>
 	</div>
 </body>
