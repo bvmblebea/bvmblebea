@@ -1134,24 +1134,24 @@
 				<a href="https://github.com/vvh0ame/world_noor.js"> world_noor.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464662-caf7ff2c-66c6-4c90-aca6-5d635ef44f01.png" height="20px">
-				<a href="https://github.com/vvh0ame/role_gate.py"> role_gate.py </a> </td>
+				<a href="https://github.com/vvh0ame/role_gate.py"> role_gate.js </a> </td>
 		</tr>
 		<tr>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209464692-ba115d9e-ff65-4215-8498-6628e17d8367.png" height="20px">
-				<a href="https://github.com/vvh0ame/santrope_rp.py"> santrope_rp.py </a> </td>
+				<a href="https://github.com/vvh0ame/santrope_rp.py"> santrope_rp.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/209562868-089d20a0-3ca8-4071-8013-88fde3692e9a.png" height="20px">
-				<a href="https://github.com/vvh0ame/mordor_rp.py"> mordor_rp.py </a> </td>
+				<a href="https://github.com/vvh0ame/mordor_rp.py"> mordor_rp.js </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/210063603-3fbda69a-55f3-4210-b1b7-11be6fe1e7f2.png" height="20px">
-				<a href="https://github.com/vvh0ame/barvikha_rp.py"> barvikha_rp.py </a> </td>
+				<a href="https://github.com/vvh0ame/barvikha_rp.py"> barvikha_rp.js </a> </td>
 			<td>
 				<img src="https://play-lh.googleusercontent.com/aaGjX6qQAk2yc62CCg8VDddqPsEj3ELvA6SpX_SuXYVmQih77wUrUZm17-jMql-cmA" height="20px">
-				<a href="https://github.com/vvh0ame/bottled.py"> bottled.py </a> </td>
+				<a href="https://github.com/vvh0ame/bottled.py"> bottled.js </a> </td>
 			<td>
 				<img src="https://web-static-axlebolt.s3.eu-central-1.amazonaws.com/store/bg-hot-winter-party-logo.png" height="20px">
-				<a href="https://github.com/vvh0ame/store_standoff2.py"> store_standoff2.py </a> </td>
+				<a href="https://github.com/vvh0ame/store_standoff2.py"> store_standoff2.js </a> </td>
 		</tr>
 		<tr>
 			<td>
